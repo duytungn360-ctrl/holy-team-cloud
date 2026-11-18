@@ -1,5 +1,5 @@
 {
-  "updatedAt": "18/11/2026 23:12:36",
+  "updatedAt": "18/11/2026 23:15:43",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "ota": {
     "version": "1.0.1",
@@ -63,6 +63,11 @@
       "revoked": false,
       "hwidHash": "bb615f3aa6e57dff40cbe8ba",
       "token": "eyJjdXN0b21lck5hbWUiOiIxMTEiLCJleHBpcmVzQXQiOjE4MjY1NTM1NjgsImh3aWQiOiJIVC1ENzVDLUYzOEItQTNGMiIsImlzc3VlZEF0IjoxNzk1MDE3NTgyLCJrZXkiOiJIVC1ZUi1FMTk1LTQwOEQiLCJ0aWVyIjoiWUVBUkxZIn0=.DWvuODlOyVGt6gxxTnqVfsxepIhbSvKz049vA2vB7gJA7UGKlHmOX6JxMDZSBOJWJiZRFCE-7facRJceUxqTCg=="
+    },
+    "HT-YR-9DAC-953B": {
+      "revoked": false,
+      "unbound": true,
+      "token": "eyJjdXN0b21lck5hbWUiOiJOaWlpIiwiZXhwaXJlc0F0IjoxODI2NTU0NTQzLCJod2lkIjoiRklSU1QtUEMiLCJpc3N1ZWRBdCI6MTc5NTAxODU0Mywia2V5IjoiSFQtWVItOURBQy05NTNCIiwidGllciI6IllFQVJMWSJ9.2tyZfr9KvqZYnnxmUtGo13l70DFCYesAgZmej1iStRowhBDHJ4WlQsMtEjIrNrDmUEL_hPqTIhREPfRuqPpdCw=="
     }
   },
   "hwidIndex": {
