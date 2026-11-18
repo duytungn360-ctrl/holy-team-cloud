@@ -1,13 +1,14 @@
 {
-  "updatedAt": "18/11/2026 23:16:10",
+  "updatedAt": "18/11/2026 23:23:20",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
+  "liveHubUrl": "",
   "ota": {
-    "version": "1.0.1",
-    "notes": "Chuẩn hóa màu Trắng Hồng Phấn Sữa khử sạch ám vàng đèn phòng (v1.0.1)",
-    "sha256": "82ce45b493e567b83b2d0c80a27f31d7d3c5985410ef496db9fbf0db77da7130",
-    "signature": "WNaXufEoevKc8q1WbiGLWRt2ZBQUAMLWCklBuQYLmgf6-J0ZXI4UkPseqpMIUGpBU6LSMKgVYAXoRfZct5Y3CQ==",
-    "sizeBytes": 14398206,
-    "publishedAt": "18/11/2026 23:11:51",
+    "version": "1.0.2",
+    "notes": "Bản v1.0.2: Khóa chặt cơ chế 1 Mã Key chỉ dùng được đúng 1 lần duy nhất (1/1)",
+    "sha256": "41c28a392a7711898f9dda987182b9017bad3842f2be8b54d469134ec23ed67c",
+    "signature": "fDdLUmK3nS5GGBqzODpviZJTaUXx3W-XT8yMd4_lxfBTX_H_J81sKxFajV2U9xQyEsVZPrztR4WfYnBIKXBIAQ==",
+    "sizeBytes": 14398441,
+    "publishedAt": "18/11/2026 23:22:15",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -15,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.1",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.1.exe",
-    "sha256": "0a4d6ff8aca2d8b341c41ac1021dcc88920bb664e2c1149046bf254cb566dc50",
-    "signature": "naL6uaF_3ToA0U7Xg9-Scgt6ugx_sFQhvmHNnbrebzKmpT9_D97av1--4W6syfogQ4KGXJgoKztV596Z1LfdBg==",
-    "sizeBytes": 106340366,
-    "notes": "Chuẩn hóa màu Trắng Hồng Phấn Sữa khử sạch ám vàng đèn phòng (v1.0.1)",
-    "publishedAt": "18/11/2026 23:12:35",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.1/HOLY-TEAM-Studio-Setup-1.0.1.exe"
+    "version": "1.0.2",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.2.exe",
+    "sha256": "559cda83dcf8b2fd841a3eadab47e32ee0f84eee9f2e59cbe1c4038a6d965040",
+    "signature": "A_tV4b1OfEkxmbM5OO7I1XoDRj1HNTEbA7XYOXjg4ZijvvyGGRWeb1sBinVXXZRxRGI1ETRA34XHq27OUq6JBg==",
+    "sizeBytes": 106341161,
+    "notes": "Bản v1.0.2: Khóa chặt cơ chế 1 Mã Key chỉ dùng được đúng 1 lần duy nhất (1/1)",
+    "publishedAt": "18/11/2026 23:23:18",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.2/HOLY-TEAM-Studio-Setup-1.0.2.exe"
   },
   "store": {
     "plans": [
@@ -62,12 +63,13 @@
     "HT-YR-E195-408D": {
       "revoked": false,
       "hwidHash": "bb615f3aa6e57dff40cbe8ba",
+      "usedOnce": false,
       "token": "eyJjdXN0b21lck5hbWUiOiIxMTEiLCJleHBpcmVzQXQiOjE4MjY1NTM1NjgsImh3aWQiOiJIVC1ENzVDLUYzOEItQTNGMiIsImlzc3VlZEF0IjoxNzk1MDE3NTgyLCJrZXkiOiJIVC1ZUi1FMTk1LTQwOEQiLCJ0aWVyIjoiWUVBUkxZIn0=.DWvuODlOyVGt6gxxTnqVfsxepIhbSvKz049vA2vB7gJA7UGKlHmOX6JxMDZSBOJWJiZRFCE-7facRJceUxqTCg=="
     },
     "HT-YR-9DAC-953B": {
       "revoked": false,
       "unbound": true,
-      "token": "eyJjdXN0b21lck5hbWUiOiJOaWlpIiwiZXhwaXJlc0F0IjoxODI2NTU0NTQzLCJod2lkIjoiRklSU1QtUEMiLCJpc3N1ZWRBdCI6MTc5NTAxODU3MCwia2V5IjoiSFQtWVItOURBQy05NTNCIiwidGllciI6IllFQVJMWSJ9.TCzr-UjjxC2RGqFtrNpTnC9kW4hVpPCHKVynVMhLKNkoNCN_dk5MsM1H7dI2_Hv3XhbGyRYJJDAsyukyi9PXAQ=="
+      "usedOnce": false
     }
   },
   "hwidIndex": {
