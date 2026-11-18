@@ -1,5 +1,5 @@
 {
-  "updatedAt": "18/11/2026 23:38:13",
+  "updatedAt": "18/11/2026 23:38:20",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "ota": {
     "version": "1.0.3",
@@ -67,12 +67,12 @@
     "HT-YR-9DAC-953B": {
       "revoked": false,
       "unbound": true,
-      "token": "eyJjdXN0b21lck5hbWUiOiJOaWlpIiwiZXhwaXJlc0F0IjoxODI2NTU0NTQzLCJod2lkIjoiRklSU1QtUEMiLCJpc3N1ZWRBdCI6MTc5NTAxOTg5Mywia2V5IjoiSFQtWVItOURBQy05NTNCIiwidGllciI6IllFQVJMWSJ9.C6PWCKmNQV6HbOwhGcJhCzifeBxvWBkpxeh4e60fML4wFaiqTujqLqlpPelChcgfidLtnzC_X6ktbOzTt_x6Aw=="
+      "token": "eyJjdXN0b21lck5hbWUiOiJOaWlpIiwiZXhwaXJlc0F0IjoxODI2NTU0NTQzLCJod2lkIjoiRklSU1QtUEMiLCJpc3N1ZWRBdCI6MTc5NTAxOTkwMCwia2V5IjoiSFQtWVItOURBQy05NTNCIiwidGllciI6IllFQVJMWSJ9.SoR--3YMPZK2FgmqpbkObnBR4A3gebFzLMuENNbty4aMT6tQWg2ANWqmTibDWdW5Jj1ybOMU_ohnLF7DeX_VDA=="
     },
     "HT-YR-9F14-452D": {
       "revoked": false,
       "unbound": true,
-      "token": "eyJjdXN0b21lck5hbWUiOiJuaWkiLCJleHBpcmVzQXQiOjE4MjY1NTU4OTMsImh3aWQiOiJGSVJTVC1QQyIsImlzc3VlZEF0IjoxNzk1MDE5ODkzLCJrZXkiOiJIVC1ZUi05RjE0LTQ1MkQiLCJ0aWVyIjoiWUVBUkxZIn0=.aArxcEclw1ApjsZcjtkUDxrWir1pQmYQiiS7O8d8FcRJsWetKJrYUhx25vazNYmjGj0WqVuANk4qqVrYyl5ECg=="
+      "token": "eyJjdXN0b21lck5hbWUiOiJuaWkiLCJleHBpcmVzQXQiOjE4MjY1NTU4OTMsImh3aWQiOiJGSVJTVC1QQyIsImlzc3VlZEF0IjoxNzk1MDE5OTAwLCJrZXkiOiJIVC1ZUi05RjE0LTQ1MkQiLCJ0aWVyIjoiWUVBUkxZIn0=.SitT_XlfaMZX-blzdzZor8xj--LF1uFK1qdFWcYU_nzsaBSIP_8uJJB-hHzVSUtrf1hS0ZS_FEmDdFnrRfTtDg=="
     }
   },
   "hwidIndex": {
