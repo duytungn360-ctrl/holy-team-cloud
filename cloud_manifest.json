@@ -1,0 +1,92 @@
+{
+  "updatedAt": "18/11/2026 22:52:53",
+  "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
+  "ota": {
+    "version": "1.0.0",
+    "notes": "Khởi tạo hệ thống Tự Động Cập Nhật Đám Mây 24/7",
+    "sha256": "1fedae0f429a0cd6d82b1da0670d247d1d262f2c08089d293606008995914638",
+    "signature": "5Ru17oPb_9upT-9xQwC5gnmoVONoi45v0fhZYDRSbWX7qN7rrzYzDkmkAOpdxi4uuDpTaOQFYVSZCC-vcnkiBA==",
+    "sizeBytes": 14397658,
+    "publishedAt": "18/11/2026 22:50:37",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip"
+  },
+  "installer": {
+    "version": "1.0.0",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.0.exe",
+    "sha256": "1d01bd226059ec5843aa846c260d45d429717723b0410cedaf248002241a70ab",
+    "signature": "rk7e6a3ToafEOZNr6fqOpn-052IbAFG65CI_nU4OAZhi_UVFfO2pr8I6_po4fn7o7kcK_OEqkwolYb2eg3KbCA==",
+    "sizeBytes": 106338996,
+    "notes": "Initial v1.0.0",
+    "publishedAt": "18/11/2026 22:44:19",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.0/HOLY-TEAM-Studio-Setup-1.0.0.exe"
+  },
+  "store": {
+    "plans": [
+      {
+        "tier": "MONTHLY",
+        "name": "VIP 1 Tháng",
+        "days": 30,
+        "price": 299000,
+        "badge": "KHỞI ĐẦU",
+        "desc": "Mở khóa full làm đẹp Trắng Hồng, Bóp mặt 3D, Bắt Quà AR & Xóa Watermark"
+      },
+      {
+        "tier": "YEARLY",
+        "name": "VIP 1 Năm",
+        "days": 365,
+        "price": 1990000,
+        "badge": "PHỔ BIẾN NHẤT",
+        "desc": "Tiết kiệm 45% • Tự động cập nhật mọi hiệu ứng Quà AR & màu mới cả năm"
+      },
+      {
+        "tier": "LIFETIME",
+        "name": "SVIP Vĩnh Viễn",
+        "days": 36500,
+        "price": 3990000,
+        "badge": "TRỌN ĐỜI",
+        "desc": "Mua 1 lần dùng mãi mãi theo máy • Ưu tiên hỗ trợ kỹ thuật VIP 1-1"
+      }
+    ],
+    "bank": {
+      "bankId": "MB",
+      "accountNo": "8888888888",
+      "accountName": "HOLY TEAM STUDIO",
+      "zaloContact": "Zalo Hỗ Trợ Kỹ Thuật HOLY TEAM"
+    }
+  },
+  "keys": {
+    "HT-VIP-8888-HOLY-TEAM": {
+      "revoked": false,
+      "unbound": true,
+      "token": "eyJjdXN0b21lck5hbWUiOiJJZG9sIFZJUCBEZW1vIChHXHUwMGYzaSBWXHUwMTI5bmggVmlcdTFlYzVuKSIsImV4cGlyZXNBdCI6NDk0ODYxNzE3MywiaHdpZCI6IkZJUlNULVBDIiwiaXNzdWVkQXQiOjE3OTUwMTcxNzMsImtleSI6IkhULVZJUC04ODg4LUhPTFktVEVBTSIsInRpZXIiOiJMSUZFVElNRSJ9.DGMixNLZhG5XjQLsJtoXZZUBnfKGLfqst39KuqdESOc9vq_4ADkgZUwREF_Y97-vV6XgOBr3GGnEnH9JmVKsBw=="
+    },
+    "HT-PRO-30D-TIKTOK-99": {
+      "revoked": false,
+      "unbound": true,
+      "token": "eyJjdXN0b21lck5hbWUiOiJJZG9sIFBoXHUwMGYybmcgVHJcdTAwZTAgKEdcdTAwZjNpIDMwIE5nXHUwMGUweSkiLCJleHBpcmVzQXQiOjE3OTc2MDkxNzMsImh3aWQiOiJGSVJTVC1QQyIsImlzc3VlZEF0IjoxNzk1MDE3MTczLCJrZXkiOiJIVC1QUk8tMzBELVRJS1RPSy05OSIsInRpZXIiOiJNT05USExZIn0=.D-7e7jxfEwxLHNt818PxnWRdqW3FB2pVNL9SSLgLCTs-J27bO9Bc4vfBhcbrpdP0JmQiE-Od9Vu76IysZoF9CQ=="
+    },
+    "HT-VIP-F485-5B5E-HOLY": {
+      "revoked": false,
+      "hwidHash": "bb615f3aa6e57dff40cbe8ba",
+      "token": "eyJjdXN0b21lck5hbWUiOiJBbmggQ2h1IEhPTFkgVEVBTSAoTWFzdGVyIFZJUCkiLCJleHBpcmVzQXQiOjQ5NDg1OTcxMzgsImh3aWQiOiJIVC1ENzVDLUYzOEItQTNGMiIsImlzc3VlZEF0IjoxNzk0OTk3MTM4LCJrZXkiOiJIVC1WSVAtRjQ4NS01QjVFLUhPTFkiLCJ0aWVyIjoiTElGRVRJTUUifQ==._AoIbFf6_-cJODGotkeFDAl5jnIGR6FGOQupeK8PTJBsXoA66Dt1VvC5Vk-EhoWuT25A7T5hiCe6TdfObwGqCw=="
+    },
+    "HT-VIP-C7DE-4838-HOLY": {
+      "revoked": false,
+      "unbound": true,
+      "token": "eyJjdXN0b21lck5hbWUiOiJhZG0iLCJleHBpcmVzQXQiOjQ5NDg2MTcxNzMsImh3aWQiOiJGSVJTVC1QQyIsImlzc3VlZEF0IjoxNzk1MDE3MTczLCJrZXkiOiJIVC1WSVAtQzdERS00ODM4LUhPTFkiLCJ0aWVyIjoiTElGRVRJTUUifQ==.OFJsIwFo-RKFvxHbEUkqtS8Jjjiv81UplqpKeVmnUME46a0wHsBgo6GdcwYZYt4Z7nJuGZbw6CtjXBT-4E_eAw=="
+    },
+    "HT-TEST-9999-SVIP": {
+      "revoked": false,
+      "unbound": true,
+      "token": "eyJjdXN0b21lck5hbWUiOiJLZXkgVGVzdCBNXHUwMGUxeSBJZG9sIChDaFx1MDFiMGEgY1x1MWVhN24gSFdJRCkiLCJleHBpcmVzQXQiOjQ5NDg2MTU4NzEsImh3aWQiOiJGSVJTVC1QQyIsImlzc3VlZEF0IjoxNzk1MDE3MTczLCJrZXkiOiJIVC1URVNULTk5OTktU1ZJUCIsInRpZXIiOiJMSUZFVElNRSJ9.IRQ6VuXv-4xMoDvzCClqsHCNRjEE55-FP36P4OZwoyLEtD6-OwbfHFITHf99T4JuymCZZY1Rm2Koxz3wXDayCQ=="
+    },
+    "HT-YR-4A2A-30F0": {
+      "revoked": false,
+      "unbound": true,
+      "token": "eyJjdXN0b21lck5hbWUiOiIxMjEyMSIsImV4cGlyZXNBdCI6MTgyNjU1MzE3MywiaHdpZCI6IkZJUlNULVBDIiwiaXNzdWVkQXQiOjE3OTUwMTcxNzMsImtleSI6IkhULVlSLTRBMkEtMzBGMCIsInRpZXIiOiJZRUFSTFkifQ==.p17BPEVN92HWHnUuFFP9BgcPdi4KrzgtCmG3o-fp-LoHdlfXZchpYIARjyxr0SY0IoS2MKNVXSpk5NYvXnydCg=="
+    }
+  },
+  "hwidIndex": {
+    "bb615f3aa6e57dff40cbe8ba": "HT-VIP-F485-5B5E-HOLY"
+  }
+}
