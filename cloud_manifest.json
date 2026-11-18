@@ -1,5 +1,5 @@
 {
-  "updatedAt": "18/11/2026 22:58:50",
+  "updatedAt": "18/11/2026 22:58:53",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "ota": {
     "version": "1.0.0",
@@ -59,15 +59,10 @@
     }
   },
   "keys": {
-    "HT-VIP-8888-HOLY-TEAM": {
-      "revoked": false,
-      "unbound": true,
-      "token": "eyJjdXN0b21lck5hbWUiOiJJZG9sIFZJUCBEZW1vIChHXHUwMGYzaSBWXHUwMTI5bmggVmlcdTFlYzVuKSIsImV4cGlyZXNBdCI6NDk0ODYxNzUzMCwiaHdpZCI6IkZJUlNULVBDIiwiaXNzdWVkQXQiOjE3OTUwMTc1MzAsImtleSI6IkhULVZJUC04ODg4LUhPTFktVEVBTSIsInRpZXIiOiJMSUZFVElNRSJ9.aGaElhzyA--mG8dqQ8AVrEsm3MT_UfCloPjv2D76LCC5nnRYfYm-sCeWHiTEzDVjdbtJXX00f13vRrXtlaFQCw=="
-    },
     "HT-TEST-9999-SVIP": {
       "revoked": false,
       "unbound": true,
-      "token": "eyJjdXN0b21lck5hbWUiOiJLZXkgVGVzdCBNXHUwMGUxeSBJZG9sIChDaFx1MDFiMGEgY1x1MWVhN24gSFdJRCkiLCJleHBpcmVzQXQiOjQ5NDg2MTU4NzEsImh3aWQiOiJGSVJTVC1QQyIsImlzc3VlZEF0IjoxNzk1MDE3NTMwLCJrZXkiOiJIVC1URVNULTk5OTktU1ZJUCIsInRpZXIiOiJMSUZFVElNRSJ9.6BobL34tjsJGzBQ_Q48nzDYje22dmZ2lZTpHgshTSIQt1E4oE2q8XMo1I0TqTOaVBPt3DQrVRfzk775o36gJBQ=="
+      "token": "eyJjdXN0b21lck5hbWUiOiJLZXkgVGVzdCBNXHUwMGUxeSBJZG9sIChDaFx1MDFiMGEgY1x1MWVhN24gSFdJRCkiLCJleHBpcmVzQXQiOjQ5NDg2MTU4NzEsImh3aWQiOiJGSVJTVC1QQyIsImlzc3VlZEF0IjoxNzk1MDE3NTMzLCJrZXkiOiJIVC1URVNULTk5OTktU1ZJUCIsInRpZXIiOiJMSUZFVElNRSJ9.nuU8gW2358klj43fPgIx8hSpI7wNd0uhHlc4SWniAt8wOyus_5sofpBN8cwh8wu1jkhe2irRcVd-olg1CEXZAw=="
     }
   },
   "hwidIndex": {}
