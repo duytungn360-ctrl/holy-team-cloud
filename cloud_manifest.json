@@ -1,14 +1,14 @@
 {
-  "updatedAt": "18/11/2026 23:23:20",
+  "updatedAt": "18/11/2026 23:28:44",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "",
   "ota": {
-    "version": "1.0.2",
-    "notes": "Bản v1.0.2: Khóa chặt cơ chế 1 Mã Key chỉ dùng được đúng 1 lần duy nhất (1/1)",
-    "sha256": "41c28a392a7711898f9dda987182b9017bad3842f2be8b54d469134ec23ed67c",
-    "signature": "fDdLUmK3nS5GGBqzODpviZJTaUXx3W-XT8yMd4_lxfBTX_H_J81sKxFajV2U9xQyEsVZPrztR4WfYnBIKXBIAQ==",
-    "sizeBytes": 14398441,
-    "publishedAt": "18/11/2026 23:22:15",
+    "version": "1.0.3",
+    "notes": "Bản v1.0.3: Chế độ an toàn phòng Live — Chỉ cập nhật khi Idol chủ động ấn nút Cập Nhật Ngay",
+    "sha256": "2def60cc1e6db17708b9d43983b35717f10bb8bf7f1e07bd8fb3647c4371b325",
+    "signature": "cdO-uWHEMTdSeIsHILDrQ2KTvOC8UF_dSdKDyx2Z_fKPYOSbNILOPRbzobjCtelnrL9cJO4G8_-Gl2Ny75XHAQ==",
+    "sizeBytes": 14399066,
+    "publishedAt": "18/11/2026 23:27:56",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.2",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.2.exe",
-    "sha256": "559cda83dcf8b2fd841a3eadab47e32ee0f84eee9f2e59cbe1c4038a6d965040",
-    "signature": "A_tV4b1OfEkxmbM5OO7I1XoDRj1HNTEbA7XYOXjg4ZijvvyGGRWeb1sBinVXXZRxRGI1ETRA34XHq27OUq6JBg==",
-    "sizeBytes": 106341161,
-    "notes": "Bản v1.0.2: Khóa chặt cơ chế 1 Mã Key chỉ dùng được đúng 1 lần duy nhất (1/1)",
-    "publishedAt": "18/11/2026 23:23:18",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.2/HOLY-TEAM-Studio-Setup-1.0.2.exe"
+    "version": "1.0.3",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.3.exe",
+    "sha256": "c24b9d70e34ab5d8fc263729856b00ec95e3325d74ee4bb59f3c554431bd1c37",
+    "signature": "2QlLhHQANUqhSQhQPjtIyylCiFJ9H2YB2xJtLJnF1bFpcFWzfN20Kf2g4A9wsE_vtz53nbsvkOfNd_KQnhiQDQ==",
+    "sizeBytes": 106341861,
+    "notes": "Bản v1.0.3: Chế độ an toàn phòng Live — Chỉ cập nhật khi Idol chủ động ấn nút Cập Nhật Ngay",
+    "publishedAt": "18/11/2026 23:28:43",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.3/HOLY-TEAM-Studio-Setup-1.0.3.exe"
   },
   "store": {
     "plans": [
