@@ -1,7 +1,6 @@
 {
-  "updatedAt": "18/11/2026 23:28:44",
+  "updatedAt": "18/11/2026 23:38:13",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
-  "liveHubUrl": "",
   "ota": {
     "version": "1.0.3",
     "notes": "Bản v1.0.3: Chế độ an toàn phòng Live — Chỉ cập nhật khi Idol chủ động ấn nút Cập Nhật Ngay",
@@ -63,13 +62,17 @@
     "HT-YR-E195-408D": {
       "revoked": false,
       "hwidHash": "bb615f3aa6e57dff40cbe8ba",
-      "usedOnce": false,
       "token": "eyJjdXN0b21lck5hbWUiOiIxMTEiLCJleHBpcmVzQXQiOjE4MjY1NTM1NjgsImh3aWQiOiJIVC1ENzVDLUYzOEItQTNGMiIsImlzc3VlZEF0IjoxNzk1MDE3NTgyLCJrZXkiOiJIVC1ZUi1FMTk1LTQwOEQiLCJ0aWVyIjoiWUVBUkxZIn0=.DWvuODlOyVGt6gxxTnqVfsxepIhbSvKz049vA2vB7gJA7UGKlHmOX6JxMDZSBOJWJiZRFCE-7facRJceUxqTCg=="
     },
     "HT-YR-9DAC-953B": {
       "revoked": false,
       "unbound": true,
-      "usedOnce": false
+      "token": "eyJjdXN0b21lck5hbWUiOiJOaWlpIiwiZXhwaXJlc0F0IjoxODI2NTU0NTQzLCJod2lkIjoiRklSU1QtUEMiLCJpc3N1ZWRBdCI6MTc5NTAxOTg5Mywia2V5IjoiSFQtWVItOURBQy05NTNCIiwidGllciI6IllFQVJMWSJ9.C6PWCKmNQV6HbOwhGcJhCzifeBxvWBkpxeh4e60fML4wFaiqTujqLqlpPelChcgfidLtnzC_X6ktbOzTt_x6Aw=="
+    },
+    "HT-YR-9F14-452D": {
+      "revoked": false,
+      "unbound": true,
+      "token": "eyJjdXN0b21lck5hbWUiOiJuaWkiLCJleHBpcmVzQXQiOjE4MjY1NTU4OTMsImh3aWQiOiJGSVJTVC1QQyIsImlzc3VlZEF0IjoxNzk1MDE5ODkzLCJrZXkiOiJIVC1ZUi05RjE0LTQ1MkQiLCJ0aWVyIjoiWUVBUkxZIn0=.aArxcEclw1ApjsZcjtkUDxrWir1pQmYQiiS7O8d8FcRJsWetKJrYUhx25vazNYmjGj0WqVuANk4qqVrYyl5ECg=="
     }
   },
   "hwidIndex": {
