@@ -1,5 +1,5 @@
 {
-  "updatedAt": "18/11/2026 23:15:43",
+  "updatedAt": "18/11/2026 23:16:10",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "ota": {
     "version": "1.0.1",
@@ -67,7 +67,7 @@
     "HT-YR-9DAC-953B": {
       "revoked": false,
       "unbound": true,
-      "token": "eyJjdXN0b21lck5hbWUiOiJOaWlpIiwiZXhwaXJlc0F0IjoxODI2NTU0NTQzLCJod2lkIjoiRklSU1QtUEMiLCJpc3N1ZWRBdCI6MTc5NTAxODU0Mywia2V5IjoiSFQtWVItOURBQy05NTNCIiwidGllciI6IllFQVJMWSJ9.2tyZfr9KvqZYnnxmUtGo13l70DFCYesAgZmej1iStRowhBDHJ4WlQsMtEjIrNrDmUEL_hPqTIhREPfRuqPpdCw=="
+      "token": "eyJjdXN0b21lck5hbWUiOiJOaWlpIiwiZXhwaXJlc0F0IjoxODI2NTU0NTQzLCJod2lkIjoiRklSU1QtUEMiLCJpc3N1ZWRBdCI6MTc5NTAxODU3MCwia2V5IjoiSFQtWVItOURBQy05NTNCIiwidGllciI6IllFQVJMWSJ9.TCzr-UjjxC2RGqFtrNpTnC9kW4hVpPCHKVynVMhLKNkoNCN_dk5MsM1H7dI2_Hv3XhbGyRYJJDAsyukyi9PXAQ=="
     }
   },
   "hwidIndex": {
