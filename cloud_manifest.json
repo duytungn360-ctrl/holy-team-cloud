@@ -1,5 +1,5 @@
 {
-  "updatedAt": "19/11/2026 00:06:50",
+  "updatedAt": "19/11/2026 00:07:15",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://cut-generated-reads-marker.trycloudflare.com",
   "ota": {
@@ -61,10 +61,9 @@
   },
   "keys": {
     "HT-YR-E195-408D": {
-      "revoked": false,
+      "revoked": true,
       "hwidHash": "bb615f3aa6e57dff40cbe8ba",
-      "usedOnce": false,
-      "token": "eyJjdXN0b21lck5hbWUiOiIxMTEiLCJleHBpcmVzQXQiOjE4MjY1NTM1NjgsImh3aWQiOiJIVC1ENzVDLUYzOEItQTNGMiIsImlzc3VlZEF0IjoxNzk1MDE3NTgyLCJrZXkiOiJIVC1ZUi1FMTk1LTQwOEQiLCJ0aWVyIjoiWUVBUkxZIn0=.DWvuODlOyVGt6gxxTnqVfsxepIhbSvKz049vA2vB7gJA7UGKlHmOX6JxMDZSBOJWJiZRFCE-7facRJceUxqTCg=="
+      "usedOnce": false
     },
     "HT-YR-9DAC-953B": {
       "revoked": false,
@@ -77,7 +76,5 @@
       "usedOnce": false
     }
   },
-  "hwidIndex": {
-    "bb615f3aa6e57dff40cbe8ba": "HT-YR-E195-408D"
-  }
+  "hwidIndex": {}
 }
