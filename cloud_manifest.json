@@ -1,7 +1,7 @@
 {
-  "updatedAt": "18/11/2026 23:48:19",
+  "updatedAt": "19/11/2026 00:06:50",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
-  "liveHubUrl": "https://bristol-silly-atomic-region.trycloudflare.com",
+  "liveHubUrl": "https://cut-generated-reads-marker.trycloudflare.com",
   "ota": {
     "version": "1.0.4",
     "notes": "Bản v1.0.4: Bổ sung tab Chế Độ Chỉnh Màu Sắc Chuyên Sâu 8 kênh (Nhiệt độ màu, Sắc tố Hồng, Phơi sáng, Tương phản, Tươi màu, Chống cháy sáng & Mở vùng tối)",
