@@ -1,5 +1,5 @@
 {
-  "updatedAt": "18/11/2026 22:58:53",
+  "updatedAt": "18/11/2026 22:58:55",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "ota": {
     "version": "1.0.0",
@@ -58,12 +58,6 @@
       "zaloContact": "Zalo Hỗ Trợ Kỹ Thuật HOLY TEAM"
     }
   },
-  "keys": {
-    "HT-TEST-9999-SVIP": {
-      "revoked": false,
-      "unbound": true,
-      "token": "eyJjdXN0b21lck5hbWUiOiJLZXkgVGVzdCBNXHUwMGUxeSBJZG9sIChDaFx1MDFiMGEgY1x1MWVhN24gSFdJRCkiLCJleHBpcmVzQXQiOjQ5NDg2MTU4NzEsImh3aWQiOiJGSVJTVC1QQyIsImlzc3VlZEF0IjoxNzk1MDE3NTMzLCJrZXkiOiJIVC1URVNULTk5OTktU1ZJUCIsInRpZXIiOiJMSUZFVElNRSJ9.nuU8gW2358klj43fPgIx8hSpI7wNd0uhHlc4SWniAt8wOyus_5sofpBN8cwh8wu1jkhe2irRcVd-olg1CEXZAw=="
-    }
-  },
+  "keys": {},
   "hwidIndex": {}
 }
