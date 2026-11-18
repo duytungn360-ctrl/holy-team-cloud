@@ -1,13 +1,14 @@
 {
-  "updatedAt": "18/11/2026 23:38:20",
+  "updatedAt": "18/11/2026 23:42:23",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
+  "liveHubUrl": "",
   "ota": {
-    "version": "1.0.3",
-    "notes": "Bản v1.0.3: Chế độ an toàn phòng Live — Chỉ cập nhật khi Idol chủ động ấn nút Cập Nhật Ngay",
-    "sha256": "2def60cc1e6db17708b9d43983b35717f10bb8bf7f1e07bd8fb3647c4371b325",
-    "signature": "cdO-uWHEMTdSeIsHILDrQ2KTvOC8UF_dSdKDyx2Z_fKPYOSbNILOPRbzobjCtelnrL9cJO4G8_-Gl2Ny75XHAQ==",
-    "sizeBytes": 14399066,
-    "publishedAt": "18/11/2026 23:27:56",
+    "version": "1.0.4",
+    "notes": "Bản v1.0.4: Bổ sung tab Chế Độ Chỉnh Màu Sắc Chuyên Sâu 8 kênh (Nhiệt độ màu, Sắc tố Hồng, Phơi sáng, Tương phản, Tươi màu, Chống cháy sáng & Mở vùng tối)",
+    "sha256": "5bf9f520b8b0f5974046dbf8d52ba14d23b5450a7934f5601ce53809ba9e7416",
+    "signature": "LHgHDT37WKiDsCP1x1CY6Wo64ZZ3GqpuJzMk0oO0lPVpXzUAkSWGq0iZ69q1dJZA74NOrY182zm-pSun0GT_Bw==",
+    "sizeBytes": 14401978,
+    "publishedAt": "18/11/2026 23:39:39",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -15,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.3",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.3.exe",
-    "sha256": "c24b9d70e34ab5d8fc263729856b00ec95e3325d74ee4bb59f3c554431bd1c37",
-    "signature": "2QlLhHQANUqhSQhQPjtIyylCiFJ9H2YB2xJtLJnF1bFpcFWzfN20Kf2g4A9wsE_vtz53nbsvkOfNd_KQnhiQDQ==",
-    "sizeBytes": 106341861,
-    "notes": "Bản v1.0.3: Chế độ an toàn phòng Live — Chỉ cập nhật khi Idol chủ động ấn nút Cập Nhật Ngay",
-    "publishedAt": "18/11/2026 23:28:43",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.3/HOLY-TEAM-Studio-Setup-1.0.3.exe"
+    "version": "1.0.4",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.4.exe",
+    "sha256": "3fd78a190c3a3703a59084a47d1ab8a762ca724585e20f5e6e78f9f8436207c9",
+    "signature": "iSpf2uWi9N0M5XppWar4I9S3XXYNAJXqg38Fjhy46U8XLodWiqI7mUn_qNxwOFIGyDk3Nu3WyMg9TjTaX2sMBQ==",
+    "sizeBytes": 106345312,
+    "notes": "Bản v1.0.4: Bổ sung tab Chế Độ Chỉnh Màu Sắc Chuyên Sâu 8 kênh (Nhiệt độ màu, Sắc tố Hồng, Phơi sáng, Tương phản, Tươi màu, Chống cháy sáng & Mở vùng tối)",
+    "publishedAt": "18/11/2026 23:42:21",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.4/HOLY-TEAM-Studio-Setup-1.0.4.exe"
   },
   "store": {
     "plans": [
@@ -62,17 +63,18 @@
     "HT-YR-E195-408D": {
       "revoked": false,
       "hwidHash": "bb615f3aa6e57dff40cbe8ba",
+      "usedOnce": false,
       "token": "eyJjdXN0b21lck5hbWUiOiIxMTEiLCJleHBpcmVzQXQiOjE4MjY1NTM1NjgsImh3aWQiOiJIVC1ENzVDLUYzOEItQTNGMiIsImlzc3VlZEF0IjoxNzk1MDE3NTgyLCJrZXkiOiJIVC1ZUi1FMTk1LTQwOEQiLCJ0aWVyIjoiWUVBUkxZIn0=.DWvuODlOyVGt6gxxTnqVfsxepIhbSvKz049vA2vB7gJA7UGKlHmOX6JxMDZSBOJWJiZRFCE-7facRJceUxqTCg=="
     },
     "HT-YR-9DAC-953B": {
       "revoked": false,
       "unbound": true,
-      "token": "eyJjdXN0b21lck5hbWUiOiJOaWlpIiwiZXhwaXJlc0F0IjoxODI2NTU0NTQzLCJod2lkIjoiRklSU1QtUEMiLCJpc3N1ZWRBdCI6MTc5NTAxOTkwMCwia2V5IjoiSFQtWVItOURBQy05NTNCIiwidGllciI6IllFQVJMWSJ9.SoR--3YMPZK2FgmqpbkObnBR4A3gebFzLMuENNbty4aMT6tQWg2ANWqmTibDWdW5Jj1ybOMU_ohnLF7DeX_VDA=="
+      "usedOnce": false
     },
     "HT-YR-9F14-452D": {
       "revoked": false,
       "unbound": true,
-      "token": "eyJjdXN0b21lck5hbWUiOiJuaWkiLCJleHBpcmVzQXQiOjE4MjY1NTU4OTMsImh3aWQiOiJGSVJTVC1QQyIsImlzc3VlZEF0IjoxNzk1MDE5OTAwLCJrZXkiOiJIVC1ZUi05RjE0LTQ1MkQiLCJ0aWVyIjoiWUVBUkxZIn0=.SitT_XlfaMZX-blzdzZor8xj--LF1uFK1qdFWcYU_nzsaBSIP_8uJJB-hHzVSUtrf1hS0ZS_FEmDdFnrRfTtDg=="
+      "usedOnce": false
     }
   },
   "hwidIndex": {
