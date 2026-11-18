@@ -1,13 +1,13 @@
 {
-  "updatedAt": "18/11/2026 22:59:28",
+  "updatedAt": "18/11/2026 23:12:36",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "ota": {
-    "version": "1.0.0",
-    "notes": "Khởi tạo hệ thống Tự Động Cập Nhật Đám Mây 24/7",
-    "sha256": "12276ed14cf4ae70acdb942c2bcab51b294ecb4a501a3278ce2bc99cb3185130",
-    "signature": "qQuCNFD6Y29-FA4Db4ygDiewaN2-UYJbewPWVVKfXQsCH6lezqRAsmLQkjqFGHwVkfvOfydsDfynnd2-vtD9CQ==",
-    "sizeBytes": 14398063,
-    "publishedAt": "18/11/2026 22:53:29",
+    "version": "1.0.1",
+    "notes": "Chuẩn hóa màu Trắng Hồng Phấn Sữa khử sạch ám vàng đèn phòng (v1.0.1)",
+    "sha256": "82ce45b493e567b83b2d0c80a27f31d7d3c5985410ef496db9fbf0db77da7130",
+    "signature": "WNaXufEoevKc8q1WbiGLWRt2ZBQUAMLWCklBuQYLmgf6-J0ZXI4UkPseqpMIUGpBU6LSMKgVYAXoRfZct5Y3CQ==",
+    "sizeBytes": 14398206,
+    "publishedAt": "18/11/2026 23:11:51",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -15,14 +15,14 @@
     }
   },
   "installer": {
-    "version": "1.0.0",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.0.exe",
-    "sha256": "c35fedcf7e7099af3a2f019c62e51bc75d8d5cf8f6be09021ee0bd630be92e07",
-    "signature": "ykvXdUYjJoHkOEcuYkIC6ahGC3aroF4679eal5rTbcFZnI4CoknuAqC4rNKdI48amADQHk16iUdnPRuKYiY0Cw==",
-    "sizeBytes": 106340128,
-    "notes": "Khởi tạo hệ thống Tự Động Cập Nhật Đám Mây 24/7",
-    "publishedAt": "18/11/2026 22:54:52",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.0/HOLY-TEAM-Studio-Setup-1.0.0.exe"
+    "version": "1.0.1",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.1.exe",
+    "sha256": "0a4d6ff8aca2d8b341c41ac1021dcc88920bb664e2c1149046bf254cb566dc50",
+    "signature": "naL6uaF_3ToA0U7Xg9-Scgt6ugx_sFQhvmHNnbrebzKmpT9_D97av1--4W6syfogQ4KGXJgoKztV596Z1LfdBg==",
+    "sizeBytes": 106340366,
+    "notes": "Chuẩn hóa màu Trắng Hồng Phấn Sữa khử sạch ám vàng đèn phòng (v1.0.1)",
+    "publishedAt": "18/11/2026 23:12:35",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.1/HOLY-TEAM-Studio-Setup-1.0.1.exe"
   },
   "store": {
     "plans": [
@@ -61,9 +61,11 @@
   "keys": {
     "HT-YR-E195-408D": {
       "revoked": false,
-      "unbound": true,
-      "token": "eyJjdXN0b21lck5hbWUiOiIxMTEiLCJleHBpcmVzQXQiOjE4MjY1NTM1NjgsImh3aWQiOiJGSVJTVC1QQyIsImlzc3VlZEF0IjoxNzk1MDE3NTY4LCJrZXkiOiJIVC1ZUi1FMTk1LTQwOEQiLCJ0aWVyIjoiWUVBUkxZIn0=.QvhQ7tsk-uDoyimEpL7UEOMDz4hlNg_Fq8dasojb3SSDDFzma-rJLU1d8coLGsUWmSjzL4cKXyPnOyUIWqylBQ=="
+      "hwidHash": "bb615f3aa6e57dff40cbe8ba",
+      "token": "eyJjdXN0b21lck5hbWUiOiIxMTEiLCJleHBpcmVzQXQiOjE4MjY1NTM1NjgsImh3aWQiOiJIVC1ENzVDLUYzOEItQTNGMiIsImlzc3VlZEF0IjoxNzk1MDE3NTgyLCJrZXkiOiJIVC1ZUi1FMTk1LTQwOEQiLCJ0aWVyIjoiWUVBUkxZIn0=.DWvuODlOyVGt6gxxTnqVfsxepIhbSvKz049vA2vB7gJA7UGKlHmOX6JxMDZSBOJWJiZRFCE-7facRJceUxqTCg=="
     }
   },
-  "hwidIndex": {}
+  "hwidIndex": {
+    "bb615f3aa6e57dff40cbe8ba": "HT-YR-E195-408D"
+  }
 }
