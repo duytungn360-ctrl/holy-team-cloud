@@ -1,5 +1,5 @@
 {
-  "updatedAt": "19/11/2026 08:35:51",
+  "updatedAt": "19/11/2026 08:36:54",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://cut-generated-reads-marker.trycloudflare.com",
   "ota": {
@@ -54,7 +54,7 @@
     ],
     "bank": {
       "bankId": "MB",
-      "accountNo": "8888888888",
+      "accountNo": "2720108899999",
       "accountName": "HOLY TEAM STUDIO",
       "zaloContact": "Zalo Hỗ Trợ Kỹ Thuật HOLY TEAM"
     }
