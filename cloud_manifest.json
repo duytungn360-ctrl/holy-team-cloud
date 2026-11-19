@@ -1,14 +1,14 @@
 {
-  "updatedAt": "19/11/2026 19:15:26",
+  "updatedAt": "19/11/2026 20:32:45",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://cut-generated-reads-marker.trycloudflare.com",
   "ota": {
-    "version": "1.0.18",
-    "notes": "v1.0.18: Tich hop ngam AI ve bup be Idol Chibi 3D om chiec hu pha le (chi 1 nut Tai Anh Len duy nhat, giu nguyen kieu toc & trang phuc tu anh that)",
-    "sha256": "645735b40663ba160c4bedd8997c1e79016344b05bf2d4f23bcf18e67b1d31cf",
-    "signature": "BQwXaiKdbapwJrcWMhIsyQEulKIGdJZDGM1aNihfYC5Fgn7smeaK6FDVstiMVqUnIW3Fd2RG9yGg3gLrUsTOCQ==",
-    "sizeBytes": 14944941,
-    "publishedAt": "19/11/2026 19:11:39",
+    "version": "1.0.19",
+    "notes": "v1.0.19: Hu Keo Pha Le Hong Sua sieu de thuong + Idol Chibi om hu chay qua lai don qua (co nut Chay / Dung Yen) + 2 bieu cam mat long lanh doi qua va vui suong thich thu khi qua roi xuong",
+    "sha256": "ee890b215521a9ecbdeb4b67efa79ebb955a9d923c444ab2e8f1941225c88e8d",
+    "signature": "VmRjPgbxBHTG2fm96rNzwMgabWNa0r0nBQnDEVWHvjIVbpYSuhI-9NpPIwvlL1F6SxLgeJGpnOGDhvSNt37MDA==",
+    "sizeBytes": 14948132,
+    "publishedAt": "19/11/2026 20:30:03",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.18",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.18.exe",
-    "sha256": "5b5cefc0cedcdd8a0526b59929da495e7bf9534968afcda1548d481d91bb1da4",
-    "signature": "gNYH9TMzgrvzCq6yazict7f4pDS0_X2UarmnX1LUkc46lR81mFfpyfeawQgkaj-ZAmHKOP993EkPeogbnMbOAA==",
-    "sizeBytes": 106884123,
-    "notes": "v1.0.18: Tich hop ngam AI ve bup be Idol Chibi 3D om chiec hu pha le (chi 1 nut Tai Anh Len duy nhat, giu nguyen kieu toc & trang phuc tu anh that)",
-    "publishedAt": "19/11/2026 19:15:26",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.18/HOLY-TEAM-Studio-Setup-1.0.18.exe"
+    "version": "1.0.19",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.19.exe",
+    "sha256": "e31c3b46e997b850671042ef809feed3ed439bad2d18e4120ae8a3d99ed86254",
+    "signature": "7XW1KHUNafZSsi0JzbnqEzJ0OFYbypaPbhiX9W4HkxmLPti5bXOoL7OthsWPdy4pZlZSSKGEYeewkRF0XoS5Cw==",
+    "sizeBytes": 106885344,
+    "notes": "v1.0.19: Hu Keo Pha Le Hong Sua sieu de thuong + Idol Chibi om hu chay qua lai don qua (co nut Chay / Dung Yen) + 2 bieu cam mat long lanh doi qua va vui suong thich thu khi qua roi xuong",
+    "publishedAt": "19/11/2026 20:32:45",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.19/HOLY-TEAM-Studio-Setup-1.0.19.exe"
   },
   "store": {
     "plans": [
