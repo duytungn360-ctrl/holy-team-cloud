@@ -1,14 +1,14 @@
 {
-  "updatedAt": "19/11/2026 20:54:42",
+  "updatedAt": "19/11/2026 20:58:06",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://cut-generated-reads-marker.trycloudflare.com",
   "ota": {
-    "version": "1.0.19",
-    "notes": "v1.0.19: Hu Keo Pha Le Hong Sua sieu de thuong + Idol Chibi om hu chay qua lai don qua (co nut Chay / Dung Yen) + 2 bieu cam mat long lanh doi qua va vui suong thich thu khi qua roi xuong",
-    "sha256": "ee890b215521a9ecbdeb4b67efa79ebb955a9d923c444ab2e8f1941225c88e8d",
-    "signature": "VmRjPgbxBHTG2fm96rNzwMgabWNa0r0nBQnDEVWHvjIVbpYSuhI-9NpPIwvlL1F6SxLgeJGpnOGDhvSNt37MDA==",
-    "sizeBytes": 14948132,
-    "publishedAt": "19/11/2026 20:30:03",
+    "version": "1.0.20",
+    "notes": "v1.0.20: Nhan vat hoat hinh Chibi that 60FPS co lon, mat cuc to bieu cam, be hu keo tren dinh dau chay di hung qua (3 qua gia vo hut 1 qua, moi tay dat hu nghi 2s, mat buon long lanh khi doi qua -> sang ruc khi qua roi)",
+    "sha256": "9a50a57c4120d67d4c02538c2d12fad5fbf0925f4f15efc56b1e6ce55043885a",
+    "signature": "S2qsVIq0WyvqEpeiG_ZGAw0hY245YmysI0AiYQz_80n7aFYvDl70YH64r6TBGLikfNG3NnYiUvks4Pa_2VkkCw==",
+    "sizeBytes": 14945471,
+    "publishedAt": "19/11/2026 20:57:09",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.19",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.19.exe",
-    "sha256": "e31c3b46e997b850671042ef809feed3ed439bad2d18e4120ae8a3d99ed86254",
-    "signature": "7XW1KHUNafZSsi0JzbnqEzJ0OFYbypaPbhiX9W4HkxmLPti5bXOoL7OthsWPdy4pZlZSSKGEYeewkRF0XoS5Cw==",
-    "sizeBytes": 106885344,
-    "notes": "v1.0.19: Hu Keo Pha Le Hong Sua sieu de thuong + Idol Chibi om hu chay qua lai don qua (co nut Chay / Dung Yen) + 2 bieu cam mat long lanh doi qua va vui suong thich thu khi qua roi xuong",
-    "publishedAt": "19/11/2026 20:32:45",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.19/HOLY-TEAM-Studio-Setup-1.0.19.exe"
+    "version": "1.0.20",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.20.exe",
+    "sha256": "07eadc6e3b067866cef75b912bdf23b659996d3422591e7f9958523ee69ecea8",
+    "signature": "oRpXetOVQsU0ulnit0moWdRtrDvleE0sho6SjgJha-6Ew5GADEdX2yqdY7GJbeikViopo0v4IVdHIh2ndQKpCA==",
+    "sizeBytes": 106883089,
+    "notes": "v1.0.20: Nhan vat hoat hinh Chibi that 60FPS co lon, mat cuc to bieu cam, be hu keo tren dinh dau chay di hung qua (3 qua gia vo hut 1 qua, moi tay dat hu nghi 2s, mat buon long lanh khi doi qua -> sang ruc khi qua roi)",
+    "publishedAt": "19/11/2026 20:58:06",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.20/HOLY-TEAM-Studio-Setup-1.0.20.exe"
   },
   "store": {
     "plans": [
