@@ -1,14 +1,14 @@
 {
-  "updatedAt": "19/11/2026 09:30:02",
+  "updatedAt": "19/11/2026 09:50:19",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://cut-generated-reads-marker.trycloudflare.com",
   "ota": {
-    "version": "1.0.7",
-    "notes": "v1.0.7: Cập nhật trọn bộ 74 Ảnh Người Mẫu Thời Trang Hàn Quốc / Douyin góc trung cảnh nửa thân trên thoáng đẹp (không bị zoom cận mặt)",
-    "sha256": "9b6ee82bd2d262f78502b2b07a1a15897bab10e55babdde91cf1e301b2295dce",
-    "signature": "2kXyGI9lrKoDAyhnh-0SBFvM86lZjGQP9cMKHS2hMBBXUDbx9bDxzjx8lLJ50XWDCoT3DhEE2q4XpfT5JqtYCA==",
-    "sizeBytes": 14968625,
-    "publishedAt": "19/11/2026 09:28:22",
+    "version": "1.0.8",
+    "notes": "v1.0.8: Nâng cấp nhân hình ảnh 2K Siêu Nét (1440×2560) & Siêu Mượt 60FPS chuẩn Máy Ảnh Cơ (Nội suy Bicubic Catmull-Rom + Khử nhiễu hạt Temporal ISP + Độ nét quang học không viền trắng + Zero-Copy GPU Video)",
+    "sha256": "99e26fd03a8492b389ca65da1f2b4a08cf546c612547e18fb661279d511ddf5a",
+    "signature": "dvSrQnQMfxsYxriCP6mIhN5rFC53YsDgmGlemZs6HHi91bpL50ksd2MqDr_MaleI6RE2xxrMSF8qkcLOgq1oAg==",
+    "sizeBytes": 14971336,
+    "publishedAt": "19/11/2026 09:48:33",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.7",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.7.exe",
-    "sha256": "343fd80b40f74b40c12ae1b09aac8ebeec49574f1634cb4bb54a4d6062c1bb4e",
-    "signature": "lSs-UHTodGf8BlYiehCYAC2WwJKyQGWRhjChrpgcNjf2UM_EESXt8TwsfI2z_WTBAzurrkdR-I8rkAoMVlEpDg==",
-    "sizeBytes": 106889164,
-    "notes": "v1.0.7: Cập nhật trọn bộ 74 Ảnh Người Mẫu Thời Trang Hàn Quốc / Douyin góc trung cảnh nửa thân trên thoáng đẹp (không bị zoom cận mặt)",
-    "publishedAt": "19/11/2026 09:30:02",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.7/HOLY-TEAM-Studio-Setup-1.0.7.exe"
+    "version": "1.0.8",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.8.exe",
+    "sha256": "a0cd5b9ce69b0aae9f333116202d924c98abf5be4ff33d6a2b9f81755ff3aded",
+    "signature": "sGxX_9KcNbw7BkK_UrjsSFjhxvVeqduVMKiDBXffsqiUnYX3AZVywHeDolyBymaGMn1YL6g3uO4xe0C82N4WBg==",
+    "sizeBytes": 106891717,
+    "notes": "v1.0.8: Nâng cấp nhân hình ảnh 2K Siêu Nét (1440×2560) & Siêu Mượt 60FPS chuẩn Máy Ảnh Cơ (Nội suy Bicubic Catmull-Rom + Khử nhiễu hạt Temporal ISP + Độ nét quang học không viền trắng + Zero-Copy GPU Video)",
+    "publishedAt": "19/11/2026 09:50:18",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.8/HOLY-TEAM-Studio-Setup-1.0.8.exe"
   },
   "store": {
     "plans": [
