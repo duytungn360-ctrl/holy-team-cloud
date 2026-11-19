@@ -1,14 +1,14 @@
 {
-  "updatedAt": "19/11/2026 08:44:50",
+  "updatedAt": "19/11/2026 09:13:24",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://cut-generated-reads-marker.trycloudflare.com",
   "ota": {
-    "version": "1.0.5",
-    "notes": "Bản v1.0.5: Tích hợp trọn bộ 38 Bộ Lọc Màu 4 nhóm TikTok (Chân dung G1-G8, Phong cảnh S1-S8, Ẩm thực F1-F6, Vibe V1-V10) + 11 Hiệu Ứng Chụp Ảnh Hot Trend TikTok (Trà Trắng, Tàn Nhang, Nơ Coquette, Tai Thỏ, KiraKira, Kính Y2K, Máy Ảnh CCD...)",
-    "sha256": "b6905d50d9bde01f4cf7d245e37d0a9a6fc405188662085aa2c25e7df02a90a8",
-    "signature": "_BPpSFoTwTzrvVSyaJ4SPG2-tm5cGw-6xfbbASiz3B65yH_TlTv11PhLV-dn_h6svG9Ym43o3nX73G-KQaOBCg==",
-    "sizeBytes": 14407509,
-    "publishedAt": "19/11/2026 08:43:49",
+    "version": "1.0.6",
+    "notes": "v1.0.6: 74 Ảnh Chân Dung Minh Họa Trực Quan + Phồng Chân Tóc 3D + Gọt Vai Ngang & Thon Cổ + Da Thủy Tinh 3D + Mi Cong Chớp Mắt 3D & Bọng Mắt Cười + Cân Đối Mặt AI + Kéo So Sánh 50/50",
+    "sha256": "4a20d509ea02efd36c6e7dd9479f895c6ce500c8cd74747672cdfd245f6ebb7d",
+    "signature": "JfE9StmNpVcouWrehzSR5Le4ldH_68TwxvVdooBGDP1tgoahttqEslLM_aXLsDgB34PocWuMO8ZLMYvOHrNpBQ==",
+    "sizeBytes": 14672219,
+    "publishedAt": "19/11/2026 09:12:37",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.5",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.5.exe",
-    "sha256": "d7288e126cccf4b28f497f7f81149721e60c7f968c546883a6c9e1cfdadfb603",
-    "signature": "wtaEqCRK3CPsnuuA7fhnW8f_acnE21dEj7WoGTVsd_nG4dzvKaz1HXhBj5cJOGNDVMB2zoob80qcMHOjfkx9BQ==",
-    "sizeBytes": 106350738,
-    "notes": "Bản v1.0.5: Tích hợp trọn bộ 38 Bộ Lọc Màu 4 nhóm TikTok (Chân dung G1-G8, Phong cảnh S1-S8, Ẩm thực F1-F6, Vibe V1-V10) + 11 Hiệu Ứng Chụp Ảnh Hot Trend TikTok (Trà Trắng, Tàn Nhang, Nơ Coquette, Tai Thỏ, KiraKira, Kính Y2K, Máy Ảnh CCD...)",
-    "publishedAt": "19/11/2026 08:44:49",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.5/HOLY-TEAM-Studio-Setup-1.0.5.exe"
+    "version": "1.0.6",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.6.exe",
+    "sha256": "12f79ecbd0c23106d9443ff2a652ad051ac623ffc2243db8769fa470f52bec57",
+    "signature": "vuv9F3TDQVKbEkWdeld6ij8mGqmhDNRjuQ0JwYSfRstIKXorusOHFiVplbMF3Y3DGoSxC6i5MxfNwvlJ7Jy2Bw==",
+    "sizeBytes": 106603267,
+    "notes": "v1.0.6: 74 Ảnh Chân Dung Minh Họa Trực Quan + Phồng Chân Tóc 3D + Gọt Vai Ngang & Thon Cổ + Da Thủy Tinh 3D + Mi Cong Chớp Mắt 3D & Bọng Mắt Cười + Cân Đối Mặt AI + Kéo So Sánh 50/50",
+    "publishedAt": "19/11/2026 09:13:23",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.6/HOLY-TEAM-Studio-Setup-1.0.6.exe"
   },
   "store": {
     "plans": [
