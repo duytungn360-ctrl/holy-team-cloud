@@ -1,14 +1,14 @@
 {
-  "updatedAt": "19/11/2026 12:48:30",
+  "updatedAt": "19/11/2026 13:13:30",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://cut-generated-reads-marker.trycloudflare.com",
   "ota": {
-    "version": "1.0.13",
-    "notes": "Ra mắt Cửa Sổ Giọng Đọc Bình Luận & Cảm Ơn Quà AI Độc Lập (Công tắc ON/OFF rõ ràng, 4 Giọng Neural Tiếng Việt 3 tầng dự phòng 0đ API, tự lọc từ nhạy cảm & ưu tiên cảm ơn Đại gia)",
-    "sha256": "7ae2c44f8279e6a17450205785fe18220b871d53f2afde0bd7340c1401444a1d",
-    "signature": "15BKhN8yCQpZVAPtKSut_HnYzEpHL06IVnNAeKrUZ8KaRKnIj_JWIDCGT53jIF6WnElEmlP14aDSaGd5y1AgCw==",
-    "sizeBytes": 14933481,
-    "publishedAt": "19/11/2026 12:47:02",
+    "version": "1.0.14",
+    "notes": "Thiết kế lại Thanh Điều Khiển Trên Cùng sang trọng chuẩn Studio (0% vỡ/tràn dòng trên màn hình 125-150% DPI, gom cụm Hồ sơ tinh gọn kèm menu ⋯ & đồng bộ trọn bộ Icon Vector SVG)",
+    "sha256": "241d416c005358f8b93acc570ae2e298c46517e24182dfa1d8c03698c7bd92c7",
+    "signature": "0a-F6Vai1VbyvCkAylRTEkuuSkNCLuEo9hTmn8Xdby3KISW110H8vr6l1A0Kwq4hATjYHvXkWALLsRn2NNamCQ==",
+    "sizeBytes": 14934778,
+    "publishedAt": "19/11/2026 13:11:21",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.13",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.13.exe",
-    "sha256": "92eda181f34605a2f03a95276afa349358c2052fc56e2275a35b5470791d3c54",
-    "signature": "1ztVOLmLRO9ls_5GiOB2N6MKfFtzNyuONGjxxH62ROHRy8-Sx5lHCtIgdV1ELRiFWrrlU8drIJg3gDNceEMjCg==",
-    "sizeBytes": 106867387,
-    "notes": "Ra mắt Cửa Sổ Giọng Đọc Bình Luận & Cảm Ơn Quà AI Độc Lập (Công tắc ON/OFF rõ ràng, 4 Giọng Neural Tiếng Việt 3 tầng dự phòng 0đ API, tự lọc từ nhạy cảm & ưu tiên cảm ơn Đại gia)",
-    "publishedAt": "19/11/2026 12:48:30",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.13/HOLY-TEAM-Studio-Setup-1.0.13.exe"
+    "version": "1.0.14",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.14.exe",
+    "sha256": "d50ab8b29f033abbaa6628256b8ec3a82287e9cc022f48f13472a3cad3195027",
+    "signature": "iz_JMEWUWHjr08zOI0c4piq0_U6oQauibhDP0x7aoOe7YxHYfka3l7I35sYXCfwuysNmtFgJp_ML8hjgpOh9CQ==",
+    "sizeBytes": 106866017,
+    "notes": "Thiết kế lại Thanh Điều Khiển Trên Cùng sang trọng chuẩn Studio (0% vỡ/tràn dòng trên màn hình 125-150% DPI, gom cụm Hồ sơ tinh gọn kèm menu ⋯ & đồng bộ trọn bộ Icon Vector SVG)",
+    "publishedAt": "19/11/2026 13:13:30",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.14/HOLY-TEAM-Studio-Setup-1.0.14.exe"
   },
   "store": {
     "plans": [
