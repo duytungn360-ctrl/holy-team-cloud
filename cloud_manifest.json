@@ -1,5 +1,5 @@
 {
-  "updatedAt": "19/11/2026 08:30:50",
+  "updatedAt": "19/11/2026 08:35:33",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://cut-generated-reads-marker.trycloudflare.com",
   "ota": {
@@ -66,11 +66,6 @@
       "usedOnce": false
     },
     "HT-YR-9DAC-953B": {
-      "revoked": false,
-      "unbound": true,
-      "usedOnce": false
-    },
-    "HT-YR-9F14-452D": {
       "revoked": false,
       "unbound": true,
       "usedOnce": false
