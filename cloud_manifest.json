@@ -1,5 +1,5 @@
 {
-  "updatedAt": "19/11/2026 20:32:45",
+  "updatedAt": "19/11/2026 20:54:06",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://cut-generated-reads-marker.trycloudflare.com",
   "ota": {
@@ -65,9 +65,16 @@
       "hwidHash": "bb615f3aa6e57dff40cbe8ba",
       "usedOnce": true,
       "token": "eyJjdXN0b21lck5hbWUiOiJhZG0iLCJleHBpcmVzQXQiOjQ5NDg2NTE4MzYsImh3aWQiOiJIVC1ENzVDLUYzOEItQTNGMiIsImlzc3VlZEF0IjoxNzk1MDUxODM2LCJrZXkiOiJIVC1TVklQLUQ5MzctOTNFMCIsInRpZXIiOiJMSUZFVElNRSJ9.XXl-atxDRnNK4NZ5GLmIbADqgX0iZ6_12zGkSIMPRqm033j5O2F8sWSMNFjk74uA-vFJh_bYKWZHBISpGcVOAg=="
+    },
+    "HT-SVIP-001C-A583": {
+      "revoked": false,
+      "hwidHash": "0ce0bc4b8b23d1bde6ef0af3",
+      "usedOnce": false,
+      "token": "eyJjdXN0b21lck5hbWUiOiJDXHUxZWE5bSB0XHUwMGZhIiwiZXhwaXJlc0F0Ijo0OTQ4Njk2NDQ2LCJod2lkIjoiSFQtMjMyMC01MEJBLTAxMkEiLCJpc3N1ZWRBdCI6MTc5NTA5NjQ0Niwia2V5IjoiSFQtU1ZJUC0wMDFDLUE1ODMiLCJ0aWVyIjoiTElGRVRJTUUifQ==.Znxnd-F33t8Ly8OgKoxYwBDy4b3Tpmo3M7gSHsc6DW8Fl7F5-XaBT1zHWdwDWT1wErqLaDOF9201Nb7ZaESVBQ=="
     }
   },
   "hwidIndex": {
-    "bb615f3aa6e57dff40cbe8ba": "HT-SVIP-D937-93E0"
+    "bb615f3aa6e57dff40cbe8ba": "HT-SVIP-D937-93E0",
+    "0ce0bc4b8b23d1bde6ef0af3": "HT-SVIP-001C-A583"
   }
 }
