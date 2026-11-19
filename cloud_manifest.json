@@ -1,14 +1,14 @@
 {
-  "updatedAt": "19/11/2026 22:12:47",
+  "updatedAt": "19/11/2026 22:32:37",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://cut-generated-reads-marker.trycloudflare.com",
   "ota": {
-    "version": "1.0.23",
-    "notes": "Nang cap v1.0.23: Bao ve & Giu nguyen 100% thong so Idol da chinh qua moi ban Update (Chot luu truoc khi Update + Ket sat sao luu 3 lop Atomic Vault + Khoa NSIS deleteAppDataOnUninstall=false + Giu nguyen cong Origin nhac MP3)",
-    "sha256": "2c2e4c51b9a354c9248c9211921155046c2afa90d8fa5f70548598e083087ddd",
-    "signature": "hs4czzFz--QrQw7IlAJUC0giauURfc0XLuUDGsC2JzmsxDu78Sve7HO8mWKli3VNHPLpJu6omc7h2XLsrn7MAg==",
-    "sizeBytes": 15158736,
-    "publishedAt": "19/11/2026 22:09:12",
+    "version": "1.0.24",
+    "notes": "Nang cap v1.0.24: Chibi chay di hung du tron ven 100% moi mon qua roi xuong (khong hut qua, gom chum thong minh khi khach spam combo & pheu dan tam muot vao long hu pha le)",
+    "sha256": "edeb2778e91f8edaf0a9c721e1fb188321d31cc92c615e40b87d2f9bac92c236",
+    "signature": "wR3qaLwg4Xv2wV3na6hL_4ycI9uE96Et1fyacjGanbSYBVArn2R2eweex03mJk2wqVQYSmQrn3D2-58S94NBAA==",
+    "sizeBytes": 15158634,
+    "publishedAt": "19/11/2026 22:30:37",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.23",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.23.exe",
-    "sha256": "e887b5656f11bc1eb96dc4fd5362844b2e8d6d69c640f3361fc017403b74db32",
-    "signature": "JKe8a1jVCTA-_x9aYXwkB86G8GCtC9Cwlf-G3VM-x29zSQnhBqoyXs0WhPvTUI6kmGgPsOCqhWC2BV04iqihCA==",
-    "sizeBytes": 107108888,
-    "notes": "Nang cap v1.0.23: Bao ve & Giu nguyen 100% thong so Idol da chinh qua moi ban Update (Chot luu truoc khi Update + Ket sat sao luu 3 lop Atomic Vault + Khoa NSIS deleteAppDataOnUninstall=false + Giu nguyen cong Origin nhac MP3)",
-    "publishedAt": "19/11/2026 22:12:47",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.23/HOLY-TEAM-Studio-Setup-1.0.23.exe"
+    "version": "1.0.24",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.24.exe",
+    "sha256": "96b536e1bd39a86603fc8557ab771b5220aa98f229dfd56b6b5abedc2198be2e",
+    "signature": "f1AyPuNVJOZaxUbSuhOb3LrvMsYTXdA2ap9Defm7AvNVUubAh4p9SH6mUj72rhKtZsA-8la3dvnFJ3sjk9MICA==",
+    "sizeBytes": 107108307,
+    "notes": "Nang cap v1.0.24: Chibi chay di hung du tron ven 100% moi mon qua roi xuong (khong hut qua, gom chum thong minh khi khach spam combo & pheu dan tam muot vao long hu pha le)",
+    "publishedAt": "19/11/2026 22:32:37",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.24/HOLY-TEAM-Studio-Setup-1.0.24.exe"
   },
   "store": {
     "plans": [
