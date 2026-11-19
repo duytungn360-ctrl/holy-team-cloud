@@ -1,14 +1,14 @@
 {
-  "updatedAt": "19/11/2026 10:08:44",
+  "updatedAt": "19/11/2026 10:21:04",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://cut-generated-reads-marker.trycloudflare.com",
   "ota": {
-    "version": "1.0.9",
-    "notes": "v1.0.9: Bổ sung thanh kéo điều chỉnh & tự lưu nhớ cường độ riêng cho từng Mẫu Hot (0-130%), từng Bộ Lọc TikTok (38 màu) và từng Hiệu Ứng Ảnh (11 hiệu ứng)",
-    "sha256": "e04f75fef02e17347ebf1e5fa2a1b59e756241438ce382afc3de0b3934198d53",
-    "signature": "sr3be_2ygDhD5ueHfiKTmS6J25T-JJltS2-zaLkJwSYUieiGg6bg7CvoNvKw8QCJhwonjlAvk3KOHNxfEB-xAw==",
-    "sizeBytes": 14973827,
-    "publishedAt": "19/11/2026 10:06:24",
+    "version": "1.0.10",
+    "notes": "v1.0.10: Đồng bộ 100% toàn bộ 74 ảnh mẫu (Mẫu Hot, 38 Bộ Lọc TikTok, 11 Hiệu Ứng Ảnh, Trang Điểm & Đèn Studio) sang đúng ảnh Người Mẫu độc quyền của Anh",
+    "sha256": "b829100c14046c85aad22c8875058ee316dd2f25a27d9d65cef5ed3d87bee113",
+    "signature": "1m5h-iTcgLQR3XMoUwCrxXJ3j-l-5NcUwkhUz1c-5pd3MNDrxdUOnGlvuRkzmpFL5S_H5zQ1_4_TApxmB7X2BA==",
+    "sizeBytes": 14911147,
+    "publishedAt": "19/11/2026 10:19:57",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.9",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.9.exe",
-    "sha256": "c9a2941d443c232e2bfb9b3ce5634cd503928e33058bcbf94bc246a4a12a0a77",
-    "signature": "TvJ2Ebp4wTzVClDlhq4enIbqdDTFaeVwzrhI-kxZEhfAOgM2FLe7G4SJLFH9h8KAdLP4dAeh-n9lzf_4X8QtAg==",
-    "sizeBytes": 106895342,
-    "notes": "v1.0.9: Bổ sung thanh kéo điều chỉnh & tự lưu nhớ cường độ riêng cho từng Mẫu Hot (0-130%), từng Bộ Lọc TikTok (38 màu) và từng Hiệu Ứng Ảnh (11 hiệu ứng)",
-    "publishedAt": "19/11/2026 10:08:44",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.9/HOLY-TEAM-Studio-Setup-1.0.9.exe"
+    "version": "1.0.10",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.10.exe",
+    "sha256": "c885eae23f22ed1aa6170d0e4c52b621af7dc7a95e43028cc5d7a1ffcbbf4e7c",
+    "signature": "28d0i_sZckMsu85IZKMm7KO_vHEMQ1RcilR12rBY9hmC2BQGsI-mWojoprmGJ8KyNIQcvEVCxwFhEov6m0qcAw==",
+    "sizeBytes": 106826035,
+    "notes": "v1.0.10: Đồng bộ 100% toàn bộ 74 ảnh mẫu (Mẫu Hot, 38 Bộ Lọc TikTok, 11 Hiệu Ứng Ảnh, Trang Điểm & Đèn Studio) sang đúng ảnh Người Mẫu độc quyền của Anh",
+    "publishedAt": "19/11/2026 10:21:04",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.10/HOLY-TEAM-Studio-Setup-1.0.10.exe"
   },
   "store": {
     "plans": [
