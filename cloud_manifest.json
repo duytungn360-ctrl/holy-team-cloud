@@ -1,14 +1,14 @@
 {
-  "updatedAt": "19/11/2026 14:02:44",
+  "updatedAt": "19/11/2026 18:23:45",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://cut-generated-reads-marker.trycloudflare.com",
   "ota": {
-    "version": "1.0.16",
-    "notes": "v1.0.16: Gop chung Trung Tam Tuong Tac PK & Giong Doc Binh Luan AI thanh 1 cua so doc lap duy nhat + 1 o nhap @ID TikTok duy nhat + loc qua chuan xac khi Idol di PK chung phong (Multi-Host/Co-Host)",
-    "sha256": "8c83b5cdfcf855f7f006c1210ffa2675c66adfa4421de42d7f9a655d607be6ef",
-    "signature": "xpX5nFQ-5CzDaZ_ttabwVovBW_fPcZIoFm2oMp3lJDPB71LeA9vnac77cTOrnBJ7B_KjQS_i3UqcLaQm8K53CQ==",
-    "sizeBytes": 14935017,
-    "publishedAt": "19/11/2026 14:01:58",
+    "version": "1.0.17",
+    "notes": "v1.0.17: Ca nhan hoa Hu Hung Qua - Tai anh len tu bien thanh Idol Chibi om chiec hu sieu cute 60FPS (Offline 0d + AI 3D Gemini/OpenAI + 3 tu the + 6 trang phuc + dat ten bang hieu tren hu)",
+    "sha256": "300de12e23ac197e52a036b8ab95625b40652e7e463b52eba5c49c3939e40ffa",
+    "signature": "UF8wf51zqzMkiHrl4cmBnNn8wq-Zce29kGodOGyTlWPnvDkaSFx3dQhSF6YOqUnSqzxGMQJYqECVYSsbN6HbAw==",
+    "sizeBytes": 14945758,
+    "publishedAt": "19/11/2026 18:19:31",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.16",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.16.exe",
-    "sha256": "e490dd6950798b4999b4011630d127ac6828512ff19338e71878f42eb5f1609f",
-    "signature": "w5ZTUgaA6GmSYo6KQJ28fchjwrlUtxok9qPoecINVuKSC-FKW9p8CGsNWkwtvVaAFSd1vzSxPLEBUbCc-t9uCw==",
-    "sizeBytes": 106873744,
-    "notes": "v1.0.16: Gop chung Trung Tam Tuong Tac PK & Giong Doc Binh Luan AI thanh 1 cua so doc lap duy nhat + 1 o nhap @ID TikTok duy nhat + loc qua chuan xac khi Idol di PK chung phong (Multi-Host/Co-Host)",
-    "publishedAt": "19/11/2026 14:02:44",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.16/HOLY-TEAM-Studio-Setup-1.0.16.exe"
+    "version": "1.0.17",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.17.exe",
+    "sha256": "1618bdc2664e01ca297d0c47e6b93e5032d30fb78a6cf03a404956d92989d148",
+    "signature": "FYa0dixwmuh8JuAuQ1PrglGJz61ZYRDLrIcxxUOuRV9em90kGbM3m2QzesBEUiNc3nJSP8pyiyohseINiCMCAg==",
+    "sizeBytes": 106884313,
+    "notes": "v1.0.17: Ca nhan hoa Hu Hung Qua - Tai anh len tu bien thanh Idol Chibi om chiec hu sieu cute 60FPS (Offline 0d + AI 3D Gemini/OpenAI + 3 tu the + 6 trang phuc + dat ten bang hieu tren hu)",
+    "publishedAt": "19/11/2026 18:23:45",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.17/HOLY-TEAM-Studio-Setup-1.0.17.exe"
   },
   "store": {
     "plans": [
