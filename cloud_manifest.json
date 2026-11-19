@@ -1,5 +1,5 @@
 {
-  "updatedAt": "19/11/2026 08:35:43",
+  "updatedAt": "19/11/2026 08:35:51",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://cut-generated-reads-marker.trycloudflare.com",
   "ota": {
@@ -60,11 +60,6 @@
     }
   },
   "keys": {
-    "HT-YR-E195-408D": {
-      "revoked": true,
-      "hwidHash": "bb615f3aa6e57dff40cbe8ba",
-      "usedOnce": false
-    },
     "HT-SVIP-D937-93E0": {
       "revoked": false,
       "hwidHash": "bb615f3aa6e57dff40cbe8ba",
