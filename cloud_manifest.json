@@ -1,14 +1,14 @@
 {
-  "updatedAt": "19/11/2026 21:30:55",
+  "updatedAt": "19/11/2026 22:00:18",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://cut-generated-reads-marker.trycloudflare.com",
   "ota": {
-    "version": "1.0.21",
-    "notes": "Nang cap v1.0.21: Nhan vat hoat hinh Pop-Mart Chibi 2.5D sieu de thuong 4 bieu cam 60FPS (Be hu tren dau, Chay di hung qua 3 qua hut 1, Mat to long lanh & Dat hu nghi met 2s)",
-    "sha256": "cb7fec877dc1458e922267a80af6f5664602ebe73895203d5606c269508fc94c",
-    "signature": "HHBIvvaMRWFgBkbFYzQnanutaoV3lcZOE7maMde6TIIi4sD4VfdMjRTHkmCcW5PhFXhPQuEBIw2qxyF4hGprDQ==",
-    "sizeBytes": 15046394,
-    "publishedAt": "19/11/2026 21:28:35",
+    "version": "1.0.22",
+    "notes": "Nang cap v1.0.22: Xoa sach 100% hien tuong lag khi bat Chibi (GPU FBO Cache + Zero-Realloc texSubImage2D + Offscreen Sprite Cache + Delta-Time 60FPS) & Bo sung 4 Mau Hu Pha Le 3D Hot TikTok Sieu Xinh (Kem Dau Thien Than, Tho Ngoc May Trang, Vuong Mien Cong Chua, Meo Dao Sakura)",
+    "sha256": "7a3186ae2beea494082bc20bc4963ecd0011a295acc99de54f70c4e24bee73cb",
+    "signature": "fYDrjnw_ENsMsA5e6YzirHx3lxujs4rzOH17UAZWy6LHc-4ZGMpMqEYOgPXqF1hC75tkGwjELaq1bo7vK-KEAA==",
+    "sizeBytes": 15158532,
+    "publishedAt": "19/11/2026 21:57:31",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.21",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.21.exe",
-    "sha256": "ace786ae7133a225cc6dd3e7f7f7a11673f908287b5e1cca9f78d6773b0d9923",
-    "signature": "o4o4TjF38BKkMcsVlFKyZ1AvYiLJrWRYarHSRQO3BGqMSmS3wbLzIM2Epy78khVWGBiZi9AG54G2dISP3AI5BQ==",
-    "sizeBytes": 106987287,
-    "notes": "Nang cap v1.0.21: Nhan vat hoat hinh Pop-Mart Chibi 2.5D sieu de thuong 4 bieu cam 60FPS (Be hu tren dau, Chay di hung qua 3 qua hut 1, Mat to long lanh & Dat hu nghi met 2s)",
-    "publishedAt": "19/11/2026 21:30:55",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.21/HOLY-TEAM-Studio-Setup-1.0.21.exe"
+    "version": "1.0.22",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.22.exe",
+    "sha256": "67b0682b302af2c194292346766bf8785a9f0f726cffc8fd0f53fe09d1a72a54",
+    "signature": "uF3lZj-SIBHSxWZOvno_5tY0aPkY2IqZu14hH-8yJu9KCmgGOb1nnkYuC1_874fIC_0PK_g7uBbWZYKuEgFiAw==",
+    "sizeBytes": 107107423,
+    "notes": "Nang cap v1.0.22: Xoa sach 100% hien tuong lag khi bat Chibi (GPU FBO Cache + Zero-Realloc texSubImage2D + Offscreen Sprite Cache + Delta-Time 60FPS) & Bo sung 4 Mau Hu Pha Le 3D Hot TikTok Sieu Xinh (Kem Dau Thien Than, Tho Ngoc May Trang, Vuong Mien Cong Chua, Meo Dao Sakura)",
+    "publishedAt": "19/11/2026 22:00:18",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.22/HOLY-TEAM-Studio-Setup-1.0.22.exe"
   },
   "store": {
     "plans": [
