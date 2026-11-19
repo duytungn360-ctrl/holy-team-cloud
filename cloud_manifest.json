@@ -1,14 +1,14 @@
 {
-  "updatedAt": "19/11/2026 22:32:37",
+  "updatedAt": "19/11/2026 23:31:54",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://cut-generated-reads-marker.trycloudflare.com",
   "ota": {
-    "version": "1.0.24",
-    "notes": "Nang cap v1.0.24: Chibi chay di hung du tron ven 100% moi mon qua roi xuong (khong hut qua, gom chum thong minh khi khach spam combo & pheu dan tam muot vao long hu pha le)",
-    "sha256": "edeb2778e91f8edaf0a9c721e1fb188321d31cc92c615e40b87d2f9bac92c236",
-    "signature": "wR3qaLwg4Xv2wV3na6hL_4ycI9uE96Et1fyacjGanbSYBVArn2R2eweex03mJk2wqVQYSmQrn3D2-58S94NBAA==",
-    "sizeBytes": 15158634,
-    "publishedAt": "19/11/2026 22:30:37",
+    "version": "1.0.25",
+    "notes": "Nang cap v1.0.25: He Khop Xuong Puppet 2.5D buoc chan Trai-Phai that 60FPS (tang giam toc tu nhien, dung ngam nghia & xoay nguoi muot, nhun dau goi don qua) + Vat ly qua roi thang dung 100% theo trong luc tu nhien (0% nam cham hut ngang)",
+    "sha256": "a0c5bd2e94964ae4e2f557afa240bcc883e3081d288e5743093e772bb95a035d",
+    "signature": "1FosYH_oFeuh7qh5w0aXGBCH615WsLd7j1GBz6ghBz5sUq8YXzGgDiB3_NLWOjujb6ltycXHbXZ17dBn0ZmVAQ==",
+    "sizeBytes": 15160536,
+    "publishedAt": "19/11/2026 23:30:55",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.24",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.24.exe",
-    "sha256": "96b536e1bd39a86603fc8557ab771b5220aa98f229dfd56b6b5abedc2198be2e",
-    "signature": "f1AyPuNVJOZaxUbSuhOb3LrvMsYTXdA2ap9Defm7AvNVUubAh4p9SH6mUj72rhKtZsA-8la3dvnFJ3sjk9MICA==",
-    "sizeBytes": 107108307,
-    "notes": "Nang cap v1.0.24: Chibi chay di hung du tron ven 100% moi mon qua roi xuong (khong hut qua, gom chum thong minh khi khach spam combo & pheu dan tam muot vao long hu pha le)",
-    "publishedAt": "19/11/2026 22:32:37",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.24/HOLY-TEAM-Studio-Setup-1.0.24.exe"
+    "version": "1.0.25",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.25.exe",
+    "sha256": "baeae255219c56e3113937a69af097a12a6ed79c9aabe7c4cf911e727a0fd895",
+    "signature": "IinpAzQP1qyO8UoGvOwxSobTR9xKBxsBreDfD9_ZAmY7VXnq9xcoCKL1pdwMVdFrXzQbP-TDb4bZ0DolckbBCg==",
+    "sizeBytes": 107110465,
+    "notes": "Nang cap v1.0.25: He Khop Xuong Puppet 2.5D buoc chan Trai-Phai that 60FPS (tang giam toc tu nhien, dung ngam nghia & xoay nguoi muot, nhun dau goi don qua) + Vat ly qua roi thang dung 100% theo trong luc tu nhien (0% nam cham hut ngang)",
+    "publishedAt": "19/11/2026 23:31:54",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.25/HOLY-TEAM-Studio-Setup-1.0.25.exe"
   },
   "store": {
     "plans": [
