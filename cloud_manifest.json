@@ -1,14 +1,14 @@
 {
-  "updatedAt": "19/11/2026 12:24:59",
+  "updatedAt": "19/11/2026 12:48:30",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://cut-generated-reads-marker.trycloudflare.com",
   "ota": {
-    "version": "1.0.12",
-    "notes": "Bấm Tương Tác PK mở thẳng ra ngoài thành Cửa Sổ Windows Độc Lập mới ngay lập tức + Phím tắt bấm xuyên TikTok Studio (Alt+1..8, Alt+F1..F10) & Ghim nổi Bật/Tắt",
-    "sha256": "4652b9d0f83a076770103309e8328526732ed04e9e700632555e2e21c84dcc74",
-    "signature": "Pd4yOSIOGxkOhel28fni_Y0HWRE9Zvp2WolGEl9raz4D76VxlokUZus2SrHF-qoKAmF6bIS4dcLOofEkxG3xDw==",
-    "sizeBytes": 14925896,
-    "publishedAt": "19/11/2026 12:24:10",
+    "version": "1.0.13",
+    "notes": "Ra mắt Cửa Sổ Giọng Đọc Bình Luận & Cảm Ơn Quà AI Độc Lập (Công tắc ON/OFF rõ ràng, 4 Giọng Neural Tiếng Việt 3 tầng dự phòng 0đ API, tự lọc từ nhạy cảm & ưu tiên cảm ơn Đại gia)",
+    "sha256": "7ae2c44f8279e6a17450205785fe18220b871d53f2afde0bd7340c1401444a1d",
+    "signature": "15BKhN8yCQpZVAPtKSut_HnYzEpHL06IVnNAeKrUZ8KaRKnIj_JWIDCGT53jIF6WnElEmlP14aDSaGd5y1AgCw==",
+    "sizeBytes": 14933481,
+    "publishedAt": "19/11/2026 12:47:02",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.12",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.12.exe",
-    "sha256": "81c41e9068ba5824b5db472f7889958edaa184514e1611781a3e579516138945",
-    "signature": "jlT73XHnBK_7vRJzXitpqK6iy1j_TQemLpbKZQ4oWEgy9QbvxH1DJOaWXIXLmZL0x7ZxSp9TexXnw663wSV9DQ==",
-    "sizeBytes": 106847137,
-    "notes": "Bấm Tương Tác PK mở thẳng ra ngoài thành Cửa Sổ Windows Độc Lập mới ngay lập tức + Phím tắt bấm xuyên TikTok Studio (Alt+1..8, Alt+F1..F10) & Ghim nổi Bật/Tắt",
-    "publishedAt": "19/11/2026 12:24:59",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.12/HOLY-TEAM-Studio-Setup-1.0.12.exe"
+    "version": "1.0.13",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.13.exe",
+    "sha256": "92eda181f34605a2f03a95276afa349358c2052fc56e2275a35b5470791d3c54",
+    "signature": "1ztVOLmLRO9ls_5GiOB2N6MKfFtzNyuONGjxxH62ROHRy8-Sx5lHCtIgdV1ELRiFWrrlU8drIJg3gDNceEMjCg==",
+    "sizeBytes": 106867387,
+    "notes": "Ra mắt Cửa Sổ Giọng Đọc Bình Luận & Cảm Ơn Quà AI Độc Lập (Công tắc ON/OFF rõ ràng, 4 Giọng Neural Tiếng Việt 3 tầng dự phòng 0đ API, tự lọc từ nhạy cảm & ưu tiên cảm ơn Đại gia)",
+    "publishedAt": "19/11/2026 12:48:30",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.13/HOLY-TEAM-Studio-Setup-1.0.13.exe"
   },
   "store": {
     "plans": [
