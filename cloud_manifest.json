@@ -1,14 +1,14 @@
 {
-  "updatedAt": "19/11/2026 10:21:04",
+  "updatedAt": "19/11/2026 11:10:15",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://cut-generated-reads-marker.trycloudflare.com",
   "ota": {
-    "version": "1.0.10",
-    "notes": "v1.0.10: Đồng bộ 100% toàn bộ 74 ảnh mẫu (Mẫu Hot, 38 Bộ Lọc TikTok, 11 Hiệu Ứng Ảnh, Trang Điểm & Đèn Studio) sang đúng ảnh Người Mẫu độc quyền của Anh",
-    "sha256": "b829100c14046c85aad22c8875058ee316dd2f25a27d9d65cef5ed3d87bee113",
-    "signature": "1m5h-iTcgLQR3XMoUwCrxXJ3j-l-5NcUwkhUz1c-5pd3MNDrxdUOnGlvuRkzmpFL5S_H5zQ1_4_TApxmB7X2BA==",
-    "sizeBytes": 14911147,
-    "publishedAt": "19/11/2026 10:19:57",
+    "version": "1.0.11",
+    "notes": "Ra mắt Bảng Điều Khiển Tương Tác PK & Âm Thanh riêng biệt (8 Biểu cảm AR Meme Alt+1..8, 10 Nút Âm Thanh F1..F10, Tách Cửa Sổ Nổi Trên Cùng, Gắn nhạc MP3 riêng & Tự nổ nhạc Quà Lớn)",
+    "sha256": "edd1d7cc9d82988e9569284c2c90fa3a6f69dea93112acf07492cbe4dd3c5c9b",
+    "signature": "YQQEbWjjnmRrWDjBjnTeM9cqbfyQnvmh05zrdg5OBi7PK7dEIqJxpyf3ig34r6UQTLwpCxCkQv8QzaU6ADHoCw==",
+    "sizeBytes": 14925177,
+    "publishedAt": "19/11/2026 11:09:21",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.10",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.10.exe",
-    "sha256": "c885eae23f22ed1aa6170d0e4c52b621af7dc7a95e43028cc5d7a1ffcbbf4e7c",
-    "signature": "28d0i_sZckMsu85IZKMm7KO_vHEMQ1RcilR12rBY9hmC2BQGsI-mWojoprmGJ8KyNIQcvEVCxwFhEov6m0qcAw==",
-    "sizeBytes": 106826035,
-    "notes": "v1.0.10: Đồng bộ 100% toàn bộ 74 ảnh mẫu (Mẫu Hot, 38 Bộ Lọc TikTok, 11 Hiệu Ứng Ảnh, Trang Điểm & Đèn Studio) sang đúng ảnh Người Mẫu độc quyền của Anh",
-    "publishedAt": "19/11/2026 10:21:04",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.10/HOLY-TEAM-Studio-Setup-1.0.10.exe"
+    "version": "1.0.11",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.11.exe",
+    "sha256": "cb13223d1fd70caa2bc0e6521dc9d99f90db5ece07d9cc23cdb6b249f97e74a0",
+    "signature": "xp_qK9ZAHf8q-A4WhlzYKLiBsnNJCJ7GNmXUfqJzVNtJS8HF3Jy17d7TDo9_lGGnh4e5ZRJnDp4UoZsPZxVbBA==",
+    "sizeBytes": 106853404,
+    "notes": "Ra mắt Bảng Điều Khiển Tương Tác PK & Âm Thanh riêng biệt (8 Biểu cảm AR Meme Alt+1..8, 10 Nút Âm Thanh F1..F10, Tách Cửa Sổ Nổi Trên Cùng, Gắn nhạc MP3 riêng & Tự nổ nhạc Quà Lớn)",
+    "publishedAt": "19/11/2026 11:10:15",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.11/HOLY-TEAM-Studio-Setup-1.0.11.exe"
   },
   "store": {
     "plans": [
