@@ -1,14 +1,14 @@
 {
-  "updatedAt": "19/11/2026 18:23:45",
+  "updatedAt": "19/11/2026 19:15:26",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://cut-generated-reads-marker.trycloudflare.com",
   "ota": {
-    "version": "1.0.17",
-    "notes": "v1.0.17: Ca nhan hoa Hu Hung Qua - Tai anh len tu bien thanh Idol Chibi om chiec hu sieu cute 60FPS (Offline 0d + AI 3D Gemini/OpenAI + 3 tu the + 6 trang phuc + dat ten bang hieu tren hu)",
-    "sha256": "300de12e23ac197e52a036b8ab95625b40652e7e463b52eba5c49c3939e40ffa",
-    "signature": "UF8wf51zqzMkiHrl4cmBnNn8wq-Zce29kGodOGyTlWPnvDkaSFx3dQhSF6YOqUnSqzxGMQJYqECVYSsbN6HbAw==",
-    "sizeBytes": 14945758,
-    "publishedAt": "19/11/2026 18:19:31",
+    "version": "1.0.18",
+    "notes": "v1.0.18: Tich hop ngam AI ve bup be Idol Chibi 3D om chiec hu pha le (chi 1 nut Tai Anh Len duy nhat, giu nguyen kieu toc & trang phuc tu anh that)",
+    "sha256": "645735b40663ba160c4bedd8997c1e79016344b05bf2d4f23bcf18e67b1d31cf",
+    "signature": "BQwXaiKdbapwJrcWMhIsyQEulKIGdJZDGM1aNihfYC5Fgn7smeaK6FDVstiMVqUnIW3Fd2RG9yGg3gLrUsTOCQ==",
+    "sizeBytes": 14944941,
+    "publishedAt": "19/11/2026 19:11:39",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.17",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.17.exe",
-    "sha256": "1618bdc2664e01ca297d0c47e6b93e5032d30fb78a6cf03a404956d92989d148",
-    "signature": "FYa0dixwmuh8JuAuQ1PrglGJz61ZYRDLrIcxxUOuRV9em90kGbM3m2QzesBEUiNc3nJSP8pyiyohseINiCMCAg==",
-    "sizeBytes": 106884313,
-    "notes": "v1.0.17: Ca nhan hoa Hu Hung Qua - Tai anh len tu bien thanh Idol Chibi om chiec hu sieu cute 60FPS (Offline 0d + AI 3D Gemini/OpenAI + 3 tu the + 6 trang phuc + dat ten bang hieu tren hu)",
-    "publishedAt": "19/11/2026 18:23:45",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.17/HOLY-TEAM-Studio-Setup-1.0.17.exe"
+    "version": "1.0.18",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.18.exe",
+    "sha256": "5b5cefc0cedcdd8a0526b59929da495e7bf9534968afcda1548d481d91bb1da4",
+    "signature": "gNYH9TMzgrvzCq6yazict7f4pDS0_X2UarmnX1LUkc46lR81mFfpyfeawQgkaj-ZAmHKOP993EkPeogbnMbOAA==",
+    "sizeBytes": 106884123,
+    "notes": "v1.0.18: Tich hop ngam AI ve bup be Idol Chibi 3D om chiec hu pha le (chi 1 nut Tai Anh Len duy nhat, giu nguyen kieu toc & trang phuc tu anh that)",
+    "publishedAt": "19/11/2026 19:15:26",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.18/HOLY-TEAM-Studio-Setup-1.0.18.exe"
   },
   "store": {
     "plans": [
