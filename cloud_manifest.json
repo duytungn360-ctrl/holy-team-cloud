@@ -1,14 +1,14 @@
 {
-  "updatedAt": "19/11/2026 13:13:30",
+  "updatedAt": "19/11/2026 13:30:54",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://cut-generated-reads-marker.trycloudflare.com",
   "ota": {
-    "version": "1.0.14",
-    "notes": "Thiết kế lại Thanh Điều Khiển Trên Cùng sang trọng chuẩn Studio (0% vỡ/tràn dòng trên màn hình 125-150% DPI, gom cụm Hồ sơ tinh gọn kèm menu ⋯ & đồng bộ trọn bộ Icon Vector SVG)",
-    "sha256": "241d416c005358f8b93acc570ae2e298c46517e24182dfa1d8c03698c7bd92c7",
-    "signature": "0a-F6Vai1VbyvCkAylRTEkuuSkNCLuEo9hTmn8Xdby3KISW110H8vr6l1A0Kwq4hATjYHvXkWALLsRn2NNamCQ==",
-    "sizeBytes": 14934778,
-    "publishedAt": "19/11/2026 13:11:21",
+    "version": "1.0.15",
+    "notes": "Tích hợp chính thức EulerStream Cloud WebSocket API (10.000 lượt/ngày, bắt Bình luận & Nhận Quà siêu tốc 0ms không cần Python, tự động nối lại & mã hóa khóa bảo mật)",
+    "sha256": "ebbb5eb8a113660cae788c428c3a435516e0495a4758514c7d1b392899e3429b",
+    "signature": "hEm86w5R6NoSl92XMXigYHi8167ookb4hD0dGR2XY3WB5t9yfm4OFMEa28MR9x7-ERpSrCC0g8IGylcKCg_xBQ==",
+    "sizeBytes": 14935487,
+    "publishedAt": "19/11/2026 13:28:32",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.14",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.14.exe",
-    "sha256": "d50ab8b29f033abbaa6628256b8ec3a82287e9cc022f48f13472a3cad3195027",
-    "signature": "iz_JMEWUWHjr08zOI0c4piq0_U6oQauibhDP0x7aoOe7YxHYfka3l7I35sYXCfwuysNmtFgJp_ML8hjgpOh9CQ==",
-    "sizeBytes": 106866017,
-    "notes": "Thiết kế lại Thanh Điều Khiển Trên Cùng sang trọng chuẩn Studio (0% vỡ/tràn dòng trên màn hình 125-150% DPI, gom cụm Hồ sơ tinh gọn kèm menu ⋯ & đồng bộ trọn bộ Icon Vector SVG)",
-    "publishedAt": "19/11/2026 13:13:30",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.14/HOLY-TEAM-Studio-Setup-1.0.14.exe"
+    "version": "1.0.15",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.15.exe",
+    "sha256": "dd87ec2894a8a57782b70deef5e00f17d6c83bb954080f745ca6cd128fb1c3a0",
+    "signature": "IP7E4AnZlohX3casBImQ83c7ATpLjSIt968RxtlXaGyw2rctvCfNASvm5vHiHFarRSLy2esHXl7tEb6SYP6VDg==",
+    "sizeBytes": 106871396,
+    "notes": "Tích hợp chính thức EulerStream Cloud WebSocket API (10.000 lượt/ngày, bắt Bình luận & Nhận Quà siêu tốc 0ms không cần Python, tự động nối lại & mã hóa khóa bảo mật)",
+    "publishedAt": "19/11/2026 13:30:54",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.15/HOLY-TEAM-Studio-Setup-1.0.15.exe"
   },
   "store": {
     "plans": [
