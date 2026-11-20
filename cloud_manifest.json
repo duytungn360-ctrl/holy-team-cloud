@@ -1,14 +1,14 @@
 {
-  "updatedAt": "20/11/2026 23:21:15",
+  "updatedAt": "20/11/2026 23:38:33",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://cut-generated-reads-marker.trycloudflare.com",
   "ota": {
-    "version": "1.0.26",
-    "notes": "Nang cap v1.0.26: Them Che Do Mo Ao Suong Khoi Hot Trend TikTok GPU 60FPS (Black Pro-Mist Halation + Petzval Radial Soft-Focus bao ve net mat/moi, co cong tac BAT/TAT, 4 muc nhanh & thanh keo cuong do 0-100%)",
-    "sha256": "b0e7ec968f548cf206f5d9b0cb0362bca18f3d8aa7f400ed2819224074f01b78",
-    "signature": "0DcWU1Lv54fYVZMJmA7XGe8FDarNVU8WHnWEkZof-q0r8xWca5gtEenxqH-3uCR-G2wb4bub9MCK2JGiBT5uBg==",
-    "sizeBytes": 15163281,
-    "publishedAt": "20/11/2026 23:20:23",
+    "version": "1.0.27",
+    "notes": "v1.0.27: Bo sung Mau Hot moi Mo Ao Phan Sua (100% chuan video TikTok da trang sua hong lanh, ma hong duoi mat, moi dau cang bong & suong mo ao) + Bo loc Hong Sua Mo Ao + Dai nang cap GPU che do 2K (1440x2560) sieu muot ma & on dinh suot nhieu gio live (Cat 60% tai GPU 2K, khong giat khung hinh, tu phuc hoi GPU).",
+    "sha256": "e8e96d55222f75d64e12955f43f80b20da6727869350d4acd4f67415ec69b96d",
+    "signature": "QeieGZaDdYRDPBLgYK1DC0sgrispL-Z5OQtdLk1XygdtjMV3FiX4D_s0OemXJOdq76bz2Sys4nTTXgSCjELZDg==",
+    "sizeBytes": 15177589,
+    "publishedAt": "20/11/2026 23:37:42",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.26",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.26.exe",
-    "sha256": "8ee9928503cba3c5ef99d701fd7f708fb0b37f70307ca730a9de9b65ee41b587",
-    "signature": "J_TE1Q-GmretSEYiabiT6J6LJtmrecOwV9n6DJHOPHhOnLBlw5k5HXQ141Y94E5mMyzTVPDaURPL3wE8XxRQAQ==",
-    "sizeBytes": 107113180,
-    "notes": "Nang cap v1.0.26: Them Che Do Mo Ao Suong Khoi Hot Trend TikTok GPU 60FPS (Black Pro-Mist Halation + Petzval Radial Soft-Focus bao ve net mat/moi, co cong tac BAT/TAT, 4 muc nhanh & thanh keo cuong do 0-100%)",
-    "publishedAt": "20/11/2026 23:21:15",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.26/HOLY-TEAM-Studio-Setup-1.0.26.exe"
+    "version": "1.0.27",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.27.exe",
+    "sha256": "029ddaad18c0a44e59233f1ffe83247e7f1aa1491c5d9a8a78642bb336cdd731",
+    "signature": "RkcmFDXEjcT9iAAqGCiMY0jrsqIE2uvKfzjPK5XL1AMbVc7u6fb2TZUpzbvJ1fRb7r6p6OIUxGON1KRgZ8O0Bw==",
+    "sizeBytes": 107125347,
+    "notes": "v1.0.27: Bo sung Mau Hot moi Mo Ao Phan Sua (100% chuan video TikTok da trang sua hong lanh, ma hong duoi mat, moi dau cang bong & suong mo ao) + Bo loc Hong Sua Mo Ao + Dai nang cap GPU che do 2K (1440x2560) sieu muot ma & on dinh suot nhieu gio live (Cat 60% tai GPU 2K, khong giat khung hinh, tu phuc hoi GPU).",
+    "publishedAt": "20/11/2026 23:38:33",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.27/HOLY-TEAM-Studio-Setup-1.0.27.exe"
   },
   "store": {
     "plans": [
