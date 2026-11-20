@@ -1,14 +1,14 @@
 {
-  "updatedAt": "20/11/2026 23:54:35",
+  "updatedAt": "21/11/2026 00:09:58",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://cut-generated-reads-marker.trycloudflare.com",
   "ota": {
-    "version": "1.0.28",
-    "notes": "v1.0.28: Bo sung Thanh Luu & Reset Mau Hot co dinh tren moi tab lam dep — sau khi chon Mau Hot va sua them Mat, Moi, Da, Trang Diem, Mau Sac co the bam Luu Vao Mau, tao Mau Rieng moi (Mau Da Luu Cua Toi), Huy Sua ve ban luu gan nhat hoac Reset Goc 1 cham ve 100% thong so goc chuan.",
-    "sha256": "5f85fec7412aeb6e931bde778adc6986da572434c38011b953eb67c4529a46fd",
-    "signature": "6ryGov4p0EHmvNTqN27tfDu0u3eh88qSMpYQCbgCa8wQmjM5hMPRR357rDS2a_f2dIlJGZPAJ12GTUfhTn-mAA==",
-    "sizeBytes": 15181408,
-    "publishedAt": "20/11/2026 23:52:36",
+    "version": "1.0.29",
+    "notes": "v1.0.29: Nang cap Bao Toan 100% Thong So Lam Dep, Mau Rieng & Ban Chinh Mat/Moi Qua Moi Ban Update (Luu dong bo IPC tuc thi khi thoat/update, dong bang ket sat truoc update 4 lop, chon ban moi nhat tu dong phuc hoi va khong bao gio tron de thong so mau goc len ho so da chinh cua Idol).",
+    "sha256": "bc29ad57ef9d61165d7528faed06ddfad21ae86a5751d88d6005d35cd6a44cab",
+    "signature": "d92ENGQQAs5JhOQ9zeaAev_ztHpfyzvvBJSmXd_inFWbX_opV0xcsO9AFwys4Mf9tnufbq8QrQKLnqQPBfXKDQ==",
+    "sizeBytes": 15181661,
+    "publishedAt": "21/11/2026 00:09:09",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.28",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.28.exe",
-    "sha256": "ba0d785a88c14dde7837444905e9ec8f2237f5c8aecfbacafee1c05a54e33ea2",
-    "signature": "vTlYDbc5hCETpCY1O4GEg42L1zT7EWlWnRY_yy1_SS4kATQAWbMjll3tO8-iFgXpRvIFjD2bCkZktj0O22SjBA==",
-    "sizeBytes": 107130529,
-    "notes": "v1.0.28: Bo sung Thanh Luu & Reset Mau Hot co dinh tren moi tab lam dep — sau khi chon Mau Hot va sua them Mat, Moi, Da, Trang Diem, Mau Sac co the bam Luu Vao Mau, tao Mau Rieng moi (Mau Da Luu Cua Toi), Huy Sua ve ban luu gan nhat hoac Reset Goc 1 cham ve 100% thong so goc chuan.",
-    "publishedAt": "20/11/2026 23:54:34",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.28/HOLY-TEAM-Studio-Setup-1.0.28.exe"
+    "version": "1.0.29",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.29.exe",
+    "sha256": "d541fc0a13104ce577d4ae9186bc7be46c8ba330038a2fa4ff9d5ce3e0c96a8d",
+    "signature": "negVnsT0QsEIITFN8KV_sUP5I-f2FPjyloLijTxiGCLZRG0ZcMzGYE6uqobgPVsEeWD2iColLsnjR8JPO_ppCw==",
+    "sizeBytes": 107132172,
+    "notes": "v1.0.29: Nang cap Bao Toan 100% Thong So Lam Dep, Mau Rieng & Ban Chinh Mat/Moi Qua Moi Ban Update (Luu dong bo IPC tuc thi khi thoat/update, dong bang ket sat truoc update 4 lop, chon ban moi nhat tu dong phuc hoi va khong bao gio tron de thong so mau goc len ho so da chinh cua Idol).",
+    "publishedAt": "21/11/2026 00:09:58",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.29/HOLY-TEAM-Studio-Setup-1.0.29.exe"
   },
   "store": {
     "plans": [
