@@ -1,14 +1,14 @@
 {
-  "updatedAt": "20/11/2026 23:38:33",
+  "updatedAt": "20/11/2026 23:54:35",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://cut-generated-reads-marker.trycloudflare.com",
   "ota": {
-    "version": "1.0.27",
-    "notes": "v1.0.27: Bo sung Mau Hot moi Mo Ao Phan Sua (100% chuan video TikTok da trang sua hong lanh, ma hong duoi mat, moi dau cang bong & suong mo ao) + Bo loc Hong Sua Mo Ao + Dai nang cap GPU che do 2K (1440x2560) sieu muot ma & on dinh suot nhieu gio live (Cat 60% tai GPU 2K, khong giat khung hinh, tu phuc hoi GPU).",
-    "sha256": "e8e96d55222f75d64e12955f43f80b20da6727869350d4acd4f67415ec69b96d",
-    "signature": "QeieGZaDdYRDPBLgYK1DC0sgrispL-Z5OQtdLk1XygdtjMV3FiX4D_s0OemXJOdq76bz2Sys4nTTXgSCjELZDg==",
-    "sizeBytes": 15177589,
-    "publishedAt": "20/11/2026 23:37:42",
+    "version": "1.0.28",
+    "notes": "v1.0.28: Bo sung Thanh Luu & Reset Mau Hot co dinh tren moi tab lam dep — sau khi chon Mau Hot va sua them Mat, Moi, Da, Trang Diem, Mau Sac co the bam Luu Vao Mau, tao Mau Rieng moi (Mau Da Luu Cua Toi), Huy Sua ve ban luu gan nhat hoac Reset Goc 1 cham ve 100% thong so goc chuan.",
+    "sha256": "5f85fec7412aeb6e931bde778adc6986da572434c38011b953eb67c4529a46fd",
+    "signature": "6ryGov4p0EHmvNTqN27tfDu0u3eh88qSMpYQCbgCa8wQmjM5hMPRR357rDS2a_f2dIlJGZPAJ12GTUfhTn-mAA==",
+    "sizeBytes": 15181408,
+    "publishedAt": "20/11/2026 23:52:36",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.27",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.27.exe",
-    "sha256": "029ddaad18c0a44e59233f1ffe83247e7f1aa1491c5d9a8a78642bb336cdd731",
-    "signature": "RkcmFDXEjcT9iAAqGCiMY0jrsqIE2uvKfzjPK5XL1AMbVc7u6fb2TZUpzbvJ1fRb7r6p6OIUxGON1KRgZ8O0Bw==",
-    "sizeBytes": 107125347,
-    "notes": "v1.0.27: Bo sung Mau Hot moi Mo Ao Phan Sua (100% chuan video TikTok da trang sua hong lanh, ma hong duoi mat, moi dau cang bong & suong mo ao) + Bo loc Hong Sua Mo Ao + Dai nang cap GPU che do 2K (1440x2560) sieu muot ma & on dinh suot nhieu gio live (Cat 60% tai GPU 2K, khong giat khung hinh, tu phuc hoi GPU).",
-    "publishedAt": "20/11/2026 23:38:33",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.27/HOLY-TEAM-Studio-Setup-1.0.27.exe"
+    "version": "1.0.28",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.28.exe",
+    "sha256": "ba0d785a88c14dde7837444905e9ec8f2237f5c8aecfbacafee1c05a54e33ea2",
+    "signature": "vTlYDbc5hCETpCY1O4GEg42L1zT7EWlWnRY_yy1_SS4kATQAWbMjll3tO8-iFgXpRvIFjD2bCkZktj0O22SjBA==",
+    "sizeBytes": 107130529,
+    "notes": "v1.0.28: Bo sung Thanh Luu & Reset Mau Hot co dinh tren moi tab lam dep — sau khi chon Mau Hot va sua them Mat, Moi, Da, Trang Diem, Mau Sac co the bam Luu Vao Mau, tao Mau Rieng moi (Mau Da Luu Cua Toi), Huy Sua ve ban luu gan nhat hoac Reset Goc 1 cham ve 100% thong so goc chuan.",
+    "publishedAt": "20/11/2026 23:54:34",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.28/HOLY-TEAM-Studio-Setup-1.0.28.exe"
   },
   "store": {
     "plans": [
