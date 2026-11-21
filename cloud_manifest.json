@@ -1,14 +1,14 @@
 {
-  "updatedAt": "21/11/2026 21:37:17",
+  "updatedAt": "21/11/2026 21:53:03",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://cut-generated-reads-marker.trycloudflare.com",
   "ota": {
-    "version": "1.0.35",
-    "notes": "v1.0.35: An gon muc Tuy chon OBS & Driver nang cao khoi cot trai chong Idol bam nham, giao dien gon sach tuyet doi!",
-    "sha256": "602f62ce94a2162a6af3dd83b3a79330d9d7581cd0fc4d90e00a5ac3ed031ee9",
-    "signature": "CM3wtpIRWVpGWWIT-7FOfzwy9CGAXLVPNN_pvf7jFsgDTLGTLbTcem0jpS46Mnx5mYHVQPSDk4_9AILyvKjkDw==",
-    "sizeBytes": 15183865,
-    "publishedAt": "21/11/2026 21:35:04",
+    "version": "1.0.36",
+    "notes": "v1.0.36: Tu dong luu 100% moi chinh sua vao Mau Moi (Da, Bop Mat, Mat, Moi, Trang Diem, Bo Loc Mau, Hieu Ung, Mo Ao, Den Nen, AI 1-cham & ke ca chon Mau Hot co san nap thang vao Mau Moi) — khong can bam Cap Nhat thu cong!",
+    "sha256": "72fd5f9687a6df86a5b1c2495fb918c7f1ce07e8ce7c0c8dad27b72474dcac37",
+    "signature": "NSCxgkxH05k6HSUuAikvUFRSG8U5j1mLVDDaLGs-E1Rc065fHo_qwdgeDRBqO107xxZmNy6mLSzcFnqHsMMrBA==",
+    "sizeBytes": 15184932,
+    "publishedAt": "21/11/2026 21:50:42",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.35",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.35.exe",
-    "sha256": "b4d9c0dd583cc4b4e2d8cfc977557c48128eb9803940591ff96858ce3c813246",
-    "signature": "hD6436qRICMNWvZCxnWmYGqMrHd9ie3ZYYTnUJwQEp9Xjp97H2T03YG-ouzcT8p4JWcycbOaZgu9nPWTETP1AQ==",
-    "sizeBytes": 107336642,
-    "notes": "v1.0.35: An gon muc Tuy chon OBS & Driver nang cao khoi cot trai chong Idol bam nham, giao dien gon sach tuyet doi!",
-    "publishedAt": "21/11/2026 21:37:17",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.35/HOLY-TEAM-Studio-Setup-1.0.35.exe"
+    "version": "1.0.36",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.36.exe",
+    "sha256": "1338c327464d1c47b8be890b8e6c136d4fd2a154ea16d97e14a6bb9f727dc27c",
+    "signature": "Rf3GxIblyG7VMh0fOKx-joROQaxuUnolGSZ8hMJPGeZ1jwY_9xykg1ThUOeLixAn2dYciioin74FdyRVoWYzCA==",
+    "sizeBytes": 107337081,
+    "notes": "v1.0.36: Tu dong luu 100% moi chinh sua vao Mau Moi (Da, Bop Mat, Mat, Moi, Trang Diem, Bo Loc Mau, Hieu Ung, Mo Ao, Den Nen, AI 1-cham & ke ca chon Mau Hot co san nap thang vao Mau Moi) — khong can bam Cap Nhat thu cong!",
+    "publishedAt": "21/11/2026 21:53:03",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.36/HOLY-TEAM-Studio-Setup-1.0.36.exe"
   },
   "store": {
     "plans": [
