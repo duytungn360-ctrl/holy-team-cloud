@@ -1,14 +1,14 @@
 {
-  "updatedAt": "21/11/2026 00:09:58",
+  "updatedAt": "21/11/2026 15:57:38",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://cut-generated-reads-marker.trycloudflare.com",
   "ota": {
-    "version": "1.0.29",
-    "notes": "v1.0.29: Nang cap Bao Toan 100% Thong So Lam Dep, Mau Rieng & Ban Chinh Mat/Moi Qua Moi Ban Update (Luu dong bo IPC tuc thi khi thoat/update, dong bang ket sat truoc update 4 lop, chon ban moi nhat tu dong phuc hoi va khong bao gio tron de thong so mau goc len ho so da chinh cua Idol).",
-    "sha256": "bc29ad57ef9d61165d7528faed06ddfad21ae86a5751d88d6005d35cd6a44cab",
-    "signature": "d92ENGQQAs5JhOQ9zeaAev_ztHpfyzvvBJSmXd_inFWbX_opV0xcsO9AFwys4Mf9tnufbq8QrQKLnqQPBfXKDQ==",
-    "sizeBytes": 15181661,
-    "publishedAt": "21/11/2026 00:09:09",
+    "version": "1.0.30",
+    "notes": "v1.0.30: Tu dong mo khoa toan bo cam bien 4:3 goc rong (+33% rong va xa hon 16:9 tren Surface/Webcam, 0% vien den) + tu reset zoom phan cung UVC ve goc rong nhat + nang cap thanh Goc Rong / Zoom Cam tu 0.60x (Ra Xa tele mem nen bokeh) den 2.60x kem 4 nut nhanh Ra Xa / Rong / Chuan / Can.",
+    "sha256": "59c4c3c5d948f03cc7291b8865616f9a072adb1c8780a4ca919b337fc7873488",
+    "signature": "NnNs6hujFA8J8VUVrTiqopTJKKTSNROMcMkk7oHIU-1anWA6Kr-8ob5y7_3-hXJMmpI_3sWLKiK9LN_RN2rxAw==",
+    "sizeBytes": 15182403,
+    "publishedAt": "21/11/2026 15:56:38",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.29",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.29.exe",
-    "sha256": "d541fc0a13104ce577d4ae9186bc7be46c8ba330038a2fa4ff9d5ce3e0c96a8d",
-    "signature": "negVnsT0QsEIITFN8KV_sUP5I-f2FPjyloLijTxiGCLZRG0ZcMzGYE6uqobgPVsEeWD2iColLsnjR8JPO_ppCw==",
-    "sizeBytes": 107132172,
-    "notes": "v1.0.29: Nang cap Bao Toan 100% Thong So Lam Dep, Mau Rieng & Ban Chinh Mat/Moi Qua Moi Ban Update (Luu dong bo IPC tuc thi khi thoat/update, dong bang ket sat truoc update 4 lop, chon ban moi nhat tu dong phuc hoi va khong bao gio tron de thong so mau goc len ho so da chinh cua Idol).",
-    "publishedAt": "21/11/2026 00:09:58",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.29/HOLY-TEAM-Studio-Setup-1.0.29.exe"
+    "version": "1.0.30",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.30.exe",
+    "sha256": "21ed62ae95a84dbf9045dc869b56628d29006b335d9143f7a0f5bc54d7bf64c4",
+    "signature": "fW4FYA1CYNzfeGXuI0_unta8lAxIE2Z040bC4UNgI52w7gXvJbNDuds0nh4l162j8eBnQTS6cyTyli-0uKu4Dg==",
+    "sizeBytes": 107131563,
+    "notes": "v1.0.30: Tu dong mo khoa toan bo cam bien 4:3 goc rong (+33% rong va xa hon 16:9 tren Surface/Webcam, 0% vien den) + tu reset zoom phan cung UVC ve goc rong nhat + nang cap thanh Goc Rong / Zoom Cam tu 0.60x (Ra Xa tele mem nen bokeh) den 2.60x kem 4 nut nhanh Ra Xa / Rong / Chuan / Can.",
+    "publishedAt": "21/11/2026 15:57:38",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.30/HOLY-TEAM-Studio-Setup-1.0.30.exe"
   },
   "store": {
     "plans": [
