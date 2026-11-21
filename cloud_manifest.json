@@ -1,14 +1,14 @@
 {
-  "updatedAt": "21/11/2026 21:09:04",
+  "updatedAt": "21/11/2026 21:37:17",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://cut-generated-reads-marker.trycloudflare.com",
   "ota": {
-    "version": "1.0.34",
-    "notes": "v1.0.34: Sua triet de TikTok LIVE Studio khong hien HOLY TEAM Virtual Camera — Cai Driver toan he thong HKLM 64-bit + 32-bit (chuan 100% OBS NV12 FilterData, bam Yes 1 lan duy nhat!) + Fast-path YUY2->NV12 <0.35ms + Shared Memory xuyen quyen Admin!",
-    "sha256": "4b281b7b902fafa50da6ee527e972b13f4d6759b945eb2a726aaa82e9922b20c",
-    "signature": "Oten0yb_BbcwMSEnxyQEtpcq4Z3T3ARFmFCdiV0gp_Q_Xzj3bROonPJX5n1pqd4dyHXmLLJFbMXuWNsXI3qiAQ==",
-    "sizeBytes": 15183792,
-    "publishedAt": "21/11/2026 21:06:58",
+    "version": "1.0.35",
+    "notes": "v1.0.35: An gon muc Tuy chon OBS & Driver nang cao khoi cot trai chong Idol bam nham, giao dien gon sach tuyet doi!",
+    "sha256": "602f62ce94a2162a6af3dd83b3a79330d9d7581cd0fc4d90e00a5ac3ed031ee9",
+    "signature": "CM3wtpIRWVpGWWIT-7FOfzwy9CGAXLVPNN_pvf7jFsgDTLGTLbTcem0jpS46Mnx5mYHVQPSDk4_9AILyvKjkDw==",
+    "sizeBytes": 15183865,
+    "publishedAt": "21/11/2026 21:35:04",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.34",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.34.exe",
-    "sha256": "79ec4fee2d697629939bfdfab8068e07b3e1d142dfcd8f7659e14b63a70860d4",
-    "signature": "sQfm-xbJeNpQq6L-BSfN4r1ZgI435p7iQ_HFcXIcICU-aBpq_T_hRT0RsKo76tRn92io0s4TAMbI2LRrGJELCA==",
-    "sizeBytes": 107337509,
-    "notes": "v1.0.34: Sua triet de TikTok LIVE Studio khong hien HOLY TEAM Virtual Camera — Cai Driver toan he thong HKLM 64-bit + 32-bit (chuan 100% OBS NV12 FilterData, bam Yes 1 lan duy nhat!) + Fast-path YUY2->NV12 <0.35ms + Shared Memory xuyen quyen Admin!",
-    "publishedAt": "21/11/2026 21:09:03",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.34/HOLY-TEAM-Studio-Setup-1.0.34.exe"
+    "version": "1.0.35",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.35.exe",
+    "sha256": "b4d9c0dd583cc4b4e2d8cfc977557c48128eb9803940591ff96858ce3c813246",
+    "signature": "hD6436qRICMNWvZCxnWmYGqMrHd9ie3ZYYTnUJwQEp9Xjp97H2T03YG-ouzcT8p4JWcycbOaZgu9nPWTETP1AQ==",
+    "sizeBytes": 107336642,
+    "notes": "v1.0.35: An gon muc Tuy chon OBS & Driver nang cao khoi cot trai chong Idol bam nham, giao dien gon sach tuyet doi!",
+    "publishedAt": "21/11/2026 21:37:17",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.35/HOLY-TEAM-Studio-Setup-1.0.35.exe"
   },
   "store": {
     "plans": [
