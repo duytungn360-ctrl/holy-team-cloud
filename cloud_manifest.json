@@ -1,14 +1,14 @@
 {
-  "updatedAt": "21/11/2026 18:36:19",
+  "updatedAt": "21/11/2026 20:49:28",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://cut-generated-reads-marker.trycloudflare.com",
   "ota": {
-    "version": "1.0.32",
-    "notes": "v1.0.32: Go bo 2 nut Tu Cai OBS khoi cot trai, giu nguyen gon gang toan bo tinh nang goc rong 4:3 + tele ra xa, Mau Hot Mo Ao Phan Sua, Luu & Reset Mau Hot, 2K muot ma va bao toan 100% thong so lam dep.",
-    "sha256": "7e37b2c7f8669683f6173ebc3b32f5d2b8383fe6a58bf9941a114108985b23eb",
-    "signature": "Xb4u0tuVWwZbi8joPW3Mhn_RORvDFXjkDNJQ02iks56P_OXc8VEbAOla3dthF95cVgqcxLChs_F2JIQkSFo5BA==",
-    "sizeBytes": 15182397,
-    "publishedAt": "21/11/2026 18:35:13",
+    "version": "1.0.33",
+    "notes": "v1.0.33: Ra mat Camera Ao Doc Lap HOLY TEAM Virtual Camera (0 can OBS, 0 can Python, 0 can phong Man Phu, 60FPS YUY2 chon thang trong TikTok LIVE Studio, giu nguyen 100% Xuat Man Phu 9:16 cho OBS & cau hinh Idol!)",
+    "sha256": "cd9ee501ce166d01f36e67e927ff51d87743f9e3949d134f9200e1dfc6f8199a",
+    "signature": "ebP9cKDXUlMc1v18cMU-rdHbdEN9UbtRmkJjfKBMKLOc1zXAV2GM1BKKBqRj3h9gcFt5kg0WmklUQsQvv6EhAQ==",
+    "sizeBytes": 15183718,
+    "publishedAt": "21/11/2026 20:48:41",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.32",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.32.exe",
-    "sha256": "2c8a9c51b0fe0c6e78a64cb9ffb25043480d0eb1d74d44a35e7eda9221499c1d",
-    "signature": "jGYrBCLDptLMyV8tUHD10osl9oWuEVvnU9TBfXtNczHG2qytlnCW5Vq8dC7Q3kFVfBc2gYoHxQ3285eAXWVDDw==",
-    "sizeBytes": 107130779,
-    "notes": "v1.0.32: Go bo 2 nut Tu Cai OBS khoi cot trai, giu nguyen gon gang toan bo tinh nang goc rong 4:3 + tele ra xa, Mau Hot Mo Ao Phan Sua, Luu & Reset Mau Hot, 2K muot ma va bao toan 100% thong so lam dep.",
-    "publishedAt": "21/11/2026 18:36:19",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.32/HOLY-TEAM-Studio-Setup-1.0.32.exe"
+    "version": "1.0.33",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.33.exe",
+    "sha256": "4c9842791f76a83416b1a28f115acf2617f54b871fc1de8bc47148fef9421e1d",
+    "signature": "CSOg1RTVujnVIKTXXX_jBJCrMEQicol2UrocFYroD9zl7Q40Vr9kFdcaT_HUp60cBbvufakBWEOjbS-N7etcBQ==",
+    "sizeBytes": 107234471,
+    "notes": "v1.0.33: Ra mat Camera Ao Doc Lap HOLY TEAM Virtual Camera (0 can OBS, 0 can Python, 0 can phong Man Phu, 60FPS YUY2 chon thang trong TikTok LIVE Studio, giu nguyen 100% Xuat Man Phu 9:16 cho OBS & cau hinh Idol!)",
+    "publishedAt": "21/11/2026 20:49:28",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.33/HOLY-TEAM-Studio-Setup-1.0.33.exe"
   },
   "store": {
     "plans": [
