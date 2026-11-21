@@ -1,14 +1,14 @@
 {
-  "updatedAt": "21/11/2026 20:49:28",
+  "updatedAt": "21/11/2026 21:09:04",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://cut-generated-reads-marker.trycloudflare.com",
   "ota": {
-    "version": "1.0.33",
-    "notes": "v1.0.33: Ra mat Camera Ao Doc Lap HOLY TEAM Virtual Camera (0 can OBS, 0 can Python, 0 can phong Man Phu, 60FPS YUY2 chon thang trong TikTok LIVE Studio, giu nguyen 100% Xuat Man Phu 9:16 cho OBS & cau hinh Idol!)",
-    "sha256": "cd9ee501ce166d01f36e67e927ff51d87743f9e3949d134f9200e1dfc6f8199a",
-    "signature": "ebP9cKDXUlMc1v18cMU-rdHbdEN9UbtRmkJjfKBMKLOc1zXAV2GM1BKKBqRj3h9gcFt5kg0WmklUQsQvv6EhAQ==",
-    "sizeBytes": 15183718,
-    "publishedAt": "21/11/2026 20:48:41",
+    "version": "1.0.34",
+    "notes": "v1.0.34: Sua triet de TikTok LIVE Studio khong hien HOLY TEAM Virtual Camera — Cai Driver toan he thong HKLM 64-bit + 32-bit (chuan 100% OBS NV12 FilterData, bam Yes 1 lan duy nhat!) + Fast-path YUY2->NV12 <0.35ms + Shared Memory xuyen quyen Admin!",
+    "sha256": "4b281b7b902fafa50da6ee527e972b13f4d6759b945eb2a726aaa82e9922b20c",
+    "signature": "Oten0yb_BbcwMSEnxyQEtpcq4Z3T3ARFmFCdiV0gp_Q_Xzj3bROonPJX5n1pqd4dyHXmLLJFbMXuWNsXI3qiAQ==",
+    "sizeBytes": 15183792,
+    "publishedAt": "21/11/2026 21:06:58",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.33",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.33.exe",
-    "sha256": "4c9842791f76a83416b1a28f115acf2617f54b871fc1de8bc47148fef9421e1d",
-    "signature": "CSOg1RTVujnVIKTXXX_jBJCrMEQicol2UrocFYroD9zl7Q40Vr9kFdcaT_HUp60cBbvufakBWEOjbS-N7etcBQ==",
-    "sizeBytes": 107234471,
-    "notes": "v1.0.33: Ra mat Camera Ao Doc Lap HOLY TEAM Virtual Camera (0 can OBS, 0 can Python, 0 can phong Man Phu, 60FPS YUY2 chon thang trong TikTok LIVE Studio, giu nguyen 100% Xuat Man Phu 9:16 cho OBS & cau hinh Idol!)",
-    "publishedAt": "21/11/2026 20:49:28",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.33/HOLY-TEAM-Studio-Setup-1.0.33.exe"
+    "version": "1.0.34",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.34.exe",
+    "sha256": "79ec4fee2d697629939bfdfab8068e07b3e1d142dfcd8f7659e14b63a70860d4",
+    "signature": "sQfm-xbJeNpQq6L-BSfN4r1ZgI435p7iQ_HFcXIcICU-aBpq_T_hRT0RsKo76tRn92io0s4TAMbI2LRrGJELCA==",
+    "sizeBytes": 107337509,
+    "notes": "v1.0.34: Sua triet de TikTok LIVE Studio khong hien HOLY TEAM Virtual Camera — Cai Driver toan he thong HKLM 64-bit + 32-bit (chuan 100% OBS NV12 FilterData, bam Yes 1 lan duy nhat!) + Fast-path YUY2->NV12 <0.35ms + Shared Memory xuyen quyen Admin!",
+    "publishedAt": "21/11/2026 21:09:03",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.34/HOLY-TEAM-Studio-Setup-1.0.34.exe"
   },
   "store": {
     "plans": [
