@@ -1,14 +1,14 @@
 {
-  "updatedAt": "21/11/2026 18:27:13",
+  "updatedAt": "21/11/2026 18:36:19",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://cut-generated-reads-marker.trycloudflare.com",
   "ota": {
-    "version": "1.0.31",
-    "notes": "v1.0.31: Bo sung 2 nut Tu Cai OBS 1-Cham khong can WebSocket ngay trong cot trai HOLY TEAM Studio — Tu dong chuyen OBS sang doc 9:16 (1080x1920 60FPS Lanczos) hoac Tran Vien iPhone (1080x2340 60FPS) kem tu them nguon HOLY TEAM Man Phu phu kin 100% khong meo mat khong vien den.",
-    "sha256": "d35d238d95217e4cadf7c8620bb2ebef5053adf99e10bec0971a66eb250915ca",
-    "signature": "aFzZ1L4PZS8EtNB7MDb1xuwCvC8CjD6ABeMLTJdeXFiM7ki1_LDXidbVDsnw4kxvIl1J4xhCBVYlTB5w8iW5Cg==",
-    "sizeBytes": 15182846,
-    "publishedAt": "21/11/2026 18:26:11",
+    "version": "1.0.32",
+    "notes": "v1.0.32: Go bo 2 nut Tu Cai OBS khoi cot trai, giu nguyen gon gang toan bo tinh nang goc rong 4:3 + tele ra xa, Mau Hot Mo Ao Phan Sua, Luu & Reset Mau Hot, 2K muot ma va bao toan 100% thong so lam dep.",
+    "sha256": "7e37b2c7f8669683f6173ebc3b32f5d2b8383fe6a58bf9941a114108985b23eb",
+    "signature": "Xb4u0tuVWwZbi8joPW3Mhn_RORvDFXjkDNJQ02iks56P_OXc8VEbAOla3dthF95cVgqcxLChs_F2JIQkSFo5BA==",
+    "sizeBytes": 15182397,
+    "publishedAt": "21/11/2026 18:35:13",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.31",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.31.exe",
-    "sha256": "814aa1b4774ccf2c15a7281782de4ec207407744377c02069d76e2faf7e0a927",
-    "signature": "wy0XJAXNPmi4nTgA5op3curQjj4Y4j_hOe9U7rby3BAW4Wej0ErXd_t2YStz5nXehA4BlmesmqNGFrQbWJWmCQ==",
-    "sizeBytes": 107135110,
-    "notes": "v1.0.31: Bo sung 2 nut Tu Cai OBS 1-Cham khong can WebSocket ngay trong cot trai HOLY TEAM Studio — Tu dong chuyen OBS sang doc 9:16 (1080x1920 60FPS Lanczos) hoac Tran Vien iPhone (1080x2340 60FPS) kem tu them nguon HOLY TEAM Man Phu phu kin 100% khong meo mat khong vien den.",
-    "publishedAt": "21/11/2026 18:27:13",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.31/HOLY-TEAM-Studio-Setup-1.0.31.exe"
+    "version": "1.0.32",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.32.exe",
+    "sha256": "2c8a9c51b0fe0c6e78a64cb9ffb25043480d0eb1d74d44a35e7eda9221499c1d",
+    "signature": "jGYrBCLDptLMyV8tUHD10osl9oWuEVvnU9TBfXtNczHG2qytlnCW5Vq8dC7Q3kFVfBc2gYoHxQ3285eAXWVDDw==",
+    "sizeBytes": 107130779,
+    "notes": "v1.0.32: Go bo 2 nut Tu Cai OBS khoi cot trai, giu nguyen gon gang toan bo tinh nang goc rong 4:3 + tele ra xa, Mau Hot Mo Ao Phan Sua, Luu & Reset Mau Hot, 2K muot ma va bao toan 100% thong so lam dep.",
+    "publishedAt": "21/11/2026 18:36:19",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.32/HOLY-TEAM-Studio-Setup-1.0.32.exe"
   },
   "store": {
     "plans": [
