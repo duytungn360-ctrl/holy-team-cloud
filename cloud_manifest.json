@@ -1,14 +1,14 @@
 {
-  "updatedAt": "23/11/2026 17:45:39",
+  "updatedAt": "23/11/2026 17:55:25",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "",
   "ota": {
-    "version": "1.0.40",
-    "notes": "Thêm 2 hiệu ứng Thăng Cấp nền trong suốt giữ nguyên độ dài gốc: Fan Club Level-up (8.4s) & Wealth Level-up (7.7s) — tự nhận biết 2 lớp qua EulerStream, thay Avatar tròn thật phía sau khung 3D (đầu báo/ruby/kim cương đè trên) & Tên khách thật sắc nét!",
-    "sha256": "a8a8a1136ee9a0644d668a362bdaf58e39f44eef1ccb1195de1f8592203ce873",
-    "signature": "ZxXKniQ0n31NQf4xif9eYkpJxApEkJvQtfRPpRSHQ0XWoT7wqIf-imj3u-B8QM1NOegPqTiDFMyg28kapIEjDg==",
-    "sizeBytes": 23049213,
-    "publishedAt": "23/11/2026 17:44:46",
+    "version": "1.0.41",
+    "notes": "Bổ sung hiệu ứng Vào Phòng riêng cho Thành Viên Fan Club (Trái Tim Ruby • 3.0s VP9 Alpha trong suốt + Opus Audio): ghép Avatar 3D lọt phía sau Trái Tim & Ngôi Sao Vàng, hiển thị động FanClub • Lv X + Tên khách thật và phân tầng thông minh 3 lớp!",
+    "sha256": "a89b77cd9e55d4d1448157fd879a8f08f79aa4c218f9005992b8a6b70b6f36a1",
+    "signature": "nRpLTRcpQ6G_tpcmKxBVM-G2FtGnzW4cengwR4NKEZIuljigXOYdTuzquBqctJEHubIlDRDb9Hflz5w_ucL1BA==",
+    "sizeBytes": 24929585,
+    "publishedAt": "23/11/2026 17:53:47",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.40",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.40.exe",
-    "sha256": "81821974f9d461c294a4e928345102c1e06c2faa4e2aaa26df83e1c6ccdc4904",
-    "signature": "gfhiPed_WucveU_KJP0x2yV3K68-D6POeFlqZ8Dr4XnnyC4Mb7XhsyVFZiLPYxb_loXacHkxnvdXoO8GOfjABQ==",
-    "sizeBytes": 115186200,
-    "notes": "Thêm 2 hiệu ứng Thăng Cấp nền trong suốt giữ nguyên độ dài gốc: Fan Club Level-up (8.4s) & Wealth Level-up (7.7s) — tự nhận biết 2 lớp qua EulerStream, thay Avatar tròn thật phía sau khung 3D (đầu báo/ruby/kim cương đè trên) & Tên khách thật sắc nét!",
-    "publishedAt": "23/11/2026 17:45:39",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.40/HOLY-TEAM-Studio-Setup-1.0.40.exe"
+    "version": "1.0.41",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.41.exe",
+    "sha256": "64202acea2cbe63dc8c734f0921dc8e12ed99da1718cfad368f94572c1dec332",
+    "signature": "nxr2lqVQ1ZZOPJRH7wo2qToHlwBytjEiYoAArvqAviy4qgL4FFuYP9ilXDuk_LJe6lethF9zVHjU6bBXwgzHCw==",
+    "sizeBytes": 117069311,
+    "notes": "Bổ sung hiệu ứng Vào Phòng riêng cho Thành Viên Fan Club (Trái Tim Ruby • 3.0s VP9 Alpha trong suốt + Opus Audio): ghép Avatar 3D lọt phía sau Trái Tim & Ngôi Sao Vàng, hiển thị động FanClub • Lv X + Tên khách thật và phân tầng thông minh 3 lớp!",
+    "publishedAt": "23/11/2026 17:55:25",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.41/HOLY-TEAM-Studio-Setup-1.0.41.exe"
   },
   "store": {
     "plans": [
