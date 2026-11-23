@@ -1,14 +1,14 @@
 {
-  "updatedAt": "23/11/2026 21:24:36",
+  "updatedAt": "23/11/2026 22:04:23",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "",
   "ota": {
-    "version": "1.0.50",
-    "notes": "⚡ Đại tối ưu Zero-Lag 60FPS cho Chế Độ Noel v1.0.50: (1) Nướng gộp sẵn 100% cặp Móc Vàng + Bóng Đổ + Quả Châu Avatar + Icon Quà thành 1 Sprite đệm (xóa sạch 112+ lệnh shadowBlur & createRadialGradient mỗi khung hình); (2) Tuyết rơi sau lưng chạy 100% trên GPU GLSL (0ms CPU, 0 MB/s upload khi chỉ bật Tuyết); (3) Cắt giảm 78% băng thông đẩy texture lên VRAM nhờ khung 720×1280 siêu mượt & tự điều nhịp thông minh (tự lên 1080×1920 khi phát Video Vào Phòng) — giữ khóa cứng 60FPS kể cả khi rơi hàng nghìn quà đầy màn hình!",
-    "sha256": "e1e4aca8e243101d8390736713146d2653410d3c99d59ec54760f49f1cd97a28",
-    "signature": "DyNioWy-6U9I0AmItRw2eWDcjHURJxP8-5g7kVzGcP1By6hBUUJT8vSj9HbuJkRYBPpomGtUItGJOLoQ1UhbBw==",
-    "sizeBytes": 74661553,
-    "publishedAt": "23/11/2026 21:21:29",
+    "version": "1.0.51",
+    "notes": "v1.0.51 — Nâng cấp Cây Thông Noel 3D chuẩn Móc Chìa Khóa Vàng Hoàng Gia (Option 1) & TOP 1 Đỉnh Ngôi Sao 3D Cartier Gold (Khóa mượt 60FPS): (1) Toàn bộ 56 quà treo trên tán cây & đống quà rơi tràn màn hình chuyển sang kiểu Móc Chìa Khóa Vàng Hoàng Gia (Khuyên vàng ➔ Avatar viền vàng 3D ➔ Xích 2 mắt ➔ Quà TikTok thật viền kem sắc nét, đung đưa tự nhiên từ khuyên móc). (2) Vinh danh đại gia TOP 1 Phòng Live to nhất trên Đỉnh Ngôi Sao 3D Vàng Sâm-Panh (Cartier Gold 8 cánh vát khối + Viền 24 kim cương + Thẻ kính mờ TOP 1 • Tên), tự động đồng bộ BXH Quà Phòng Live TikTok (WebcastRoomUserSeqMessage) & nổ pháo hoa + chuông Noel khi soán ngôi. (3) Nướng sẵn 100% Sprite (0 shadowBlur, <0.05ms/khung) đảm bảo không giật lag kể cả treo kín cây + hàng nghìn quà rơi.",
+    "sha256": "32f19e6f5c167f873421ee38fdaeddce489426017bf517bc8589d1f4d7a77c29",
+    "signature": "6BguW5uyYHBun0YZN-6hN908GZNrV5VTWyKguPktKAag81ljIfl9wKDLX5pf8tu4GdiyW9xkjIsyKXpp5tKnDw==",
+    "sizeBytes": 74735156,
+    "publishedAt": "23/11/2026 22:03:12",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.50",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.50.exe",
-    "sha256": "cd59aae65ac55e9dfde289d7efae9adfc843a10f50a1a96b5421b592c28c31aa",
-    "signature": "FXhDqi7z1FPnKxB0J5CHA_4OEjaWZTVWUwIIdjnsYCqDtuZG5Sn896Ba8MhoK2vblvCAIyYbbPS5buHZE80mDg==",
-    "sizeBytes": 166802646,
-    "notes": "⚡ Đại tối ưu Zero-Lag 60FPS cho Chế Độ Noel v1.0.50: (1) Nướng gộp sẵn 100% cặp Móc Vàng + Bóng Đổ + Quả Châu Avatar + Icon Quà thành 1 Sprite đệm (xóa sạch 112+ lệnh shadowBlur & createRadialGradient mỗi khung hình); (2) Tuyết rơi sau lưng chạy 100% trên GPU GLSL (0ms CPU, 0 MB/s upload khi chỉ bật Tuyết); (3) Cắt giảm 78% băng thông đẩy texture lên VRAM nhờ khung 720×1280 siêu mượt & tự điều nhịp thông minh (tự lên 1080×1920 khi phát Video Vào Phòng) — giữ khóa cứng 60FPS kể cả khi rơi hàng nghìn quà đầy màn hình!",
-    "publishedAt": "23/11/2026 21:24:36",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.50/HOLY-TEAM-Studio-Setup-1.0.50.exe"
+    "version": "1.0.51",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.51.exe",
+    "sha256": "fe429671d53670fb716d9ab2980cb2e43d49dbe7623748f324878cbdf5703cf6",
+    "signature": "EfG26BldqTxqJf56PWXlDPNKvdo82zIm6Bfrg3go6gHD0WyDgpMz40j9uq4xJf2izw78nLlP-L_p-c28dsklBQ==",
+    "sizeBytes": 166874932,
+    "notes": "v1.0.51 — Nâng cấp Cây Thông Noel 3D chuẩn Móc Chìa Khóa Vàng Hoàng Gia (Option 1) & TOP 1 Đỉnh Ngôi Sao 3D Cartier Gold (Khóa mượt 60FPS): (1) Toàn bộ 56 quà treo trên tán cây & đống quà rơi tràn màn hình chuyển sang kiểu Móc Chìa Khóa Vàng Hoàng Gia (Khuyên vàng ➔ Avatar viền vàng 3D ➔ Xích 2 mắt ➔ Quà TikTok thật viền kem sắc nét, đung đưa tự nhiên từ khuyên móc). (2) Vinh danh đại gia TOP 1 Phòng Live to nhất trên Đỉnh Ngôi Sao 3D Vàng Sâm-Panh (Cartier Gold 8 cánh vát khối + Viền 24 kim cương + Thẻ kính mờ TOP 1 • Tên), tự động đồng bộ BXH Quà Phòng Live TikTok (WebcastRoomUserSeqMessage) & nổ pháo hoa + chuông Noel khi soán ngôi. (3) Nướng sẵn 100% Sprite (0 shadowBlur, <0.05ms/khung) đảm bảo không giật lag kể cả treo kín cây + hàng nghìn quà rơi.",
+    "publishedAt": "23/11/2026 22:04:23",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.51/HOLY-TEAM-Studio-Setup-1.0.51.exe"
   },
   "store": {
     "plans": [
