@@ -1,14 +1,14 @@
 {
-  "updatedAt": "23/11/2026 20:34:30",
+  "updatedAt": "23/11/2026 20:52:23",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "",
   "ota": {
-    "version": "1.0.47",
-    "notes": "🎄 Nâng cấp lớn Chế Độ Noel v1.0.47: (1) Giữ nguyên 100% màu da & trang điểm Idol — chỉ bật/tắt Tuyết rơi 3D phía sau lưng; (2) Tích hợp đủ 4 mẫu Cây Thông Noel 3D cực đẹp (👑 Hoàng Gia Xanh Ngọc, 🌸 Công Chúa Hồng Phấn, ❄️ Bạch Tuyết Pha Lê, ✨ Đế Vương Vàng & Đỏ), bật Cây Thông tự động tắt Hũ Quà & Bé Chibi; (3) Treo dày 56 vị trí trên cành cây đúng món quà thật (Hoa Hồng, Gấu, Donut, icon gốc TikTok...) KÈM AVATAR USER THẬT (hỗ trợ cả Kiểu A Quả Châu Avatar & Kiểu B Quà To + Avatar); (4) Đầy 56 chỗ trên cây sẽ tự rơi chất đống ngập chân cây & tràn đầy màn hình KHÔNG BAO GIỜ MẤT QUÀ vẫn giữ mượt 60FPS!",
-    "sha256": "25ad5597fa6816076209c70a7d6af1526355f86791797862307b4b03925bbd6f",
-    "signature": "hml0b3WD9TLGS5ZIakGBToYpe1woT7RNwJX5muT_YL_UG-OdH07Wz6V61R3wGLL_8vZLJoqZNNIS5eGBjBJBAQ==",
-    "sizeBytes": 74659010,
-    "publishedAt": "23/11/2026 20:29:58",
+    "version": "1.0.48",
+    "notes": "🎄 Nâng cấp điều chỉnh Cây Thông Noel tự do v1.0.48: (1) Nắm kéo trực tiếp Cây Thông trên khung Live đặt tới bất kỳ đâu (có khung viền vàng nét đứt khi kéo & tự lưu theo Hồ sơ Idol); (2) Mở rộng thanh chỉnh Kích thước Cây Thông từ 50% đến 180% (nháy đúp về 100%); (3) Thêm 3 nút vị trí nhanh (Góc Trái / Chính Giữa / Góc Phải) cùng 2 thanh tinh chỉnh Vị trí Ngang & Độ cao đồng bộ trực tiếp theo tay kéo!",
+    "sha256": "8992bdb1a4c5163f6ae9c4474d4c40fd3a73148815b402b7e049538dfc1131a1",
+    "signature": "UCwb3UPODpV9xMaMgJAjy_HvVSIGn3pKOt5zaG7KdZkGjpXF0ecgGWKbLzDfX7iKGR17v-i2qB_sCQUsuLgSCQ==",
+    "sizeBytes": 74660399,
+    "publishedAt": "23/11/2026 20:48:54",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.47",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.47.exe",
-    "sha256": "1557f6090c1fe5af156fc465602534490bf80a11c851f9eed6b756f06e5c1ca5",
-    "signature": "i3mqwipsyK16xqqvEcPd1d2gygnFIKeZqXzOvvE0zLWJtzQ4rNUrTeIaBHJ9WEjcNrt4EfZVUr8HEkILbrcIBg==",
-    "sizeBytes": 166800301,
-    "notes": "🎄 Nâng cấp lớn Chế Độ Noel v1.0.47: (1) Giữ nguyên 100% màu da & trang điểm Idol — chỉ bật/tắt Tuyết rơi 3D phía sau lưng; (2) Tích hợp đủ 4 mẫu Cây Thông Noel 3D cực đẹp (👑 Hoàng Gia Xanh Ngọc, 🌸 Công Chúa Hồng Phấn, ❄️ Bạch Tuyết Pha Lê, ✨ Đế Vương Vàng & Đỏ), bật Cây Thông tự động tắt Hũ Quà & Bé Chibi; (3) Treo dày 56 vị trí trên cành cây đúng món quà thật (Hoa Hồng, Gấu, Donut, icon gốc TikTok...) KÈM AVATAR USER THẬT (hỗ trợ cả Kiểu A Quả Châu Avatar & Kiểu B Quà To + Avatar); (4) Đầy 56 chỗ trên cây sẽ tự rơi chất đống ngập chân cây & tràn đầy màn hình KHÔNG BAO GIỜ MẤT QUÀ vẫn giữ mượt 60FPS!",
-    "publishedAt": "23/11/2026 20:34:30",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.47/HOLY-TEAM-Studio-Setup-1.0.47.exe"
+    "version": "1.0.48",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.48.exe",
+    "sha256": "bd115992c0e9ad988b4de65a9beeba65dc708e3c7ea2d005f51aba099c4de384",
+    "signature": "UTpXUU-_oIjyLL9sURgty0du_N4R2syT4i8kq6iMCVqAFdZgiEzcaib_wfBbqJm1cuqDfGAD8KeMO5jWCgvMCw==",
+    "sizeBytes": 166798574,
+    "notes": "🎄 Nâng cấp điều chỉnh Cây Thông Noel tự do v1.0.48: (1) Nắm kéo trực tiếp Cây Thông trên khung Live đặt tới bất kỳ đâu (có khung viền vàng nét đứt khi kéo & tự lưu theo Hồ sơ Idol); (2) Mở rộng thanh chỉnh Kích thước Cây Thông từ 50% đến 180% (nháy đúp về 100%); (3) Thêm 3 nút vị trí nhanh (Góc Trái / Chính Giữa / Góc Phải) cùng 2 thanh tinh chỉnh Vị trí Ngang & Độ cao đồng bộ trực tiếp theo tay kéo!",
+    "publishedAt": "23/11/2026 20:52:23",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.48/HOLY-TEAM-Studio-Setup-1.0.48.exe"
   },
   "store": {
     "plans": [
