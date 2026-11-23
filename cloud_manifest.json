@@ -1,14 +1,14 @@
 {
-  "updatedAt": "23/11/2026 16:51:23",
+  "updatedAt": "23/11/2026 17:02:01",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "",
   "ota": {
-    "version": "1.0.38",
-    "notes": "v1.0.38: Ra mat Hieu Ung Video Khach Vao Phong Theo Cap Do (Tang Lv 1-10: HoLyTeam Dong Thu 3s VP9 Alpha trong suot 1.82MB, tu ghep Avatar that + So Cap Lv + HoLyTeam + Ten khach qua API EulerStream, co nut Test 3s ngay tren cam!)",
-    "sha256": "8ec1ec89bb88ac48f42658994cfdfa8d274c2d0144a7682ff996399bbb4e1b3f",
-    "signature": "PPJ72eRis8DZVq0pnrPcH-E99_C2nw7juBW1jOhQNKNzjx1tOBPQ45mjxOdiPcprWh2UURs_vnbKXOqdXBeIAg==",
-    "sizeBytes": 17096413,
-    "publishedAt": "23/11/2026 16:50:20",
+    "version": "1.0.39",
+    "notes": "v1.0.39: Bo sung Tang 2 Hieu Ung Video Vao Phong HoLyTeam Vuong Mien De Vuong 3s cho khach Lv 11+ (1.58MB VP9 Alpha trong suot, ghep Avatar that + So Cap Lv + HoLyTeam + Ten khach, nut Test rieng tung tang ngay trong Tab Qua AR!)",
+    "sha256": "5e65dfa57ad155ad5347cca48b1b2c8be12ae905260c329e4a4bf1172cd2dcc3",
+    "signature": "xLUYgICClUza0Uq-qwgfrZO6DV_QpkN_dNMInDxK2mgJYUNQshVnPDjMMTHE6MJtQVF9nOJ1L500NnGEesCsAA==",
+    "sizeBytes": 18750971,
+    "publishedAt": "23/11/2026 17:00:16",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.38",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.38.exe",
-    "sha256": "c026544a1677183be1eb49e455ddb2b738043572fe0132838ea6a61a6aeeb9b7",
-    "signature": "Fki6qp6z1FAsmgh7MvAG_FsKkXr2BruM8RnmQbmDoPeOupjvSAaAZWmrPWpBr5SdcKuquH7EafAGggWdTV3bBw==",
-    "sizeBytes": 109224399,
-    "notes": "v1.0.38: Ra mat Hieu Ung Video Khach Vao Phong Theo Cap Do (Tang Lv 1-10: HoLyTeam Dong Thu 3s VP9 Alpha trong suot 1.82MB, tu ghep Avatar that + So Cap Lv + HoLyTeam + Ten khach qua API EulerStream, co nut Test 3s ngay tren cam!)",
-    "publishedAt": "23/11/2026 16:51:23",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.38/HOLY-TEAM-Studio-Setup-1.0.38.exe"
+    "version": "1.0.39",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.39.exe",
+    "sha256": "dde7b7355da5a4bb0a116f54ca3d45aef6d7e9f613db14920e4928d4a0a32376",
+    "signature": "SPyhHNpWXUxcov1s-yT9lUZBuh9J5Ax6AmC9IRnbQj7Mqtn9M2MhE3YTImaF67UqAOlYJxqiaCL8LR-DHrzrDQ==",
+    "sizeBytes": 110891620,
+    "notes": "v1.0.39: Bo sung Tang 2 Hieu Ung Video Vao Phong HoLyTeam Vuong Mien De Vuong 3s cho khach Lv 11+ (1.58MB VP9 Alpha trong suot, ghep Avatar that + So Cap Lv + HoLyTeam + Ten khach, nut Test rieng tung tang ngay trong Tab Qua AR!)",
+    "publishedAt": "23/11/2026 17:02:01",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.39/HOLY-TEAM-Studio-Setup-1.0.39.exe"
   },
   "store": {
     "plans": [
