@@ -1,14 +1,14 @@
 {
-  "updatedAt": "21/11/2026 22:05:17",
+  "updatedAt": "23/11/2026 16:51:23",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
-  "liveHubUrl": "https://cut-generated-reads-marker.trycloudflare.com",
+  "liveHubUrl": "",
   "ota": {
-    "version": "1.0.37",
-    "notes": "v1.0.37: Bo sung nut ↺ Reset truc tiep ngay tren the Mau Da Luu (ca Mau Hot ★ Da luu lan Mau Rieng cua toi) & tren thanh Action Bar!",
-    "sha256": "b674dbe57e4e68400e30efe7c53557b00de86c28f3d184fbb498c2281b1afe10",
-    "signature": "KkRdiy-cN1OP9m6iVOIAcygb1XuxhTSCZRM1F9a7wlTMM5h6MioAG2l38Jj0Q_23mEZ1leTul6pRIcqmX44JCw==",
-    "sizeBytes": 15185415,
-    "publishedAt": "21/11/2026 22:03:03",
+    "version": "1.0.38",
+    "notes": "v1.0.38: Ra mat Hieu Ung Video Khach Vao Phong Theo Cap Do (Tang Lv 1-10: HoLyTeam Dong Thu 3s VP9 Alpha trong suot 1.82MB, tu ghep Avatar that + So Cap Lv + HoLyTeam + Ten khach qua API EulerStream, co nut Test 3s ngay tren cam!)",
+    "sha256": "8ec1ec89bb88ac48f42658994cfdfa8d274c2d0144a7682ff996399bbb4e1b3f",
+    "signature": "PPJ72eRis8DZVq0pnrPcH-E99_C2nw7juBW1jOhQNKNzjx1tOBPQ45mjxOdiPcprWh2UURs_vnbKXOqdXBeIAg==",
+    "sizeBytes": 17096413,
+    "publishedAt": "23/11/2026 16:50:20",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.37",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.37.exe",
-    "sha256": "34b2b3d8970a2f2d2b225d079601cee6518706cfd405415d26fde81fbe1bb673",
-    "signature": "g48eFAIquXfIDNKBdZ52HkEPrENn63mjUWNRsy4LCEJozWFVG0d3a_WoCkbu6TvfrypqrjVmpPx2EWwqM9OOCA==",
-    "sizeBytes": 107337184,
-    "notes": "v1.0.37: Bo sung nut ↺ Reset truc tiep ngay tren the Mau Da Luu (ca Mau Hot ★ Da luu lan Mau Rieng cua toi) & tren thanh Action Bar!",
-    "publishedAt": "21/11/2026 22:05:17",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.37/HOLY-TEAM-Studio-Setup-1.0.37.exe"
+    "version": "1.0.38",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.38.exe",
+    "sha256": "c026544a1677183be1eb49e455ddb2b738043572fe0132838ea6a61a6aeeb9b7",
+    "signature": "Fki6qp6z1FAsmgh7MvAG_FsKkXr2BruM8RnmQbmDoPeOupjvSAaAZWmrPWpBr5SdcKuquH7EafAGggWdTV3bBw==",
+    "sizeBytes": 109224399,
+    "notes": "v1.0.38: Ra mat Hieu Ung Video Khach Vao Phong Theo Cap Do (Tang Lv 1-10: HoLyTeam Dong Thu 3s VP9 Alpha trong suot 1.82MB, tu ghep Avatar that + So Cap Lv + HoLyTeam + Ten khach qua API EulerStream, co nut Test 3s ngay tren cam!)",
+    "publishedAt": "23/11/2026 16:51:23",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.38/HOLY-TEAM-Studio-Setup-1.0.38.exe"
   },
   "store": {
     "plans": [
