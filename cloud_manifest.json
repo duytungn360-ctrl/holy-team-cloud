@@ -1,14 +1,14 @@
 {
-  "updatedAt": "23/11/2026 22:27:05",
+  "updatedAt": "23/11/2026 22:52:16",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "",
   "ota": {
-    "version": "1.0.52",
-    "notes": "v1.0.52 — Chuyển động Cây Thông Noel 3D Mềm Mại Chuẩn Live2D (60FPS Siêu Mượt): (1) Tán Cây Thông uốn cong mềm mại theo làn gió đông & sóng lá lan tự nhiên bằng 20 dải biến dạng nghiêng liên tục (chậu cây đứng vững 100% trên sàn, không bậc thang, <0.2ms). (2) Đàn hồi nhún lò xo cực êm mỗi khi quà rơi móc lên cành, khi có đại gia soán ngôi TOP 1 hoặc khi Idol thả tay kéo cây; toàn bộ 56 Móc Chìa Khóa Vàng, Đỉnh Ngôi Sao 3D TOP 1 Cartier & 10 bóng đèn ấm bám chặt đồng bộ theo từng nhịp uốn của cành thông + 6 hạt bụi sao vàng bay lơ lửng dịu nhẹ. (3) Bổ sung công tắc bật/tắt Chuyển động Cây Thông mềm mại trong Tab Noel.",
-    "sha256": "044c34dc5cfca0fcf692b094d8bbedd692fdac334de15306e1890f44895cb51f",
-    "signature": "7xCUYXLXcTSTJ97pQY42WWEt_pVkPh2ie0NeJFkGttZEHPLY9AvADQTHP1rlqv4Mtwfq-mInO7z09git16vLAg==",
-    "sizeBytes": 74736552,
-    "publishedAt": "23/11/2026 22:23:56",
+    "version": "1.0.53",
+    "notes": "v1.0.53 — Trọn Bộ Nâng Tầm Mùa Noel Cao Cấp (Nhóm 1 • Zero-Lag 60FPS): (1) Bộ 3 Vinh Danh TOP 1 (Vàng Sâm-Panh Cartier) – TOP 2 (Bạch Kim Swarovski) – TOP 3 (Vàng Hồng Dior) chuẩn 3D vát khối kim loại, tự đồng bộ trực tiếp BXH Quà Phòng Live TikTok (WebcastRoomUserSeqMessage) và uốn mềm đồng bộ theo cành cây thông. (2) Thanh Mục Tiêu Kính Mờ Đen-Vàng (Goal Pill) gắn gọn sát chân chậu cây (tùy chỉnh mốc Xu & nội dung thử thách ngay trong Tab Noel), chạm 100% tự nổ pháo hoa + sao băng + giọng AI cảm ơn đại gia chốt mốc. (3) Dải Sao Băng Pha Lê & Chòm Sao Dẫn Đường chạy 100% bằng GPU GLSL phía SAU LƯNG Idol (AI Depth Mask — không che mặt, không sửa màu da Idol) mỗi khi có quà khủng >=500 Xu, soán ngôi TOP 1 hoặc đạt 100% mốc!",
+    "sha256": "caa448eeecb3c766b42e7866e7f8e7b402e897a8443514ee1d0bc8942aebf247",
+    "signature": "qIv9_r2kLLtfTesGyXL_CU_wWbfhupApAjgqPWRayzXg8LwHUFikg_fNY-f86mCo_S1bL9xNjDDMal7cWb1GBg==",
+    "sizeBytes": 74825213,
+    "publishedAt": "23/11/2026 22:49:39",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.52",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.52.exe",
-    "sha256": "7893fb851a001f0108b9b77d27ece94134d35c3bec7fa23aa7bc99f32e9f9725",
-    "signature": "YKvLU6g9wub9vsQgoj0siqm6DSjppFX4YZ5xVycrRcGlR4PG7_ITuVbl0q5bUzm7-IFm2nla0-yo1Xj3cB2eAQ==",
-    "sizeBytes": 166876409,
-    "notes": "v1.0.52 — Chuyển động Cây Thông Noel 3D Mềm Mại Chuẩn Live2D (60FPS Siêu Mượt): (1) Tán Cây Thông uốn cong mềm mại theo làn gió đông & sóng lá lan tự nhiên bằng 20 dải biến dạng nghiêng liên tục (chậu cây đứng vững 100% trên sàn, không bậc thang, <0.2ms). (2) Đàn hồi nhún lò xo cực êm mỗi khi quà rơi móc lên cành, khi có đại gia soán ngôi TOP 1 hoặc khi Idol thả tay kéo cây; toàn bộ 56 Móc Chìa Khóa Vàng, Đỉnh Ngôi Sao 3D TOP 1 Cartier & 10 bóng đèn ấm bám chặt đồng bộ theo từng nhịp uốn của cành thông + 6 hạt bụi sao vàng bay lơ lửng dịu nhẹ. (3) Bổ sung công tắc bật/tắt Chuyển động Cây Thông mềm mại trong Tab Noel.",
-    "publishedAt": "23/11/2026 22:27:05",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.52/HOLY-TEAM-Studio-Setup-1.0.52.exe"
+    "version": "1.0.53",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.53.exe",
+    "sha256": "10b844e03ef05a73f717f10a6f64cef1b6039df8504dddecdc467db0138831f4",
+    "signature": "uSB08fVZZh-yOaUFnp2cxR85GshY_Cm2O8fDm1rxhIUWpzQ96vIl4UZg3rKuRpnRgS2x-d-Ov3BZkudhZMpTAA==",
+    "sizeBytes": 166943610,
+    "notes": "v1.0.53 — Trọn Bộ Nâng Tầm Mùa Noel Cao Cấp (Nhóm 1 • Zero-Lag 60FPS): (1) Bộ 3 Vinh Danh TOP 1 (Vàng Sâm-Panh Cartier) – TOP 2 (Bạch Kim Swarovski) – TOP 3 (Vàng Hồng Dior) chuẩn 3D vát khối kim loại, tự đồng bộ trực tiếp BXH Quà Phòng Live TikTok (WebcastRoomUserSeqMessage) và uốn mềm đồng bộ theo cành cây thông. (2) Thanh Mục Tiêu Kính Mờ Đen-Vàng (Goal Pill) gắn gọn sát chân chậu cây (tùy chỉnh mốc Xu & nội dung thử thách ngay trong Tab Noel), chạm 100% tự nổ pháo hoa + sao băng + giọng AI cảm ơn đại gia chốt mốc. (3) Dải Sao Băng Pha Lê & Chòm Sao Dẫn Đường chạy 100% bằng GPU GLSL phía SAU LƯNG Idol (AI Depth Mask — không che mặt, không sửa màu da Idol) mỗi khi có quà khủng >=500 Xu, soán ngôi TOP 1 hoặc đạt 100% mốc!",
+    "publishedAt": "23/11/2026 22:52:16",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.53/HOLY-TEAM-Studio-Setup-1.0.53.exe"
   },
   "store": {
     "plans": [
