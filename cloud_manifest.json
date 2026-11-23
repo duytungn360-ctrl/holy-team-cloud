@@ -1,14 +1,14 @@
 {
-  "updatedAt": "23/11/2026 17:55:25",
+  "updatedAt": "23/11/2026 18:14:42",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "",
   "ota": {
-    "version": "1.0.41",
-    "notes": "Bổ sung hiệu ứng Vào Phòng riêng cho Thành Viên Fan Club (Trái Tim Ruby • 3.0s VP9 Alpha trong suốt + Opus Audio): ghép Avatar 3D lọt phía sau Trái Tim & Ngôi Sao Vàng, hiển thị động FanClub • Lv X + Tên khách thật và phân tầng thông minh 3 lớp!",
-    "sha256": "a89b77cd9e55d4d1448157fd879a8f08f79aa4c218f9005992b8a6b70b6f36a1",
-    "signature": "nRpLTRcpQ6G_tpcmKxBVM-G2FtGnzW4cengwR4NKEZIuljigXOYdTuzquBqctJEHubIlDRDb9Hflz5w_ucL1BA==",
-    "sizeBytes": 24929585,
-    "publishedAt": "23/11/2026 17:53:47",
+    "version": "1.0.42",
+    "notes": "Lưu @ID kênh TikTok 1 lần duy nhất dùng mãi (tự động kết nối khi mở app & tự động canh nối ngay khi Idol bật Live với 0đ quota khi offline, chỉ mở đổi ID khi bấm ✕ Hủy / Đổi ID) + gỡ gọn phần Hạn mức & Khóa EulerStream Cloud API khỏi giao diện Idol!",
+    "sha256": "ce1e0d3ffbf31747cc0285e12fd892275db051c9870253234aae5e62bded93fc",
+    "signature": "uexdU10MGEGQ87_TgGmY3V3AyZvURznwWdmw9Ex0lHBtu5eWD_JO1W9yVLegcpjazTO9XrsQA9CEuSEUcrmDCg==",
+    "sizeBytes": 24929646,
+    "publishedAt": "23/11/2026 18:11:51",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.41",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.41.exe",
-    "sha256": "64202acea2cbe63dc8c734f0921dc8e12ed99da1718cfad368f94572c1dec332",
-    "signature": "nxr2lqVQ1ZZOPJRH7wo2qToHlwBytjEiYoAArvqAviy4qgL4FFuYP9ilXDuk_LJe6lethF9zVHjU6bBXwgzHCw==",
-    "sizeBytes": 117069311,
-    "notes": "Bổ sung hiệu ứng Vào Phòng riêng cho Thành Viên Fan Club (Trái Tim Ruby • 3.0s VP9 Alpha trong suốt + Opus Audio): ghép Avatar 3D lọt phía sau Trái Tim & Ngôi Sao Vàng, hiển thị động FanClub • Lv X + Tên khách thật và phân tầng thông minh 3 lớp!",
-    "publishedAt": "23/11/2026 17:55:25",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.41/HOLY-TEAM-Studio-Setup-1.0.41.exe"
+    "version": "1.0.42",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.42.exe",
+    "sha256": "1b8f9dc9df9927da8fe08ed8e87c582a9330067980d2db434b88090c0f06884c",
+    "signature": "CBSVrk10JfA7YrCNNiRiz1MkIknVJ5FzREsSds-iB2jUR_JC27mYD1c48MCOX3j2Ani5FRohdruWrT0w4czLAw==",
+    "sizeBytes": 117070072,
+    "notes": "Lưu @ID kênh TikTok 1 lần duy nhất dùng mãi (tự động kết nối khi mở app & tự động canh nối ngay khi Idol bật Live với 0đ quota khi offline, chỉ mở đổi ID khi bấm ✕ Hủy / Đổi ID) + gỡ gọn phần Hạn mức & Khóa EulerStream Cloud API khỏi giao diện Idol!",
+    "publishedAt": "23/11/2026 18:14:42",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.42/HOLY-TEAM-Studio-Setup-1.0.42.exe"
   },
   "store": {
     "plans": [
