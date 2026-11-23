@@ -1,14 +1,14 @@
 {
-  "updatedAt": "23/11/2026 18:54:42",
+  "updatedAt": "23/11/2026 19:12:16",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "",
   "ota": {
-    "version": "1.0.44",
-    "notes": "Mở rộng cả 3 hiệu ứng Vào Phòng (Lv 1–10, Lv 11+, Fan Club) lên trọn vẹn thời lượng gốc 5.0 giây chuẩn Full HD 1080×1920 Master (CRF 20 đa luồng) + xác nhận ghép lớp phủ GPU ngoài cùng (Bước 9C), vùng mặt Idol 0.00% alpha — tuyệt đối không ảnh hưởng Filter, Làm đẹp da hay Makeup của Idol!",
-    "sha256": "d42df05699bdc88bd8c625a63d998f5c726e9b109961b994203202f26725e454",
-    "signature": "bvEPI5F1utg4Up2GavpFi3k5VeFD_q_q3ozNEWRyaN3c_Df0OEPVKaVfZU119M9J-U7OoIUXBAMrJKScQgK_Bw==",
-    "sizeBytes": 73904657,
-    "publishedAt": "23/11/2026 18:52:47",
+    "version": "1.0.45",
+    "notes": "Căn chỉnh chuẩn tâm từng pixel cho toàn bộ khung Avatar tròn, huy hiệu cấp độ dưới (★/Lv), thẻ HoLyTeam / FanClub • Lv X và Tên khách trên tất cả 5 hiệu ứng Vào Phòng & Thăng Cấp — khít viền 100%, không còn hở viền hay lệch tâm!",
+    "sha256": "f85dc8e91761f9b3f98ec9dc0bdf529ec5977ee33ad7387e87fcb3a95c18fb56",
+    "signature": "H8gR9aX6gvSt3U8x7helIwPAzP2PI0O-MP9F4PaRsaNfU-KgsEDF5HBEJ7rklMQWU1Q75Ide51cbzNCGOnzACA==",
+    "sizeBytes": 73904594,
+    "publishedAt": "23/11/2026 19:08:55",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.44",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.44.exe",
-    "sha256": "3d83e62664ae9998e379f7a5fbf944e44e46da544cc9c189911e726e790f162f",
-    "signature": "xow3-RAjssoZc2dvv6bhIkcLX6JAIKJKJVQZjhs9MO46Mfhmwg3xCgyb0T7OEFnaScEwFLSNbUMjLtJdpGWABg==",
-    "sizeBytes": 166039731,
-    "notes": "Mở rộng cả 3 hiệu ứng Vào Phòng (Lv 1–10, Lv 11+, Fan Club) lên trọn vẹn thời lượng gốc 5.0 giây chuẩn Full HD 1080×1920 Master (CRF 20 đa luồng) + xác nhận ghép lớp phủ GPU ngoài cùng (Bước 9C), vùng mặt Idol 0.00% alpha — tuyệt đối không ảnh hưởng Filter, Làm đẹp da hay Makeup của Idol!",
-    "publishedAt": "23/11/2026 18:54:42",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.44/HOLY-TEAM-Studio-Setup-1.0.44.exe"
+    "version": "1.0.45",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.45.exe",
+    "sha256": "45821b4752c77335950c9db90d92b80e499ad985033c1c0ed9ca6f4e24566ddb",
+    "signature": "Nti9rMwvCTSgPvO-_FTkVdHl1-TJ9GdAFDbVicSMeAzWzU5_w2_V6VpDj_7Wo_kwlvRT5JnY3oQcnH8Ts8A8Dg==",
+    "sizeBytes": 166044440,
+    "notes": "Căn chỉnh chuẩn tâm từng pixel cho toàn bộ khung Avatar tròn, huy hiệu cấp độ dưới (★/Lv), thẻ HoLyTeam / FanClub • Lv X và Tên khách trên tất cả 5 hiệu ứng Vào Phòng & Thăng Cấp — khít viền 100%, không còn hở viền hay lệch tâm!",
+    "publishedAt": "23/11/2026 19:12:16",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.45/HOLY-TEAM-Studio-Setup-1.0.45.exe"
   },
   "store": {
     "plans": [
