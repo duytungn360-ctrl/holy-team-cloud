@@ -1,14 +1,14 @@
 {
-  "updatedAt": "23/11/2026 19:47:50",
+  "updatedAt": "23/11/2026 20:34:30",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "",
   "ota": {
-    "version": "1.0.46",
-    "notes": "🎄 Ra mắt GÓI SỰ KIỆN NOEL HOLY TEAM (Tab Noel riêng, công tắc bật/tắt từng mục siêu dễ thao tác): (1) Tuyết rơi 3D tách nền AI sau lưng Idol + Dây đèn vàng ấm Giáng Sinh + Mẫu Hot ❄️ Công Chúa Tuyết; (2) Cây Thông Noel 3D hứng quà thắp sáng 3 cấp & pháo hoa; (3) Phụ kiện Noel AR bám mặt 60FPS (Sừng Tuần Lộc, Mũ Santa lò xo vật lý, Vương Miện Elsa); (4) Hũ 3D ❄️ Quả Cầu Tuyết Noel + Mũ Santa mini cho Bé Chibi + PK Đóng Băng & Hơi thở lạnh 3D + Chuông Noel Jingle Bells; (5) Hộp Quà Bí Mật (Blind Box) tự mở thử thách theo mốc xu!",
-    "sha256": "19f671d9bcf5e2bef5dfbbeabde0795e9e4a69f13cc156fd5f6479882606cc3a",
-    "signature": "6bx17zBYvrdxbyuu1ZR8XsvBnGODUex7AbFQsI3X1anznLmVGoFUcDCFVcskrcaZyZeO_xRb2n3NC2bG9_ZtBQ==",
-    "sizeBytes": 73961039,
-    "publishedAt": "23/11/2026 19:46:30",
+    "version": "1.0.47",
+    "notes": "🎄 Nâng cấp lớn Chế Độ Noel v1.0.47: (1) Giữ nguyên 100% màu da & trang điểm Idol — chỉ bật/tắt Tuyết rơi 3D phía sau lưng; (2) Tích hợp đủ 4 mẫu Cây Thông Noel 3D cực đẹp (👑 Hoàng Gia Xanh Ngọc, 🌸 Công Chúa Hồng Phấn, ❄️ Bạch Tuyết Pha Lê, ✨ Đế Vương Vàng & Đỏ), bật Cây Thông tự động tắt Hũ Quà & Bé Chibi; (3) Treo dày 56 vị trí trên cành cây đúng món quà thật (Hoa Hồng, Gấu, Donut, icon gốc TikTok...) KÈM AVATAR USER THẬT (hỗ trợ cả Kiểu A Quả Châu Avatar & Kiểu B Quà To + Avatar); (4) Đầy 56 chỗ trên cây sẽ tự rơi chất đống ngập chân cây & tràn đầy màn hình KHÔNG BAO GIỜ MẤT QUÀ vẫn giữ mượt 60FPS!",
+    "sha256": "25ad5597fa6816076209c70a7d6af1526355f86791797862307b4b03925bbd6f",
+    "signature": "hml0b3WD9TLGS5ZIakGBToYpe1woT7RNwJX5muT_YL_UG-OdH07Wz6V61R3wGLL_8vZLJoqZNNIS5eGBjBJBAQ==",
+    "sizeBytes": 74659010,
+    "publishedAt": "23/11/2026 20:29:58",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.46",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.46.exe",
-    "sha256": "12d496b617badee3842dad1f504c0fd57c54006972a5df6325082b5f3a0a3340",
-    "signature": "OQOyygYDsRvkDqix5wvCqkMmxx1G4la7jbXfQSthY8mX7LdWc8qLLwWtsTCF-bdXIEvSiof4EoBxIhRBI8_vDA==",
-    "sizeBytes": 166103427,
-    "notes": "🎄 Ra mắt GÓI SỰ KIỆN NOEL HOLY TEAM (Tab Noel riêng, công tắc bật/tắt từng mục siêu dễ thao tác): (1) Tuyết rơi 3D tách nền AI sau lưng Idol + Dây đèn vàng ấm Giáng Sinh + Mẫu Hot ❄️ Công Chúa Tuyết; (2) Cây Thông Noel 3D hứng quà thắp sáng 3 cấp & pháo hoa; (3) Phụ kiện Noel AR bám mặt 60FPS (Sừng Tuần Lộc, Mũ Santa lò xo vật lý, Vương Miện Elsa); (4) Hũ 3D ❄️ Quả Cầu Tuyết Noel + Mũ Santa mini cho Bé Chibi + PK Đóng Băng & Hơi thở lạnh 3D + Chuông Noel Jingle Bells; (5) Hộp Quà Bí Mật (Blind Box) tự mở thử thách theo mốc xu!",
-    "publishedAt": "23/11/2026 19:47:50",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.46/HOLY-TEAM-Studio-Setup-1.0.46.exe"
+    "version": "1.0.47",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.47.exe",
+    "sha256": "1557f6090c1fe5af156fc465602534490bf80a11c851f9eed6b756f06e5c1ca5",
+    "signature": "i3mqwipsyK16xqqvEcPd1d2gygnFIKeZqXzOvvE0zLWJtzQ4rNUrTeIaBHJ9WEjcNrt4EfZVUr8HEkILbrcIBg==",
+    "sizeBytes": 166800301,
+    "notes": "🎄 Nâng cấp lớn Chế Độ Noel v1.0.47: (1) Giữ nguyên 100% màu da & trang điểm Idol — chỉ bật/tắt Tuyết rơi 3D phía sau lưng; (2) Tích hợp đủ 4 mẫu Cây Thông Noel 3D cực đẹp (👑 Hoàng Gia Xanh Ngọc, 🌸 Công Chúa Hồng Phấn, ❄️ Bạch Tuyết Pha Lê, ✨ Đế Vương Vàng & Đỏ), bật Cây Thông tự động tắt Hũ Quà & Bé Chibi; (3) Treo dày 56 vị trí trên cành cây đúng món quà thật (Hoa Hồng, Gấu, Donut, icon gốc TikTok...) KÈM AVATAR USER THẬT (hỗ trợ cả Kiểu A Quả Châu Avatar & Kiểu B Quà To + Avatar); (4) Đầy 56 chỗ trên cây sẽ tự rơi chất đống ngập chân cây & tràn đầy màn hình KHÔNG BAO GIỜ MẤT QUÀ vẫn giữ mượt 60FPS!",
+    "publishedAt": "23/11/2026 20:34:30",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.47/HOLY-TEAM-Studio-Setup-1.0.47.exe"
   },
   "store": {
     "plans": [
