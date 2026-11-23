@@ -1,14 +1,14 @@
 {
-  "updatedAt": "23/11/2026 22:04:23",
+  "updatedAt": "23/11/2026 22:27:05",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "",
   "ota": {
-    "version": "1.0.51",
-    "notes": "v1.0.51 — Nâng cấp Cây Thông Noel 3D chuẩn Móc Chìa Khóa Vàng Hoàng Gia (Option 1) & TOP 1 Đỉnh Ngôi Sao 3D Cartier Gold (Khóa mượt 60FPS): (1) Toàn bộ 56 quà treo trên tán cây & đống quà rơi tràn màn hình chuyển sang kiểu Móc Chìa Khóa Vàng Hoàng Gia (Khuyên vàng ➔ Avatar viền vàng 3D ➔ Xích 2 mắt ➔ Quà TikTok thật viền kem sắc nét, đung đưa tự nhiên từ khuyên móc). (2) Vinh danh đại gia TOP 1 Phòng Live to nhất trên Đỉnh Ngôi Sao 3D Vàng Sâm-Panh (Cartier Gold 8 cánh vát khối + Viền 24 kim cương + Thẻ kính mờ TOP 1 • Tên), tự động đồng bộ BXH Quà Phòng Live TikTok (WebcastRoomUserSeqMessage) & nổ pháo hoa + chuông Noel khi soán ngôi. (3) Nướng sẵn 100% Sprite (0 shadowBlur, <0.05ms/khung) đảm bảo không giật lag kể cả treo kín cây + hàng nghìn quà rơi.",
-    "sha256": "32f19e6f5c167f873421ee38fdaeddce489426017bf517bc8589d1f4d7a77c29",
-    "signature": "6BguW5uyYHBun0YZN-6hN908GZNrV5VTWyKguPktKAag81ljIfl9wKDLX5pf8tu4GdiyW9xkjIsyKXpp5tKnDw==",
-    "sizeBytes": 74735156,
-    "publishedAt": "23/11/2026 22:03:12",
+    "version": "1.0.52",
+    "notes": "v1.0.52 — Chuyển động Cây Thông Noel 3D Mềm Mại Chuẩn Live2D (60FPS Siêu Mượt): (1) Tán Cây Thông uốn cong mềm mại theo làn gió đông & sóng lá lan tự nhiên bằng 20 dải biến dạng nghiêng liên tục (chậu cây đứng vững 100% trên sàn, không bậc thang, <0.2ms). (2) Đàn hồi nhún lò xo cực êm mỗi khi quà rơi móc lên cành, khi có đại gia soán ngôi TOP 1 hoặc khi Idol thả tay kéo cây; toàn bộ 56 Móc Chìa Khóa Vàng, Đỉnh Ngôi Sao 3D TOP 1 Cartier & 10 bóng đèn ấm bám chặt đồng bộ theo từng nhịp uốn của cành thông + 6 hạt bụi sao vàng bay lơ lửng dịu nhẹ. (3) Bổ sung công tắc bật/tắt Chuyển động Cây Thông mềm mại trong Tab Noel.",
+    "sha256": "044c34dc5cfca0fcf692b094d8bbedd692fdac334de15306e1890f44895cb51f",
+    "signature": "7xCUYXLXcTSTJ97pQY42WWEt_pVkPh2ie0NeJFkGttZEHPLY9AvADQTHP1rlqv4Mtwfq-mInO7z09git16vLAg==",
+    "sizeBytes": 74736552,
+    "publishedAt": "23/11/2026 22:23:56",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.51",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.51.exe",
-    "sha256": "fe429671d53670fb716d9ab2980cb2e43d49dbe7623748f324878cbdf5703cf6",
-    "signature": "EfG26BldqTxqJf56PWXlDPNKvdo82zIm6Bfrg3go6gHD0WyDgpMz40j9uq4xJf2izw78nLlP-L_p-c28dsklBQ==",
-    "sizeBytes": 166874932,
-    "notes": "v1.0.51 — Nâng cấp Cây Thông Noel 3D chuẩn Móc Chìa Khóa Vàng Hoàng Gia (Option 1) & TOP 1 Đỉnh Ngôi Sao 3D Cartier Gold (Khóa mượt 60FPS): (1) Toàn bộ 56 quà treo trên tán cây & đống quà rơi tràn màn hình chuyển sang kiểu Móc Chìa Khóa Vàng Hoàng Gia (Khuyên vàng ➔ Avatar viền vàng 3D ➔ Xích 2 mắt ➔ Quà TikTok thật viền kem sắc nét, đung đưa tự nhiên từ khuyên móc). (2) Vinh danh đại gia TOP 1 Phòng Live to nhất trên Đỉnh Ngôi Sao 3D Vàng Sâm-Panh (Cartier Gold 8 cánh vát khối + Viền 24 kim cương + Thẻ kính mờ TOP 1 • Tên), tự động đồng bộ BXH Quà Phòng Live TikTok (WebcastRoomUserSeqMessage) & nổ pháo hoa + chuông Noel khi soán ngôi. (3) Nướng sẵn 100% Sprite (0 shadowBlur, <0.05ms/khung) đảm bảo không giật lag kể cả treo kín cây + hàng nghìn quà rơi.",
-    "publishedAt": "23/11/2026 22:04:23",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.51/HOLY-TEAM-Studio-Setup-1.0.51.exe"
+    "version": "1.0.52",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.52.exe",
+    "sha256": "7893fb851a001f0108b9b77d27ece94134d35c3bec7fa23aa7bc99f32e9f9725",
+    "signature": "YKvLU6g9wub9vsQgoj0siqm6DSjppFX4YZ5xVycrRcGlR4PG7_ITuVbl0q5bUzm7-IFm2nla0-yo1Xj3cB2eAQ==",
+    "sizeBytes": 166876409,
+    "notes": "v1.0.52 — Chuyển động Cây Thông Noel 3D Mềm Mại Chuẩn Live2D (60FPS Siêu Mượt): (1) Tán Cây Thông uốn cong mềm mại theo làn gió đông & sóng lá lan tự nhiên bằng 20 dải biến dạng nghiêng liên tục (chậu cây đứng vững 100% trên sàn, không bậc thang, <0.2ms). (2) Đàn hồi nhún lò xo cực êm mỗi khi quà rơi móc lên cành, khi có đại gia soán ngôi TOP 1 hoặc khi Idol thả tay kéo cây; toàn bộ 56 Móc Chìa Khóa Vàng, Đỉnh Ngôi Sao 3D TOP 1 Cartier & 10 bóng đèn ấm bám chặt đồng bộ theo từng nhịp uốn của cành thông + 6 hạt bụi sao vàng bay lơ lửng dịu nhẹ. (3) Bổ sung công tắc bật/tắt Chuyển động Cây Thông mềm mại trong Tab Noel.",
+    "publishedAt": "23/11/2026 22:27:05",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.52/HOLY-TEAM-Studio-Setup-1.0.52.exe"
   },
   "store": {
     "plans": [
