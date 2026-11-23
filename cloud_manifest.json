@@ -1,14 +1,14 @@
 {
-  "updatedAt": "23/11/2026 17:02:01",
+  "updatedAt": "23/11/2026 17:45:39",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "",
   "ota": {
-    "version": "1.0.39",
-    "notes": "v1.0.39: Bo sung Tang 2 Hieu Ung Video Vao Phong HoLyTeam Vuong Mien De Vuong 3s cho khach Lv 11+ (1.58MB VP9 Alpha trong suot, ghep Avatar that + So Cap Lv + HoLyTeam + Ten khach, nut Test rieng tung tang ngay trong Tab Qua AR!)",
-    "sha256": "5e65dfa57ad155ad5347cca48b1b2c8be12ae905260c329e4a4bf1172cd2dcc3",
-    "signature": "xLUYgICClUza0Uq-qwgfrZO6DV_QpkN_dNMInDxK2mgJYUNQshVnPDjMMTHE6MJtQVF9nOJ1L500NnGEesCsAA==",
-    "sizeBytes": 18750971,
-    "publishedAt": "23/11/2026 17:00:16",
+    "version": "1.0.40",
+    "notes": "Thêm 2 hiệu ứng Thăng Cấp nền trong suốt giữ nguyên độ dài gốc: Fan Club Level-up (8.4s) & Wealth Level-up (7.7s) — tự nhận biết 2 lớp qua EulerStream, thay Avatar tròn thật phía sau khung 3D (đầu báo/ruby/kim cương đè trên) & Tên khách thật sắc nét!",
+    "sha256": "a8a8a1136ee9a0644d668a362bdaf58e39f44eef1ccb1195de1f8592203ce873",
+    "signature": "ZxXKniQ0n31NQf4xif9eYkpJxApEkJvQtfRPpRSHQ0XWoT7wqIf-imj3u-B8QM1NOegPqTiDFMyg28kapIEjDg==",
+    "sizeBytes": 23049213,
+    "publishedAt": "23/11/2026 17:44:46",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.39",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.39.exe",
-    "sha256": "dde7b7355da5a4bb0a116f54ca3d45aef6d7e9f613db14920e4928d4a0a32376",
-    "signature": "SPyhHNpWXUxcov1s-yT9lUZBuh9J5Ax6AmC9IRnbQj7Mqtn9M2MhE3YTImaF67UqAOlYJxqiaCL8LR-DHrzrDQ==",
-    "sizeBytes": 110891620,
-    "notes": "v1.0.39: Bo sung Tang 2 Hieu Ung Video Vao Phong HoLyTeam Vuong Mien De Vuong 3s cho khach Lv 11+ (1.58MB VP9 Alpha trong suot, ghep Avatar that + So Cap Lv + HoLyTeam + Ten khach, nut Test rieng tung tang ngay trong Tab Qua AR!)",
-    "publishedAt": "23/11/2026 17:02:01",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.39/HOLY-TEAM-Studio-Setup-1.0.39.exe"
+    "version": "1.0.40",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.40.exe",
+    "sha256": "81821974f9d461c294a4e928345102c1e06c2faa4e2aaa26df83e1c6ccdc4904",
+    "signature": "gfhiPed_WucveU_KJP0x2yV3K68-D6POeFlqZ8Dr4XnnyC4Mb7XhsyVFZiLPYxb_loXacHkxnvdXoO8GOfjABQ==",
+    "sizeBytes": 115186200,
+    "notes": "Thêm 2 hiệu ứng Thăng Cấp nền trong suốt giữ nguyên độ dài gốc: Fan Club Level-up (8.4s) & Wealth Level-up (7.7s) — tự nhận biết 2 lớp qua EulerStream, thay Avatar tròn thật phía sau khung 3D (đầu báo/ruby/kim cương đè trên) & Tên khách thật sắc nét!",
+    "publishedAt": "23/11/2026 17:45:39",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.40/HOLY-TEAM-Studio-Setup-1.0.40.exe"
   },
   "store": {
     "plans": [
