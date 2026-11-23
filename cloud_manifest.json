@@ -1,14 +1,14 @@
 {
-  "updatedAt": "23/11/2026 18:14:42",
+  "updatedAt": "23/11/2026 18:38:44",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "",
   "ota": {
-    "version": "1.0.42",
-    "notes": "Lưu @ID kênh TikTok 1 lần duy nhất dùng mãi (tự động kết nối khi mở app & tự động canh nối ngay khi Idol bật Live với 0đ quota khi offline, chỉ mở đổi ID khi bấm ✕ Hủy / Đổi ID) + gỡ gọn phần Hạn mức & Khóa EulerStream Cloud API khỏi giao diện Idol!",
-    "sha256": "ce1e0d3ffbf31747cc0285e12fd892275db051c9870253234aae5e62bded93fc",
-    "signature": "uexdU10MGEGQ87_TgGmY3V3AyZvURznwWdmw9Ex0lHBtu5eWD_JO1W9yVLegcpjazTO9XrsQA9CEuSEUcrmDCg==",
-    "sizeBytes": 24929646,
-    "publishedAt": "23/11/2026 18:11:51",
+    "version": "1.0.43",
+    "notes": "Đại nâng cấp độ sắc nét & siêu mượt cho toàn bộ 5 hiệu ứng Vào Phòng & Thăng Cấp: nâng lớp ghép GPU lên Full HD 1080×1920 riêng biệt (gấp 4× điểm ảnh so với 540×960 cũ), xuất lại chuẩn Master CRF 19–21 đa luồng (giải mã 96–177 FPS), nội suy quang học 12FPS -> 30FPS mượt gấp 2.5× cho 2 video Thăng Cấp, và gỡ hoàn toàn bóp FPS video nền của Chromium!",
+    "sha256": "b76b3e7b32cd212181c2b7de538ce97e8ce80ed929061ac0ddd3c951ea99980d",
+    "signature": "OLnQpBLfIzGXwdZ5ZVK96Bks6gx4BPI9KcKEDLYfIC-OSYjwQCtjHWMHNRRB8WdSKepxYrnN5CYnEbKwA-LiBA==",
+    "sizeBytes": 63234962,
+    "publishedAt": "23/11/2026 18:37:05",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.42",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.42.exe",
-    "sha256": "1b8f9dc9df9927da8fe08ed8e87c582a9330067980d2db434b88090c0f06884c",
-    "signature": "CBSVrk10JfA7YrCNNiRiz1MkIknVJ5FzREsSds-iB2jUR_JC27mYD1c48MCOX3j2Ani5FRohdruWrT0w4czLAw==",
-    "sizeBytes": 117070072,
-    "notes": "Lưu @ID kênh TikTok 1 lần duy nhất dùng mãi (tự động kết nối khi mở app & tự động canh nối ngay khi Idol bật Live với 0đ quota khi offline, chỉ mở đổi ID khi bấm ✕ Hủy / Đổi ID) + gỡ gọn phần Hạn mức & Khóa EulerStream Cloud API khỏi giao diện Idol!",
-    "publishedAt": "23/11/2026 18:14:42",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.42/HOLY-TEAM-Studio-Setup-1.0.42.exe"
+    "version": "1.0.43",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.43.exe",
+    "sha256": "1c2d37bfe066d75477d28cadb3c5fd02308378a816a43d82a9b2dec067737fc8",
+    "signature": "DgjPCtvudCq0mtP0UTsD2fV6Gbr3VL4BUBGfDA6DatJGo-7er0m9AuQ5IJhPdpp-QDtE1uGE2JetBaCRg6XyAQ==",
+    "sizeBytes": 155359572,
+    "notes": "Đại nâng cấp độ sắc nét & siêu mượt cho toàn bộ 5 hiệu ứng Vào Phòng & Thăng Cấp: nâng lớp ghép GPU lên Full HD 1080×1920 riêng biệt (gấp 4× điểm ảnh so với 540×960 cũ), xuất lại chuẩn Master CRF 19–21 đa luồng (giải mã 96–177 FPS), nội suy quang học 12FPS -> 30FPS mượt gấp 2.5× cho 2 video Thăng Cấp, và gỡ hoàn toàn bóp FPS video nền của Chromium!",
+    "publishedAt": "23/11/2026 18:38:44",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.43/HOLY-TEAM-Studio-Setup-1.0.43.exe"
   },
   "store": {
     "plans": [
