@@ -1,14 +1,14 @@
 {
-  "updatedAt": "23/11/2026 23:03:24",
+  "updatedAt": "24/11/2026 12:30:06",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://shades-appointments-popularity-library.trycloudflare.com",
   "ota": {
-    "version": "1.0.53",
-    "notes": "v1.0.53 — Trọn Bộ Nâng Tầm Mùa Noel Cao Cấp (Nhóm 1 • Zero-Lag 60FPS): (1) Bộ 3 Vinh Danh TOP 1 (Vàng Sâm-Panh Cartier) – TOP 2 (Bạch Kim Swarovski) – TOP 3 (Vàng Hồng Dior) chuẩn 3D vát khối kim loại, tự đồng bộ trực tiếp BXH Quà Phòng Live TikTok (WebcastRoomUserSeqMessage) và uốn mềm đồng bộ theo cành cây thông. (2) Thanh Mục Tiêu Kính Mờ Đen-Vàng (Goal Pill) gắn gọn sát chân chậu cây (tùy chỉnh mốc Xu & nội dung thử thách ngay trong Tab Noel), chạm 100% tự nổ pháo hoa + sao băng + giọng AI cảm ơn đại gia chốt mốc. (3) Dải Sao Băng Pha Lê & Chòm Sao Dẫn Đường chạy 100% bằng GPU GLSL phía SAU LƯNG Idol (AI Depth Mask — không che mặt, không sửa màu da Idol) mỗi khi có quà khủng >=500 Xu, soán ngôi TOP 1 hoặc đạt 100% mốc!",
-    "sha256": "caa448eeecb3c766b42e7866e7f8e7b402e897a8443514ee1d0bc8942aebf247",
-    "signature": "qIv9_r2kLLtfTesGyXL_CU_wWbfhupApAjgqPWRayzXg8LwHUFikg_fNY-f86mCo_S1bL9xNjDDMal7cWb1GBg==",
-    "sizeBytes": 74825213,
-    "publishedAt": "23/11/2026 22:49:39",
+    "version": "1.0.54",
+    "notes": "v1.0.54 — Sửa Triệt Để Lỗi Idol Mở Live Không Tự Bắt Quà AR / Bình Luận (Tự Động Nối Live Chuẩn Xác <= 7 Giây): (1) Sửa lỗi chí mạng cắt dữ liệu 32 KB (nâng lên 512 KB + chống cache CDN TikTok) trong bộ dò Live tự động giúp nhận diện ngay lập tức khi Idol vừa bấm Phát Live (trước bị cắt đứt JSON phòng đang live 50-120 KB nên không tự nối). (2) Rút ngắn chu kỳ tự canh Live từ 18-54s xuống 7s (0đ quota) kèm lưới bảo hiểm kiểm tra ngầm EulerStream mỗi 35s chống trễ CDN TikTok & không bao giờ rơi vào ngõ cụt mất tự canh. (3) Thêm bộ giám sát nhịp tim WebSocket Ping/Pong 15s + tự phát hiện phiên Live cũ kết thúc ngầm / mở Room mới + tự nối lại ngay khi máy Windows tỉnh dậy từ chế độ Ngủ (Sleep). (4) Bổ sung nút 1 chạm [🔄 Nối lại] ngay cạnh ô @ID TikTok để làm mới kết nối tức thì mà không cần hủy/nhập lại ID!",
+    "sha256": "a04da38e1d6d0c4b5d4fed0b596f51ca20b1ba292d26f43208a814339a161994",
+    "signature": "Qi_PKaNNp_Ee_mpwSv6iCvbKWr_zGLTDdAFtWdnfc0fTP9mBj11XSaFMoKJzJUtPuONnfgPvlkNKQCL52UzxCQ==",
+    "sizeBytes": 74825762,
+    "publishedAt": "24/11/2026 12:29:02",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.53",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.53.exe",
-    "sha256": "10b844e03ef05a73f717f10a6f64cef1b6039df8504dddecdc467db0138831f4",
-    "signature": "uSB08fVZZh-yOaUFnp2cxR85GshY_Cm2O8fDm1rxhIUWpzQ96vIl4UZg3rKuRpnRgS2x-d-Ov3BZkudhZMpTAA==",
-    "sizeBytes": 166943610,
-    "notes": "v1.0.53 — Trọn Bộ Nâng Tầm Mùa Noel Cao Cấp (Nhóm 1 • Zero-Lag 60FPS): (1) Bộ 3 Vinh Danh TOP 1 (Vàng Sâm-Panh Cartier) – TOP 2 (Bạch Kim Swarovski) – TOP 3 (Vàng Hồng Dior) chuẩn 3D vát khối kim loại, tự đồng bộ trực tiếp BXH Quà Phòng Live TikTok (WebcastRoomUserSeqMessage) và uốn mềm đồng bộ theo cành cây thông. (2) Thanh Mục Tiêu Kính Mờ Đen-Vàng (Goal Pill) gắn gọn sát chân chậu cây (tùy chỉnh mốc Xu & nội dung thử thách ngay trong Tab Noel), chạm 100% tự nổ pháo hoa + sao băng + giọng AI cảm ơn đại gia chốt mốc. (3) Dải Sao Băng Pha Lê & Chòm Sao Dẫn Đường chạy 100% bằng GPU GLSL phía SAU LƯNG Idol (AI Depth Mask — không che mặt, không sửa màu da Idol) mỗi khi có quà khủng >=500 Xu, soán ngôi TOP 1 hoặc đạt 100% mốc!",
-    "publishedAt": "23/11/2026 22:52:16",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.53/HOLY-TEAM-Studio-Setup-1.0.53.exe"
+    "version": "1.0.54",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.54.exe",
+    "sha256": "fb9d5299f751ecb2b3c6c7f24ed2c8a613e1e684fa0fd1d67646a2ecd0218dfc",
+    "signature": "LZdsL0a0St4g1vSiVsSB2syrUlLRSZXZmUj29dPuhYmXAgCcBSg0tA-SBbuI9oxUC3xGsSzZVqnlNisGmfe2Ag==",
+    "sizeBytes": 166945772,
+    "notes": "v1.0.54 — Sửa Triệt Để Lỗi Idol Mở Live Không Tự Bắt Quà AR / Bình Luận (Tự Động Nối Live Chuẩn Xác <= 7 Giây): (1) Sửa lỗi chí mạng cắt dữ liệu 32 KB (nâng lên 512 KB + chống cache CDN TikTok) trong bộ dò Live tự động giúp nhận diện ngay lập tức khi Idol vừa bấm Phát Live (trước bị cắt đứt JSON phòng đang live 50-120 KB nên không tự nối). (2) Rút ngắn chu kỳ tự canh Live từ 18-54s xuống 7s (0đ quota) kèm lưới bảo hiểm kiểm tra ngầm EulerStream mỗi 35s chống trễ CDN TikTok & không bao giờ rơi vào ngõ cụt mất tự canh. (3) Thêm bộ giám sát nhịp tim WebSocket Ping/Pong 15s + tự phát hiện phiên Live cũ kết thúc ngầm / mở Room mới + tự nối lại ngay khi máy Windows tỉnh dậy từ chế độ Ngủ (Sleep). (4) Bổ sung nút 1 chạm [🔄 Nối lại] ngay cạnh ô @ID TikTok để làm mới kết nối tức thì mà không cần hủy/nhập lại ID!",
+    "publishedAt": "24/11/2026 12:30:06",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.54/HOLY-TEAM-Studio-Setup-1.0.54.exe"
   },
   "store": {
     "plans": [
