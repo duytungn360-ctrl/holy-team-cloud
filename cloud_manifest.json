@@ -1,14 +1,14 @@
 {
-  "updatedAt": "24/11/2026 12:30:06",
+  "updatedAt": "25/11/2026 11:09:29",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://shades-appointments-popularity-library.trycloudflare.com",
   "ota": {
-    "version": "1.0.54",
-    "notes": "v1.0.54 — Sửa Triệt Để Lỗi Idol Mở Live Không Tự Bắt Quà AR / Bình Luận (Tự Động Nối Live Chuẩn Xác <= 7 Giây): (1) Sửa lỗi chí mạng cắt dữ liệu 32 KB (nâng lên 512 KB + chống cache CDN TikTok) trong bộ dò Live tự động giúp nhận diện ngay lập tức khi Idol vừa bấm Phát Live (trước bị cắt đứt JSON phòng đang live 50-120 KB nên không tự nối). (2) Rút ngắn chu kỳ tự canh Live từ 18-54s xuống 7s (0đ quota) kèm lưới bảo hiểm kiểm tra ngầm EulerStream mỗi 35s chống trễ CDN TikTok & không bao giờ rơi vào ngõ cụt mất tự canh. (3) Thêm bộ giám sát nhịp tim WebSocket Ping/Pong 15s + tự phát hiện phiên Live cũ kết thúc ngầm / mở Room mới + tự nối lại ngay khi máy Windows tỉnh dậy từ chế độ Ngủ (Sleep). (4) Bổ sung nút 1 chạm [🔄 Nối lại] ngay cạnh ô @ID TikTok để làm mới kết nối tức thì mà không cần hủy/nhập lại ID!",
-    "sha256": "a04da38e1d6d0c4b5d4fed0b596f51ca20b1ba292d26f43208a814339a161994",
-    "signature": "Qi_PKaNNp_Ee_mpwSv6iCvbKWr_zGLTDdAFtWdnfc0fTP9mBj11XSaFMoKJzJUtPuONnfgPvlkNKQCL52UzxCQ==",
-    "sizeBytes": 74825762,
-    "publishedAt": "24/11/2026 12:29:02",
+    "version": "1.0.55",
+    "notes": "v1.0.55 — Tối Ưu Khẩn Cấp 0đ Quota EulerStream Khi Chưa Live & Tự Động Phục Hồi Khi Hết Lượt Ngày (4429): (1) Gỡ bỏ hoàn toàn vòng dò ngầm EulerStream mỗi 35s lúc kênh đang Offline (nguyên nhân làm 10.000 lượt/ngày bị đốt sạch khi nhiều máy Idol để mở app lúc chưa Live). (2) Thêm cổng kiểm tra Live 0đ quota trước khi mở EulerStream WebSocket: 100 máy Idol để mở app cả ngày lúc chưa bật Live chỉ tốn ĐÚNG 0 LƯỢT EulerStream, chỉ dùng đúng 1 lượt duy nhất khi Idol thực sự bật Live! (3) Khi gặp mã 4429 (hết lượt ngày EulerStream): tự đọc chính xác giờ reset từ EulerStream, báo rõ giờ mở lại trên thanh trạng thái, tự chạy dự phòng Trình duyệt ngầm 0đ quota và tự chuyển về EulerStream 0ms đúng phút reset!",
+    "sha256": "af040a10da2495a0251bcceedfad68097a188f46beb22b523ec06d1b754f77fd",
+    "signature": "p8uSm2b9Fu1unkrkRYTt_ybHdL5r4o3QAZUj0W4dgXr3V0U2WJ0VyTclopKxtsh-9I3EEMa_SO2srUyLlZbtCg==",
+    "sizeBytes": 74825811,
+    "publishedAt": "25/11/2026 11:07:23",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.54",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.54.exe",
-    "sha256": "fb9d5299f751ecb2b3c6c7f24ed2c8a613e1e684fa0fd1d67646a2ecd0218dfc",
-    "signature": "LZdsL0a0St4g1vSiVsSB2syrUlLRSZXZmUj29dPuhYmXAgCcBSg0tA-SBbuI9oxUC3xGsSzZVqnlNisGmfe2Ag==",
-    "sizeBytes": 166945772,
-    "notes": "v1.0.54 — Sửa Triệt Để Lỗi Idol Mở Live Không Tự Bắt Quà AR / Bình Luận (Tự Động Nối Live Chuẩn Xác <= 7 Giây): (1) Sửa lỗi chí mạng cắt dữ liệu 32 KB (nâng lên 512 KB + chống cache CDN TikTok) trong bộ dò Live tự động giúp nhận diện ngay lập tức khi Idol vừa bấm Phát Live (trước bị cắt đứt JSON phòng đang live 50-120 KB nên không tự nối). (2) Rút ngắn chu kỳ tự canh Live từ 18-54s xuống 7s (0đ quota) kèm lưới bảo hiểm kiểm tra ngầm EulerStream mỗi 35s chống trễ CDN TikTok & không bao giờ rơi vào ngõ cụt mất tự canh. (3) Thêm bộ giám sát nhịp tim WebSocket Ping/Pong 15s + tự phát hiện phiên Live cũ kết thúc ngầm / mở Room mới + tự nối lại ngay khi máy Windows tỉnh dậy từ chế độ Ngủ (Sleep). (4) Bổ sung nút 1 chạm [🔄 Nối lại] ngay cạnh ô @ID TikTok để làm mới kết nối tức thì mà không cần hủy/nhập lại ID!",
-    "publishedAt": "24/11/2026 12:30:06",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.54/HOLY-TEAM-Studio-Setup-1.0.54.exe"
+    "version": "1.0.55",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.55.exe",
+    "sha256": "fa3dc29ed7cb738d6e463d4d6d622cceffcd8f5d9f7b0bf0ecce14a6b8cf5cfa",
+    "signature": "sNHpEw2eAkbJrIk8b4az686RUTQlAHp7qgu5Z-FXjt5DW2daBydrHXswjsHFTs0D3uXfKno0mhrYmyGNIjBnBg==",
+    "sizeBytes": 166946425,
+    "notes": "v1.0.55 — Tối Ưu Khẩn Cấp 0đ Quota EulerStream Khi Chưa Live & Tự Động Phục Hồi Khi Hết Lượt Ngày (4429): (1) Gỡ bỏ hoàn toàn vòng dò ngầm EulerStream mỗi 35s lúc kênh đang Offline (nguyên nhân làm 10.000 lượt/ngày bị đốt sạch khi nhiều máy Idol để mở app lúc chưa Live). (2) Thêm cổng kiểm tra Live 0đ quota trước khi mở EulerStream WebSocket: 100 máy Idol để mở app cả ngày lúc chưa bật Live chỉ tốn ĐÚNG 0 LƯỢT EulerStream, chỉ dùng đúng 1 lượt duy nhất khi Idol thực sự bật Live! (3) Khi gặp mã 4429 (hết lượt ngày EulerStream): tự đọc chính xác giờ reset từ EulerStream, báo rõ giờ mở lại trên thanh trạng thái, tự chạy dự phòng Trình duyệt ngầm 0đ quota và tự chuyển về EulerStream 0ms đúng phút reset!",
+    "publishedAt": "25/11/2026 11:09:29",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.55/HOLY-TEAM-Studio-Setup-1.0.55.exe"
   },
   "store": {
     "plans": [
