@@ -1,5 +1,5 @@
 {
-  "updatedAt": "28/11/2026 16:45:13",
+  "updatedAt": "28/11/2026 16:48:13",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://sole-believes-sic-cars.trycloudflare.com",
   "ota": {
@@ -83,6 +83,11 @@
       "hwidHash": "66f907b10f4eec1bdd582546",
       "usedOnce": false,
       "token": "eyJjdXN0b21lck5hbWUiOiJqZW5ueSIsImV4cGlyZXNBdCI6MTgyNzM5NTExMywiaHdpZCI6IkhULUFERUQtMzlDRC0wRjc4IiwiaXNzdWVkQXQiOjE3OTU4NTkxMTMsImtleSI6IkhULVlSLThBOTAtREJBRCIsInRpZXIiOiJZRUFSTFkifQ==.zvuzGMpYlbQ6UwNOlM1JJhUea_ixtzNvARJAWOssWLXE_BA2abPKeQuGWR9FUSuCG4LPkvJE4DXy3vpRW8wYDw=="
+    },
+    "HT-SVIP-318A-E7A2": {
+      "revoked": false,
+      "unbound": true,
+      "usedOnce": false
     }
   },
   "hwidIndex": {
