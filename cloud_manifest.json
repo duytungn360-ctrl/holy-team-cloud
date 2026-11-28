@@ -1,7 +1,7 @@
 {
-  "updatedAt": "25/11/2026 11:09:29",
+  "updatedAt": "28/11/2026 16:44:59",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
-  "liveHubUrl": "https://shades-appointments-popularity-library.trycloudflare.com",
+  "liveHubUrl": "https://sole-believes-sic-cars.trycloudflare.com",
   "ota": {
     "version": "1.0.55",
     "notes": "v1.0.55 — Tối Ưu Khẩn Cấp 0đ Quota EulerStream Khi Chưa Live & Tự Động Phục Hồi Khi Hết Lượt Ngày (4429): (1) Gỡ bỏ hoàn toàn vòng dò ngầm EulerStream mỗi 35s lúc kênh đang Offline (nguyên nhân làm 10.000 lượt/ngày bị đốt sạch khi nhiều máy Idol để mở app lúc chưa Live). (2) Thêm cổng kiểm tra Live 0đ quota trước khi mở EulerStream WebSocket: 100 máy Idol để mở app cả ngày lúc chưa bật Live chỉ tốn ĐÚNG 0 LƯỢT EulerStream, chỉ dùng đúng 1 lượt duy nhất khi Idol thực sự bật Live! (3) Khi gặp mã 4429 (hết lượt ngày EulerStream): tự đọc chính xác giờ reset từ EulerStream, báo rõ giờ mở lại trên thanh trạng thái, tự chạy dự phòng Trình duyệt ngầm 0đ quota và tự chuyển về EulerStream 0ms đúng phút reset!",
