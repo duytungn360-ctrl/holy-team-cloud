@@ -1,14 +1,14 @@
 {
-  "updatedAt": "28/11/2026 16:49:13",
+  "updatedAt": "28/11/2026 17:08:53",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://sole-believes-sic-cars.trycloudflare.com",
   "ota": {
-    "version": "1.0.55",
-    "notes": "v1.0.55 — Tối Ưu Khẩn Cấp 0đ Quota EulerStream Khi Chưa Live & Tự Động Phục Hồi Khi Hết Lượt Ngày (4429): (1) Gỡ bỏ hoàn toàn vòng dò ngầm EulerStream mỗi 35s lúc kênh đang Offline (nguyên nhân làm 10.000 lượt/ngày bị đốt sạch khi nhiều máy Idol để mở app lúc chưa Live). (2) Thêm cổng kiểm tra Live 0đ quota trước khi mở EulerStream WebSocket: 100 máy Idol để mở app cả ngày lúc chưa bật Live chỉ tốn ĐÚNG 0 LƯỢT EulerStream, chỉ dùng đúng 1 lượt duy nhất khi Idol thực sự bật Live! (3) Khi gặp mã 4429 (hết lượt ngày EulerStream): tự đọc chính xác giờ reset từ EulerStream, báo rõ giờ mở lại trên thanh trạng thái, tự chạy dự phòng Trình duyệt ngầm 0đ quota và tự chuyển về EulerStream 0ms đúng phút reset!",
-    "sha256": "af040a10da2495a0251bcceedfad68097a188f46beb22b523ec06d1b754f77fd",
-    "signature": "p8uSm2b9Fu1unkrkRYTt_ybHdL5r4o3QAZUj0W4dgXr3V0U2WJ0VyTclopKxtsh-9I3EEMa_SO2srUyLlZbtCg==",
-    "sizeBytes": 74825811,
-    "publishedAt": "25/11/2026 11:07:23",
+    "version": "1.0.56",
+    "notes": "v1.0.56 — Sửa Triệt Để Lỗi Màn Hình Đen Camera Trên Elgato Cam Link 4K / Card Thu Hình HDMI USB3 (Windows 10/11): (1) Tắt cờ MediaFoundationD3D11VideoCapture (nguyên nhân gây khung hình đen 100% trên Elgato Cam Link 4K, AverMedia, Blackmagic, Card HDMI USB3 trên Windows). (2) Không xin chế độ 4:3 giả lập (2560x1920) trên Card HDMI / máy ảnh DSLR 16:9 — mở thẳng chuẩn gốc 1920x1080 @ 60FPS và bỏ lệnh UVC quang học gây đơ card HDMI. (3) Bổ sung bộ tự dò khung hình đen (Black-Frame Auto-Heal): nếu độ phân giải nào gửi khung hình đen sẽ tự động hạ xuống chuẩn an toàn có hình ngay lập tức, hoặc cảnh báo rõ nếu máy ảnh/dây HDMI chưa bật hay bị app khác chiếm quyền!",
+    "sha256": "396303b831415d378c342cdca10cb2559537902da9904eadfeb161855fa21656",
+    "signature": "JkaDQSDxcy85geYO9IrOQ4OWp9UkJL689GkXMpwU6I0VO5e_b-m7rXXk9GWkNaM8Y3TuIne6rjE3pFFpNO6iBw==",
+    "sizeBytes": 74827200,
+    "publishedAt": "28/11/2026 17:07:52",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.55",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.55.exe",
-    "sha256": "fa3dc29ed7cb738d6e463d4d6d622cceffcd8f5d9f7b0bf0ecce14a6b8cf5cfa",
-    "signature": "sNHpEw2eAkbJrIk8b4az686RUTQlAHp7qgu5Z-FXjt5DW2daBydrHXswjsHFTs0D3uXfKno0mhrYmyGNIjBnBg==",
-    "sizeBytes": 166946425,
-    "notes": "v1.0.55 — Tối Ưu Khẩn Cấp 0đ Quota EulerStream Khi Chưa Live & Tự Động Phục Hồi Khi Hết Lượt Ngày (4429): (1) Gỡ bỏ hoàn toàn vòng dò ngầm EulerStream mỗi 35s lúc kênh đang Offline (nguyên nhân làm 10.000 lượt/ngày bị đốt sạch khi nhiều máy Idol để mở app lúc chưa Live). (2) Thêm cổng kiểm tra Live 0đ quota trước khi mở EulerStream WebSocket: 100 máy Idol để mở app cả ngày lúc chưa bật Live chỉ tốn ĐÚNG 0 LƯỢT EulerStream, chỉ dùng đúng 1 lượt duy nhất khi Idol thực sự bật Live! (3) Khi gặp mã 4429 (hết lượt ngày EulerStream): tự đọc chính xác giờ reset từ EulerStream, báo rõ giờ mở lại trên thanh trạng thái, tự chạy dự phòng Trình duyệt ngầm 0đ quota và tự chuyển về EulerStream 0ms đúng phút reset!",
-    "publishedAt": "25/11/2026 11:09:29",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.55/HOLY-TEAM-Studio-Setup-1.0.55.exe"
+    "version": "1.0.56",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.56.exe",
+    "sha256": "66c5bd79fc19cedb0f3e0560de2aefb80b512a4241bdd64709cb11da9199c6f4",
+    "signature": "Ez5_jLvFt8LWzXy4ARAobfPpP2sWyerICeN4xc7qs8-0V4CwkdWbBz0yJ3KbGOet8Qo5xsJW5h2_bZv9hqELCQ==",
+    "sizeBytes": 166946886,
+    "notes": "v1.0.56 — Sửa Triệt Để Lỗi Màn Hình Đen Camera Trên Elgato Cam Link 4K / Card Thu Hình HDMI USB3 (Windows 10/11): (1) Tắt cờ MediaFoundationD3D11VideoCapture (nguyên nhân gây khung hình đen 100% trên Elgato Cam Link 4K, AverMedia, Blackmagic, Card HDMI USB3 trên Windows). (2) Không xin chế độ 4:3 giả lập (2560x1920) trên Card HDMI / máy ảnh DSLR 16:9 — mở thẳng chuẩn gốc 1920x1080 @ 60FPS và bỏ lệnh UVC quang học gây đơ card HDMI. (3) Bổ sung bộ tự dò khung hình đen (Black-Frame Auto-Heal): nếu độ phân giải nào gửi khung hình đen sẽ tự động hạ xuống chuẩn an toàn có hình ngay lập tức, hoặc cảnh báo rõ nếu máy ảnh/dây HDMI chưa bật hay bị app khác chiếm quyền!",
+    "publishedAt": "28/11/2026 17:08:53",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.56/HOLY-TEAM-Studio-Setup-1.0.56.exe"
   },
   "store": {
     "plans": [
