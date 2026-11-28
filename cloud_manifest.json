@@ -1,14 +1,14 @@
 {
-  "updatedAt": "28/11/2026 17:58:24",
+  "updatedAt": "28/11/2026 18:06:47",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAIUAYIq+Sb8GgSJd8SFbIuHdg7jPGeAnC6ZpzgVaSi/0=\n-----END PUBLIC KEY-----\n",
   "liveHubUrl": "https://sole-believes-sic-cars.trycloudflare.com",
   "ota": {
-    "version": "1.0.57",
-    "notes": "v1.0.57 — Bổ Sung Tông Màu & Mẫu Hot Độc Quyền [Sương Ngọc Trong Trẻo] Chuẩn Douyin Trong Veo Mờ Ảo: (1) Mẫu Hot 1-Chạm [Sương Ngọc Trong Trẻo] (ngay hàng đầu Tab Mẫu Hot): da sứ lạnh ánh ngọc trai trong veo (khử sạch vàng xanh), sương mờ Black Pro-Mist 76% bảo vệ mắt & mi sắc nét, xóa phông bokeh dịu 28%, môi hồng đào sương mờ & má phấn trong veo. (2) Bộ Lọc Màu [Sương Ngọc Trong Trẻo] (Tab Màu Sắc -> Bộ Lọc Chân Dung): áp thẳng tông màu trong mờ chuẩn ảnh mẫu (tự bật sương mờ 68% khi bấm chọn mà giữ nguyên dáng mặt/trang điểm hiện tại). (3) Nút chọn nhanh [🫧 Trong Trẻo Mờ Ảo] ngay trong Tab Màu Sắc -> Chỉnh Màu 8 Kênh.",
-    "sha256": "457ae6932336ec99cba881bd35d9f91929570d2dc3e1b308377b78506a00c2e8",
-    "signature": "F2CO8vE-JbEWALPZ22IHJmnCnQdx0iLiDVRIIXyQ6bYHv3oNWtxX9rrd2k6vtjbj-mNCyP8gxuvKHDIaca4DDg==",
-    "sizeBytes": 74840143,
-    "publishedAt": "28/11/2026 17:56:42",
+    "version": "1.0.58",
+    "notes": "Thêm màu Sữa Đào Mơ Màng (Mẫu Hot + Bộ Lọc LUT + Chỉnh Màu Nhanh 1 chạm: da kem sữa đào mịn mờ ảo, bóng tối nâu mocha êm mượt, má hồng đào & xóa phông mơ màng)",
+    "sha256": "b9a2107c570086808bd43dff0ada3b734dbacf03bd9ef9825f1e4b8a620542ed",
+    "signature": "VW7MsIt4tO-agCaXn3cmcHyp9oZdfZDNMTlptxIyEaxWQeBkBsYbvFsdQyGJ64eajHdxE86sFrrWfWHazT7jCw==",
+    "sizeBytes": 74852231,
+    "publishedAt": "28/11/2026 18:05:42",
     "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/raw/main/holy_team_ota_bundle.zip",
     "cloudSync": {
       "pushed": false,
@@ -16,14 +16,14 @@
     }
   },
   "installer": {
-    "version": "1.0.57",
-    "fileName": "HOLY-TEAM-Studio-Setup-1.0.57.exe",
-    "sha256": "0de4205a1bfbac9b7962f31e38afb1559d9459d3d440ffaefe95f909701615ed",
-    "signature": "CGM4iAmN6jdiLA2HQJMUOMkeYg0AbIM5HVFcQU917uhM-sq4guOqpLey7aa5scNo0dq0h9JwWJCvRJ4ZnHX0Dg==",
-    "sizeBytes": 166960442,
-    "notes": "v1.0.57 — Bổ Sung Tông Màu & Mẫu Hot Độc Quyền [Sương Ngọc Trong Trẻo] Chuẩn Douyin Trong Veo Mờ Ảo: (1) Mẫu Hot 1-Chạm [Sương Ngọc Trong Trẻo] (ngay hàng đầu Tab Mẫu Hot): da sứ lạnh ánh ngọc trai trong veo (khử sạch vàng xanh), sương mờ Black Pro-Mist 76% bảo vệ mắt & mi sắc nét, xóa phông bokeh dịu 28%, môi hồng đào sương mờ & má phấn trong veo. (2) Bộ Lọc Màu [Sương Ngọc Trong Trẻo] (Tab Màu Sắc -> Bộ Lọc Chân Dung): áp thẳng tông màu trong mờ chuẩn ảnh mẫu (tự bật sương mờ 68% khi bấm chọn mà giữ nguyên dáng mặt/trang điểm hiện tại). (3) Nút chọn nhanh [🫧 Trong Trẻo Mờ Ảo] ngay trong Tab Màu Sắc -> Chỉnh Màu 8 Kênh.",
-    "publishedAt": "28/11/2026 17:58:24",
-    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.57/HOLY-TEAM-Studio-Setup-1.0.57.exe"
+    "version": "1.0.58",
+    "fileName": "HOLY-TEAM-Studio-Setup-1.0.58.exe",
+    "sha256": "e03e5f5ad9e4fd01523bd673c48ef64e77113ada07a9eb4aa46dd02ac1c32c9c",
+    "signature": "JOqTadyF1YK6N7egSrlMKgMclX_N63XQKR0W447reHNY1224X-CHfjoGG-ngPuX0S2iAyaOXPhb0c1gAOuhVAQ==",
+    "sizeBytes": 166971210,
+    "notes": "Thêm màu Sữa Đào Mơ Màng (Mẫu Hot + Bộ Lọc LUT + Chỉnh Màu Nhanh 1 chạm: da kem sữa đào mịn mờ ảo, bóng tối nâu mocha êm mượt, má hồng đào & xóa phông mơ màng)",
+    "publishedAt": "28/11/2026 18:06:47",
+    "downloadUrl": "https://github.com/duytungn360-ctrl/holy-team-cloud/releases/download/v1.0.58/HOLY-TEAM-Studio-Setup-1.0.58.exe"
   },
   "store": {
     "plans": [
